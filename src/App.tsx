@@ -6,7 +6,7 @@ import { Assessment } from './pages/Assessment';
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/CU_FRSP">
       <Layout>
         <Routes>
           <Route path="/" element={<Dashboard />} />
