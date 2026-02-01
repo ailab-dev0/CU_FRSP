@@ -1,0 +1,6298 @@
+[
+  {
+    "id": "202703a3-b5c7-42a1-af50-13de305739f6",
+    "regNo": "2510101",
+    "name": "ABHINESH R S",
+    "class": "1BCOM A",
+    "gender": "MALE",
+    "email": "abhinesh.rs@bcomh.christuniversity.in"
+  },
+  {
+    "id": "fe49005d-bb84-48aa-a1c9-f97a2be489ca",
+    "regNo": "2510102",
+    "name": "ADITI PRADHAN",
+    "class": "1BCOM A",
+    "gender": "FEMALE",
+    "email": "aditi.pradhan@bcomh.christuniversity.in"
+  },
+  {
+    "id": "7f593427-255c-4712-bd8d-a7c8a18717d5",
+    "regNo": "2510103",
+    "name": "AJOE LAL",
+    "class": "1BCOM A",
+    "gender": "MALE",
+    "email": "ajoe.lal@bcomh.christuniversity.in"
+  },
+  {
+    "id": "88b32a90-5d31-42b4-b30d-025ba5d534e2",
+    "regNo": "2510104",
+    "name": "ANIRUDH GUPTA",
+    "class": "1BCOM A",
+    "gender": "MALE",
+    "email": "anirudh.gupta@bcomh.christuniversity.in"
+  },
+  {
+    "id": "c6cb4a40-adec-4b10-8fab-9813a7300408",
+    "regNo": "2510105",
+    "name": "ANN MARIA BENNY",
+    "class": "1BCOM A",
+    "gender": "FEMALE",
+    "email": "ann.benny@bcomh.christuniversity.in"
+  },
+  {
+    "id": "891e95da-45cf-41be-82d8-3e881b39c747",
+    "regNo": "2510106",
+    "name": "ANSH KERR",
+    "class": "1BCOM A",
+    "gender": "MALE",
+    "email": "ansh.kerr@bcomh.christuniversity.in"
+  },
+  {
+    "id": "822af4d0-374a-4a12-aa12-e2a657e15b2a",
+    "regNo": "2510107",
+    "name": "ANUSHKA KISHORE",
+    "class": "1BCOM A",
+    "gender": "FEMALE",
+    "email": "anushka.kishore@bcomh.christuniversity.in"
+  },
+  {
+    "id": "4f3c0cbe-c0a8-4a30-bb3c-70c64ab21081",
+    "regNo": "2510108",
+    "name": "ARHAM PARAKH",
+    "class": "1BCOM A",
+    "gender": "MALE",
+    "email": "arham.parakh@bcomh.christuniversity.in"
+  },
+  {
+    "id": "54f38861-4c21-4e18-b3f2-bf5ad0683c1d",
+    "regNo": "2510109",
+    "name": "ARUSH GARG",
+    "class": "1BCOM A",
+    "gender": "MALE",
+    "email": "arush.garg@bcomh.christuniversity.in"
+  },
+  {
+    "id": "e978831f-3a60-4825-af2a-e49e61d2df4c",
+    "regNo": "2510110",
+    "name": "AVANTIKA MITTAL",
+    "class": "1BCOM A",
+    "gender": "FEMALE",
+    "email": "avantika.mittal@bcomh.christuniversity.in"
+  },
+  {
+    "id": "c1a948e0-698d-4c5b-a456-9111588d02e7",
+    "regNo": "2510111",
+    "name": "AYAN AGARWAL",
+    "class": "1BCOM A",
+    "gender": "MALE",
+    "email": "ayan.agarwal@bcomh.christuniversity.in"
+  },
+  {
+    "id": "3a02c368-5304-444f-aaa3-9afaccc55304",
+    "regNo": "2510112",
+    "name": "AYUJ SEN GUPTA",
+    "class": "1BCOM A",
+    "gender": "MALE",
+    "email": "ayuj.gupta@bcomh.christuniversity.in"
+  },
+  {
+    "id": "31c5f94c-a41e-4ec0-88ff-68f161038abe",
+    "regNo": "2510113",
+    "name": "BHAVISHYA AGARWAL",
+    "class": "1BCOM A",
+    "gender": "MALE",
+    "email": "bhavishya.agarwal@bcomh.christuniversity.in"
+  },
+  {
+    "id": "bff45ef9-c1d6-4922-810b-7d3b777f8ba4",
+    "regNo": "2510114",
+    "name": "BHOOMIKA M",
+    "class": "1BCOM A",
+    "gender": "FEMALE",
+    "email": "bhoomika.m@bcomh.christuniversity.in"
+  },
+  {
+    "id": "92c6519a-9064-4432-9275-1854ec0bcc17",
+    "regNo": "2510115",
+    "name": "CHANDANA K L",
+    "class": "1BCOM A",
+    "gender": "FEMALE",
+    "email": "chandana.kl@bcomh.christuniversity.in"
+  },
+  {
+    "id": "3fb727a0-77de-4ef9-a87f-df809cadb98d",
+    "regNo": "2510116",
+    "name": "DAKSH GOEL",
+    "class": "1BCOM A",
+    "gender": "MALE",
+    "email": "daksh.goel@bcomh.christuniversity.in"
+  },
+  {
+    "id": "77e3e212-a1a4-4b0a-81ae-258909806f0a",
+    "regNo": "2510117",
+    "name": "DAKSHATHA S P",
+    "class": "1BCOM A",
+    "gender": "FEMALE",
+    "email": "dakshatha.sp@bcomh.christuniversity.in"
+  },
+  {
+    "id": "dae5cc66-2010-4c89-9f05-d78c7765949f",
+    "regNo": "2510118",
+    "name": "DEEKSHITH R",
+    "class": "1BCOM A",
+    "gender": "MALE",
+    "email": "deekshith.r@bcomh.christuniversity.in"
+  },
+  {
+    "id": "375df552-63a2-4855-9e12-ba406077353c",
+    "regNo": "2510119",
+    "name": "DHANUSH R S",
+    "class": "1BCOM A",
+    "gender": "MALE",
+    "email": "dhanush.rs@bcomh.christuniversity.in"
+  },
+  {
+    "id": "a2201417-d682-40ae-901f-5faeb7398f8b",
+    "regNo": "2510120",
+    "name": "DIVYAANSH ALOK TODI",
+    "class": "1BCOM A",
+    "gender": "MALE",
+    "email": "divyaansh.todi@bcomh.christuniversity.in"
+  },
+  {
+    "id": "5dcbd2b3-0294-49a8-aa82-73bae610aa9b",
+    "regNo": "2510121",
+    "name": "GAURIKA AGARWAL",
+    "class": "1BCOM A",
+    "gender": "FEMALE",
+    "email": "gaurika.agarwal@bcomh.christuniversity.in"
+  },
+  {
+    "id": "8bdbd2c6-aceb-4cc6-ad8b-60d2604e413b",
+    "regNo": "2510122",
+    "name": "HANNOCH MATHEW BINU",
+    "class": "1BCOM A",
+    "gender": "MALE",
+    "email": "hannoch.binu@bcomh.christuniversity.in"
+  },
+  {
+    "id": "71fa523d-7446-4872-9eda-667e4fac436f",
+    "regNo": "2510123",
+    "name": "HEETH LUNKAD",
+    "class": "1BCOM A",
+    "gender": "MALE",
+    "email": "heeth.lunkad@bcomh.christuniversity.in"
+  },
+  {
+    "id": "5272c7dc-747d-4a32-a644-8eba2f1074ad",
+    "regNo": "2510124",
+    "name": "ISHAAN AGARWALLA",
+    "class": "1BCOM A",
+    "gender": "MALE",
+    "email": "ishaan.agarwalla@bcomh.christuniversity.in"
+  },
+  {
+    "id": "a5cc6235-a7fc-4b71-91a9-10160995b3e2",
+    "regNo": "2510125",
+    "name": "ISHAN SARAOGI",
+    "class": "1BCOM A",
+    "gender": "MALE",
+    "email": "ishan.saraogi@bcomh.christuniversity.in"
+  },
+  {
+    "id": "621a93b1-b82d-4c40-a38f-a666ccbdcf8d",
+    "regNo": "2510126",
+    "name": "ISSAC CYRIL",
+    "class": "1BCOM A",
+    "gender": "MALE",
+    "email": "issac.cyril@bcomh.christuniversity.in"
+  },
+  {
+    "id": "e2602bbf-7f82-4273-9d5c-af442a0b5ff0",
+    "regNo": "2510127",
+    "name": "JAYANTH H",
+    "class": "1BCOM A",
+    "gender": "MALE",
+    "email": "jayanth.h@bcomh.christuniversity.in"
+  },
+  {
+    "id": "97a03bef-05d5-47fe-b884-45ad9078158e",
+    "regNo": "2510128",
+    "name": "JIGEESHA SHRIVASTAVA",
+    "class": "1BCOM A",
+    "gender": "FEMALE",
+    "email": "jigeesha.shrivastava@bcomh.christuniversity.in"
+  },
+  {
+    "id": "23470db2-227e-40f3-9236-b1f76da4c656",
+    "regNo": "2510129",
+    "name": "JOHN K JOSEPH",
+    "class": "1BCOM A",
+    "gender": "MALE",
+    "email": "john.joseph@bcomh.christuniversity.in"
+  },
+  {
+    "id": "096cc208-680e-4938-ae57-428370d8f63a",
+    "regNo": "2510130",
+    "name": "KAVYA RAO P V",
+    "class": "1BCOM A",
+    "gender": "FEMALE",
+    "email": "kavya.pv@bcomh.christuniversity.in"
+  },
+  {
+    "id": "987caf55-4cd3-4c05-a241-71aad5f58d85",
+    "regNo": "2510131",
+    "name": "KRISH HARUN",
+    "class": "1BCOM A",
+    "gender": "MALE",
+    "email": "krish.harun@bcomh.christuniversity.in"
+  },
+  {
+    "id": "2251a845-7286-4451-9424-30e85336ac83",
+    "regNo": "2510132",
+    "name": "MAHATHI S",
+    "class": "1BCOM A",
+    "gender": "FEMALE",
+    "email": "mahathi.s@bcomh.christuniversity.in"
+  },
+  {
+    "id": "1442e388-3255-4de4-9d29-dca6b1e81648",
+    "regNo": "2510133",
+    "name": "MAHI BHOTIKA",
+    "class": "1BCOM A",
+    "gender": "FEMALE",
+    "email": "mahi.bhotika@bcomh.christuniversity.in"
+  },
+  {
+    "id": "23496ed2-6a95-43c5-b8a7-4fa349e696f7",
+    "regNo": "2510134",
+    "name": "MANVI BANSAL",
+    "class": "1BCOM A",
+    "gender": "FEMALE",
+    "email": "manvi.bansal@bcomh.christuniversity.in"
+  },
+  {
+    "id": "65e51486-9d09-47db-8313-6b22717d2679",
+    "regNo": "2510135",
+    "name": "MAULI SETH",
+    "class": "1BCOM A",
+    "gender": "FEMALE",
+    "email": "mauli.seth@bcomh.christuniversity.in"
+  },
+  {
+    "id": "326e03a7-f6d6-4e1a-934e-64eab10035b7",
+    "regNo": "2510136",
+    "name": "MEENAL MAHALKA",
+    "class": "1BCOM A",
+    "gender": "FEMALE",
+    "email": "meenal.mahalka@bcomh.christuniversity.in"
+  },
+  {
+    "id": "2268f392-ea20-4b5a-ae0a-f374389c058b",
+    "regNo": "2510138",
+    "name": "MOHAK KEJRIWAL",
+    "class": "1BCOM A",
+    "gender": "MALE",
+    "email": "mohak.kejriwal@bcomh.christuniversity.in"
+  },
+  {
+    "id": "a79720a7-a4eb-4786-baf5-d2127865ddae",
+    "regNo": "2510139",
+    "name": "MOHAMED ZAYED VANTI",
+    "class": "1BCOM A",
+    "gender": "MALE",
+    "email": "mohamed.vanti@bcomh.christuniversity.in"
+  },
+  {
+    "id": "1c33fd20-fcea-4655-be19-4772e6edd483",
+    "regNo": "2510140",
+    "name": "MOHANA BOPPE",
+    "class": "1BCOM A",
+    "gender": "FEMALE",
+    "email": "mohana.boppe@bcomh.christuniversity.in"
+  },
+  {
+    "id": "5ff7afb2-3905-489f-9c3c-d6e206711f7c",
+    "regNo": "2510141",
+    "name": "NAMAN GUPTA",
+    "class": "1BCOM A",
+    "gender": "MALE",
+    "email": "naman.gupta@bcomh.christuniversity.in"
+  },
+  {
+    "id": "e5f7d998-ea19-4251-af88-6bea6f2310b6",
+    "regNo": "2510142",
+    "name": "PRATHAM RUNGTA",
+    "class": "1BCOM A",
+    "gender": "MALE",
+    "email": "pratham.rungta@bcomh.christuniversity.in"
+  },
+  {
+    "id": "bc1bacd8-5eaf-416f-9030-b48b8812086b",
+    "regNo": "2510143",
+    "name": "PRIYANSHU RANJAN OJHA",
+    "class": "1BCOM A",
+    "gender": "MALE",
+    "email": "priyanshu.ojha@bcomh.christuniversity.in"
+  },
+  {
+    "id": "6549a94b-a249-461e-a178-a4058f989003",
+    "regNo": "2510144",
+    "name": "R P SIVAPRIYA",
+    "class": "1BCOM A",
+    "gender": "FEMALE",
+    "email": "rp.sivapriya@bcomh.christuniversity.in"
+  },
+  {
+    "id": "5c7af740-ea94-4cf9-8a25-9cfa33d30d09",
+    "regNo": "2510145",
+    "name": "RASHI SONDHI",
+    "class": "1BCOM A",
+    "gender": "FEMALE",
+    "email": "rashi.sondhi@bcomh.christuniversity.in"
+  },
+  {
+    "id": "8d496185-7c2c-4525-9395-253d9c04eee0",
+    "regNo": "2510147",
+    "name": "RIDHANYASHRI A",
+    "class": "1BCOM A",
+    "gender": "FEMALE",
+    "email": "ridhanyashri.a@bcomh.christuniversity.in"
+  },
+  {
+    "id": "4e8ce188-c408-4bc9-b21b-f24218728ae7",
+    "regNo": "2510149",
+    "name": "ROSELINE D",
+    "class": "1BCOM A",
+    "gender": "FEMALE",
+    "email": "roseline.d@bcomh.christuniversity.in"
+  },
+  {
+    "id": "d62993ef-976f-43cd-ab14-ff9b5a7a4fed",
+    "regNo": "2510150",
+    "name": "ROSHAN RAJA",
+    "class": "1BCOM A",
+    "gender": "MALE",
+    "email": "roshan.raja@bcomh.christuniversity.in"
+  },
+  {
+    "id": "1553c749-6a94-4ca2-b1e2-c72bb81ff1dd",
+    "regNo": "2510151",
+    "name": "RYAN GEJOY PARAMPATH",
+    "class": "1BCOM A",
+    "gender": "MALE",
+    "email": "ryan.parampath@bcomh.christuniversity.in"
+  },
+  {
+    "id": "0e74b2cc-b29b-4d18-844c-3a2a6cfa6ff3",
+    "regNo": "2510152",
+    "name": "S S VISWESWARAN",
+    "class": "1BCOM A",
+    "gender": "MALE",
+    "email": "s.visweswaran@bcomh.christuniversity.in"
+  },
+  {
+    "id": "e8b739d4-56af-4119-b807-9a74f8e83384",
+    "regNo": "2510153",
+    "name": "SAFIYHA TAZEEM Z",
+    "class": "1BCOM A",
+    "gender": "FEMALE",
+    "email": "safiyha.z@bcomh.christuniversity.in"
+  },
+  {
+    "id": "f257df70-4313-44a4-91dd-16deb3bd5477",
+    "regNo": "2510154",
+    "name": "SAHAJ RANA",
+    "class": "1BCOM A",
+    "gender": "MALE",
+    "email": "sahaj.rana@bcomh.christuniversity.in"
+  },
+  {
+    "id": "dd8a02ef-8b94-44fc-a1b0-17aebd46fdc3",
+    "regNo": "2510155",
+    "name": "SARTHAK MALHOTRA",
+    "class": "1BCOM A",
+    "gender": "MALE",
+    "email": "sarthak.malhotra@bcomh.christuniversity.in"
+  },
+  {
+    "id": "72a809a1-ee51-4747-a5a0-db06b4293a5d",
+    "regNo": "2510156",
+    "name": "SERENE RAINA SHIJU",
+    "class": "1BCOM A",
+    "gender": "FEMALE",
+    "email": "serene.shiju@bcomh.christuniversity.in"
+  },
+  {
+    "id": "39b34348-301b-457c-911b-6a88abea3f31",
+    "regNo": "2510157",
+    "name": "SHAKTHI RUPAA M",
+    "class": "1BCOM A",
+    "gender": "FEMALE",
+    "email": "shakthi.m@bcomh.christuniversity.in"
+  },
+  {
+    "id": "b5f648ae-d28b-4794-b13a-824fb5092503",
+    "regNo": "2510158",
+    "name": "SHASHANK R",
+    "class": "1BCOM A",
+    "gender": "MALE",
+    "email": "shashank.r@bcomh.christuniversity.in"
+  },
+  {
+    "id": "69ca23c7-c3be-4307-83e9-13196dacf7d5",
+    "regNo": "2510159",
+    "name": "SHIVAM KHANDELWAL",
+    "class": "1BCOM A",
+    "gender": "MALE",
+    "email": "shivam.khandelwal@bcomh.christuniversity.in"
+  },
+  {
+    "id": "0a39c4d4-640d-4080-a203-9e06deb7cba4",
+    "regNo": "2510160",
+    "name": "SHREYA GOEL",
+    "class": "1BCOM A",
+    "gender": "FEMALE",
+    "email": "shreyagoel@bcomh.christuniversity.in"
+  },
+  {
+    "id": "9708a55b-b0c1-4da5-8826-b8f0f5608972",
+    "regNo": "2510161",
+    "name": "SIDDANTH SURESH",
+    "class": "1BCOM A",
+    "gender": "MALE",
+    "email": "siddanth.suresh@bcomh.christuniversity.in"
+  },
+  {
+    "id": "ab3e3782-e0b7-4efb-bd04-22130b416cb0",
+    "regNo": "2510162",
+    "name": "SITHU RAJESWARARAO VIBHUMAT",
+    "class": "1BCOM A",
+    "gender": "MALE",
+    "email": "sithu.vibhumat@bcomh.christuniversity.in"
+  },
+  {
+    "id": "3a0fe028-c71a-44cf-9ddf-866febabfdf1",
+    "regNo": "2510163",
+    "name": "SONIA VINCENT",
+    "class": "1BCOM A",
+    "gender": "FEMALE",
+    "email": "sonia.vincent@bcomh.christuniversity.in"
+  },
+  {
+    "id": "de086093-7e61-45ee-a148-7a240be381a3",
+    "regNo": "2510164",
+    "name": "SRADHA JAYARAJ",
+    "class": "1BCOM A",
+    "gender": "FEMALE",
+    "email": "sradha.jayaraj@bcomh.christuniversity.in"
+  },
+  {
+    "id": "431eaae8-5ae0-423e-aad4-3b66795ab131",
+    "regNo": "2510165",
+    "name": "SRINIDHIE S",
+    "class": "1BCOM A",
+    "gender": "FEMALE",
+    "email": "srinidhie.s@bcomh.christuniversity.in"
+  },
+  {
+    "id": "0b7f69c4-269e-45e1-a605-05e6d4f1f2ec",
+    "regNo": "2510166",
+    "name": "SRISHTI SHARMA",
+    "class": "1BCOM A",
+    "gender": "FEMALE",
+    "email": "srishti.sharma@bcomh.christuniversity.in"
+  },
+  {
+    "id": "1a75c5b0-fb84-4e43-a6c4-654f57df4164",
+    "regNo": "2510168",
+    "name": "SUMANA INFANTA T",
+    "class": "1BCOM A",
+    "gender": "FEMALE",
+    "email": "sumana.t@bcomh.christuniversity.in"
+  },
+  {
+    "id": "2ac433e9-3b4b-49de-b4a8-c78f556d1936",
+    "regNo": "2510169",
+    "name": "SYED SEEFATH GAZALEE",
+    "class": "1BCOM A",
+    "gender": "FEMALE",
+    "email": "syed.gazalee@bcomh.christuniversity.in"
+  },
+  {
+    "id": "0434b9a2-cb86-4e6f-9c6c-20452429b3a4",
+    "regNo": "2510170",
+    "name": "T R LASYAM",
+    "class": "1BCOM A",
+    "gender": "MALE",
+    "email": "tr.lasyam@bcomh.christuniversity.in"
+  },
+  {
+    "id": "4bddbf17-e857-4aab-a8ff-6f91bf716603",
+    "regNo": "2510171",
+    "name": "TANVI JAIN",
+    "class": "1BCOM A",
+    "gender": "FEMALE",
+    "email": "tanvi.jain@bcomh.christuniversity.in"
+  },
+  {
+    "id": "270d47d3-7988-416a-a877-26f77f5aec10",
+    "regNo": "2510172",
+    "name": "TEJAS SRIVASTAVA",
+    "class": "1BCOM A",
+    "gender": "MALE",
+    "email": "tejas.srivastava@bcomh.christuniversity.in"
+  },
+  {
+    "id": "a17ad0a4-53d1-4459-9205-22e5717a8398",
+    "regNo": "2510173",
+    "name": "V R RISHIN",
+    "class": "1BCOM A",
+    "gender": "MALE",
+    "email": "vr.rishin@bcomh.christuniversity.in"
+  },
+  {
+    "id": "81abe62c-ece8-48ae-bb79-d40a310ed15b",
+    "regNo": "2510174",
+    "name": "VIRAJ SARAF",
+    "class": "1BCOM A",
+    "gender": "MALE",
+    "email": "viraj.saraf@bcomh.christuniversity.in"
+  },
+  {
+    "id": "2d380979-0c3d-4618-bcec-619754024a6c",
+    "regNo": "2510175",
+    "name": "SARTHAK GUPTA",
+    "class": "1BCOM A",
+    "gender": "MALE",
+    "email": "sarthak.gupta@bcomh.christuniversity.in"
+  },
+  {
+    "id": "4941de36-3271-486d-9f5b-1298333111ef",
+    "regNo": "2510176",
+    "name": "PRACHI BAJAJ",
+    "class": "1BCOM A",
+    "gender": "FEMALE",
+    "email": "prachi.bajaj@bcomh.christuniversity.in"
+  },
+  {
+    "id": "4de735e2-dc36-4f12-b6eb-5f82062f8264",
+    "regNo": "2510177",
+    "name": "NEHAL KULSHRESTHA",
+    "class": "1BCOM A",
+    "gender": "FEMALE",
+    "email": "nehal.kulshrestha@bcomh.christuniversity.in"
+  },
+  {
+    "id": "a7dad63f-d2df-49f6-bc22-69b48e59c9b0",
+    "regNo": "2510178",
+    "name": "AKSHAYAA T",
+    "class": "1BCOM A",
+    "gender": "FEMALE",
+    "email": ""
+  },
+  {
+    "id": "87a05c4c-3796-4595-a7b7-10eff8c86791",
+    "regNo": "2510179",
+    "name": "KHUSHI SARIA",
+    "class": "1BCOM A",
+    "gender": "FEMALE",
+    "email": ""
+  },
+  {
+    "id": "ec6ea0b1-d42e-4472-965b-90477b776e81",
+    "regNo": "2510201",
+    "name": "ABBI NANDHAN R S",
+    "class": "1BCOM B",
+    "gender": "MALE",
+    "email": "abbi.rs@bcomh.christuniversity.in"
+  },
+  {
+    "id": "1637ca2a-0e3b-4e17-aaa6-1531f410cd49",
+    "regNo": "2510202",
+    "name": "ABHIRAM J A",
+    "class": "1BCOM B",
+    "gender": "MALE",
+    "email": "abhiram.ja@bcomh.christuniversity.in"
+  },
+  {
+    "id": "b3fa8962-1d20-4843-88a7-8792af7e2c3f",
+    "regNo": "2510203",
+    "name": "ABIGAIL SHIMRAY",
+    "class": "1BCOM B",
+    "gender": "FEMALE",
+    "email": "abigail.shimray@bcomh.christuniversity.in"
+  },
+  {
+    "id": "ef0852ce-820d-4002-9085-a37d99758831",
+    "regNo": "2510204",
+    "name": "AINA ELSA SHIJO",
+    "class": "1BCOM B",
+    "gender": "FEMALE",
+    "email": "aina.shijo@bcomh.christuniversity.in"
+  },
+  {
+    "id": "c0c3b0fe-0fba-4cc3-8efc-cc7e5e1efbe9",
+    "regNo": "2510205",
+    "name": "AKSHIT LUTHRA",
+    "class": "1BCOM B",
+    "gender": "MALE",
+    "email": "akshit.luthra@bcomh.christuniversity.in"
+  },
+  {
+    "id": "6eccdf62-041d-445a-885b-09ad3c2e12bf",
+    "regNo": "2510206",
+    "name": "AKSHITA BAGARIA",
+    "class": "1BCOM B",
+    "gender": "FEMALE",
+    "email": "akshita.bagaria@bcomh.christuniversity.in"
+  },
+  {
+    "id": "5ddad458-066b-4afb-b17d-484201382071",
+    "regNo": "2510207",
+    "name": "AMIRTHAVARSHINI S",
+    "class": "1BCOM B",
+    "gender": "FEMALE",
+    "email": "amirthavarshini.s@bcomh.christuniversity.in"
+  },
+  {
+    "id": "a8ef6df4-bb07-4b54-8bce-2c49bf1fd52f",
+    "regNo": "2510208",
+    "name": "ANANYA SANTOSH",
+    "class": "1BCOM B",
+    "gender": "FEMALE",
+    "email": "ananya.santosh@bcomh.christuniversity.in"
+  },
+  {
+    "id": "f6a5e71e-6681-404a-a737-40cb8c60be55",
+    "regNo": "2510209",
+    "name": "ANIRUDDH R",
+    "class": "1BCOM B",
+    "gender": "MALE",
+    "email": "aniruddh.r@bcomh.christuniversity.in"
+  },
+  {
+    "id": "f35c5de2-1134-458f-a3e8-579d54eaf546",
+    "regNo": "2510210",
+    "name": "ANN MARIA SANTHOSH",
+    "class": "1BCOM B",
+    "gender": "FEMALE",
+    "email": "ann.santhosh@bcomh.christuniversity.in"
+  },
+  {
+    "id": "7afed0e6-df3b-4832-be5a-ead729ce7e4e",
+    "regNo": "2510211",
+    "name": "ARHAM JAIN",
+    "class": "1BCOM B",
+    "gender": "MALE",
+    "email": "arham.jain@bcomh.christuniversity.in"
+  },
+  {
+    "id": "07a7f830-32a1-46dc-abef-a0cbba596d48",
+    "regNo": "2510212",
+    "name": "ARNAV MITTAL",
+    "class": "1BCOM B",
+    "gender": "MALE",
+    "email": "arnav.mittal@bcomh.christuniversity.in"
+  },
+  {
+    "id": "0895b4d3-5d4c-4710-94af-229c77e8fa1b",
+    "regNo": "2510213",
+    "name": "ARYAN MOHTA",
+    "class": "1BCOM B",
+    "gender": "MALE",
+    "email": "aryan.mohta@bcomh.christuniversity.in"
+  },
+  {
+    "id": "c0cccbed-35aa-4994-9d1a-c2b61bee6cf8",
+    "regNo": "2510214",
+    "name": "BHARATH S",
+    "class": "1BCOM B",
+    "gender": "MALE",
+    "email": "bharath.s@bcomh.christuniversity.in"
+  },
+  {
+    "id": "5207dd7f-1749-4946-a9df-3cb4df38bf46",
+    "regNo": "2510215",
+    "name": "BHAVIKA AGGARWAL",
+    "class": "1BCOM B",
+    "gender": "FEMALE",
+    "email": "bhavika.aggarwal@bcomh.christuniversity.in"
+  },
+  {
+    "id": "d7823ed6-9e29-467f-a6c1-0c0b3b0b965f",
+    "regNo": "2510216",
+    "name": "BHAWESH TODI",
+    "class": "1BCOM B",
+    "gender": "MALE",
+    "email": "bhawesh.todi@bcomh.christuniversity.in"
+  },
+  {
+    "id": "775bc6d9-1f43-485c-ba72-8da058f8ed1e",
+    "regNo": "2510217",
+    "name": "CICILIA ZACHARIA",
+    "class": "1BCOM B",
+    "gender": "FEMALE",
+    "email": "cicilia.zacharia@bcomh.christuniversity.in"
+  },
+  {
+    "id": "c85bb5a0-b210-4738-a5ea-e41c0538ad31",
+    "regNo": "2510218",
+    "name": "DAKSHIL JAIN",
+    "class": "1BCOM B",
+    "gender": "MALE",
+    "email": "dakshil.jain@bcomh.christuniversity.in"
+  },
+  {
+    "id": "1ac9544a-6e67-40ad-862c-eceb55878484",
+    "regNo": "2510219",
+    "name": "DANG THI LAN PHUONG",
+    "class": "1BCOM B",
+    "gender": "FEMALE",
+    "email": "dang.phuong@bcomh.christuniversity.in"
+  },
+  {
+    "id": "c1a7daee-ac25-47b1-b5d5-d47c359328e4",
+    "regNo": "2510220",
+    "name": "DEEKSHA BHARAT",
+    "class": "1BCOM B",
+    "gender": "FEMALE",
+    "email": "deeksha.bharat@bcomh.christuniversity.in"
+  },
+  {
+    "id": "f51758e7-aee0-47a5-8c90-d8e0856c25c4",
+    "regNo": "2510221",
+    "name": "DEEKSHITHA R",
+    "class": "1BCOM B",
+    "gender": "FEMALE",
+    "email": "deekshitha.r@bcomh.christuniversity.in"
+  },
+  {
+    "id": "21f5804b-d645-4dd4-891e-69159e75dbb6",
+    "regNo": "2510222",
+    "name": "DEVANG GARODIA",
+    "class": "1BCOM B",
+    "gender": "MALE",
+    "email": "devang.garodia@bcomh.christuniversity.in"
+  },
+  {
+    "id": "3d8bbe38-6423-49cd-a800-b4e968ceac2b",
+    "regNo": "2510223",
+    "name": "DIVYASRI K",
+    "class": "1BCOM B",
+    "gender": "FEMALE",
+    "email": "divyasri.k@bcomh.christuniversity.in"
+  },
+  {
+    "id": "fe82e909-7e9c-4db2-a9c9-63ec32a49bad",
+    "regNo": "2510224",
+    "name": "G APOORVA",
+    "class": "1BCOM B",
+    "gender": "FEMALE",
+    "email": "g.apoorva@bcomh.christuniversity.in"
+  },
+  {
+    "id": "ae662bd6-aa33-4d25-a909-551819707ffa",
+    "regNo": "2510225",
+    "name": "GAPPANNA M B",
+    "class": "1BCOM B",
+    "gender": "MALE",
+    "email": "gappanna.b@bcomh.christuniversity.in"
+  },
+  {
+    "id": "589e23fa-c67b-4a84-8c01-d87163ef13a1",
+    "regNo": "2510226",
+    "name": "HARDIK GUPTA",
+    "class": "1BCOM B",
+    "gender": "MALE",
+    "email": "hardik.gupta@bcomh.christuniversity.in"
+  },
+  {
+    "id": "b1918a26-78c5-4b8b-86a2-fbb7010c22e7",
+    "regNo": "2510227",
+    "name": "HARSH DARUKA",
+    "class": "1BCOM B",
+    "gender": "MALE",
+    "email": "harsh.daruka@bcomh.christuniversity.in"
+  },
+  {
+    "id": "fcccf159-230a-485e-a70a-4f2721fafd2a",
+    "regNo": "2510228",
+    "name": "HIMANSHU MUKESH GOLCHHA",
+    "class": "1BCOM B",
+    "gender": "MALE",
+    "email": "himanshu.golchha@bcomh.christuniversity.in"
+  },
+  {
+    "id": "b6611142-894b-49c2-bfaf-2f331a64e5c5",
+    "regNo": "2510229",
+    "name": "ISAAC GEORGE DENNISE",
+    "class": "1BCOM B",
+    "gender": "MALE",
+    "email": "isaac.dennise@bcomh.christuniversity.in"
+  },
+  {
+    "id": "0e52535c-c7b3-4296-9907-405fbd2d8f09",
+    "regNo": "2510230",
+    "name": "JANYAA V REDDY",
+    "class": "1BCOM B",
+    "gender": "FEMALE",
+    "email": "janyaa.reddy@bcomh.christuniversity.in"
+  },
+  {
+    "id": "a3a1410b-5232-4d08-b94e-ec9760b26743",
+    "regNo": "2510231",
+    "name": "KESHAV KEDIA",
+    "class": "1BCOM B",
+    "gender": "MALE",
+    "email": "keshav.kedia@bcomh.christuniversity.in"
+  },
+  {
+    "id": "b3496cbc-e8a3-49d8-b3f3-11dacf8a913d",
+    "regNo": "2510232",
+    "name": "KESHAV SAXENA",
+    "class": "1BCOM B",
+    "gender": "MALE",
+    "email": "keshav.saxena@bcomh.christuniversity.in"
+  },
+  {
+    "id": "a1482988-3c67-43af-a655-fc5febe768df",
+    "regNo": "2510233",
+    "name": "KYRA PATNI",
+    "class": "1BCOM B",
+    "gender": "FEMALE",
+    "email": "kyra.patni@bcomh.christuniversity.in"
+  },
+  {
+    "id": "f358ed0b-890b-492a-8654-bafaf8055e5f",
+    "regNo": "2510234",
+    "name": "LUCKY AGARWAL",
+    "class": "1BCOM B",
+    "gender": "MALE",
+    "email": "lucky.agarwal@bcomh.christuniversity.in"
+  },
+  {
+    "id": "c6a9cf3e-835f-4510-8a64-f4aa94724546",
+    "regNo": "2510235",
+    "name": "M A LEKSHMI NARAYANAN",
+    "class": "1BCOM B",
+    "gender": "MALE",
+    "email": "lekshmi.narayanan@bcomh.christuniversity.in"
+  },
+  {
+    "id": "ac8e3811-6c9c-42a5-9f0a-68c3179f2f05",
+    "regNo": "2510236",
+    "name": "M GREESHMITHA",
+    "class": "1BCOM B",
+    "gender": "FEMALE",
+    "email": "m.greeshmitha@bcomh.christuniversity.in"
+  },
+  {
+    "id": "07bff0a1-a2fb-4b29-a912-2bb627e52571",
+    "regNo": "2510237",
+    "name": "MAHI PODDAR",
+    "class": "1BCOM B",
+    "gender": "FEMALE",
+    "email": "mahi.poddar@bcomh.christuniversity.in"
+  },
+  {
+    "id": "231ecd90-ed2e-4c6c-acaf-6b21ef91eafe",
+    "regNo": "2510238",
+    "name": "MAITREYI BALASUBRAMANIAN",
+    "class": "1BCOM B",
+    "gender": "FEMALE",
+    "email": "maitreyi.balasubramanian@bcomh.christuniversity.in"
+  },
+  {
+    "id": "4d8d5688-245d-450f-b50c-82767f3deebe",
+    "regNo": "2510239",
+    "name": "MANYA",
+    "class": "1BCOM B",
+    "gender": "FEMALE",
+    "email": "manya@bcomh.christuniversity.in"
+  },
+  {
+    "id": "04f7a380-540d-4097-bc33-3051fbe4c99d",
+    "regNo": "2510240",
+    "name": "MARIAM AMBER",
+    "class": "1BCOM B",
+    "gender": "FEMALE",
+    "email": "mariam.amber@bcomh.christuniversity.in"
+  },
+  {
+    "id": "74d1e839-3499-40a3-a763-ed1a004c4e74",
+    "regNo": "2510241",
+    "name": "MATRANSH CHAUHAN",
+    "class": "1BCOM B",
+    "gender": "MALE",
+    "email": "matransh.chauhan@bcomh.christuniversity.in"
+  },
+  {
+    "id": "b6b8878a-aede-4b94-969e-de7bd7bd784d",
+    "regNo": "2510242",
+    "name": "MITHRA S D",
+    "class": "1BCOM B",
+    "gender": "FEMALE",
+    "email": "mithra.sd@bcomh.christuniversity.in"
+  },
+  {
+    "id": "8cb59e28-a3be-4e37-b7ec-edce6b838e6a",
+    "regNo": "2510243",
+    "name": "NAISHA AGARWAL",
+    "class": "1BCOM B",
+    "gender": "FEMALE",
+    "email": "naisha.agarwal@bcomh.christuniversity.in"
+  },
+  {
+    "id": "f40d51ed-5727-4798-a1c6-16ce9e4c24fb",
+    "regNo": "2510244",
+    "name": "NEEV SACHDEVA",
+    "class": "1BCOM B",
+    "gender": "MALE",
+    "email": "neev.sachdeva@bcomh.christuniversity.in"
+  },
+  {
+    "id": "204ca89f-4aa3-42ce-a79e-474bc1bfa409",
+    "regNo": "2510245",
+    "name": "NIDHI S",
+    "class": "1BCOM B",
+    "gender": "FEMALE",
+    "email": "nidhi.s@bcomh.christuniversity.in"
+  },
+  {
+    "id": "82384bd5-8630-4a13-86fc-077e0026d850",
+    "regNo": "2510246",
+    "name": "NIKHIL SIDDAPPA GUDENNAVAR",
+    "class": "1BCOM B",
+    "gender": "MALE",
+    "email": "nikhil.gudennavar@bcomh.christuniversity.in"
+  },
+  {
+    "id": "7af71f76-e9bd-46df-833e-0bee3a6545c1",
+    "regNo": "2510247",
+    "name": "NIKHITH S BUSHAN",
+    "class": "1BCOM B",
+    "gender": "MALE",
+    "email": "nikhith.bushan@bcomh.christuniversity.in"
+  },
+  {
+    "id": "829b498f-cbb8-42d7-8b5c-ebb9796b82f9",
+    "regNo": "2510248",
+    "name": "PRASIDDHI S PRAKASH",
+    "class": "1BCOM B",
+    "gender": "FEMALE",
+    "email": "prasiddhi.prakash@bcomh.christuniversity.in"
+  },
+  {
+    "id": "9ca5a422-ea26-4de4-b69e-c8d1971228fc",
+    "regNo": "2510249",
+    "name": "RAGHAV PRABURAM",
+    "class": "1BCOM B",
+    "gender": "MALE",
+    "email": "raghav.praburam@bcomh.christuniversity.in"
+  },
+  {
+    "id": "7d300e32-299e-4e05-ab8c-6acd54ab17c6",
+    "regNo": "2510250",
+    "name": "RASHIKA JAIN",
+    "class": "1BCOM B",
+    "gender": "FEMALE",
+    "email": "rashika.jain@bcomh.christuniversity.in"
+  },
+  {
+    "id": "b2e6018a-ba7a-47ea-aac7-062cf475847a",
+    "regNo": "2510251",
+    "name": "RISHAB KEVLANI",
+    "class": "1BCOM B",
+    "gender": "MALE",
+    "email": "rishab.kevlani@bcomh.christuniversity.in"
+  },
+  {
+    "id": "fdbc7433-1195-48f9-98f2-90e4cba28cc4",
+    "regNo": "2510252",
+    "name": "RISHIKA VINOD DAMANI",
+    "class": "1BCOM B",
+    "gender": "FEMALE",
+    "email": "rishika.damani@bcomh.christuniversity.in"
+  },
+  {
+    "id": "f352908e-acd2-423c-91a2-306c09211082",
+    "regNo": "2510253",
+    "name": "RITHIK N",
+    "class": "1BCOM B",
+    "gender": "MALE",
+    "email": "rithik.n@bcomh.christuniversity.in"
+  },
+  {
+    "id": "6635ae0f-121b-4e05-97ed-3772704e3c47",
+    "regNo": "2510254",
+    "name": "RON SUBIN",
+    "class": "1BCOM B",
+    "gender": "MALE",
+    "email": "ron.subin@bcomh.christuniversity.in"
+  },
+  {
+    "id": "3ebb091d-07c6-4cc8-922e-ba7b154d41df",
+    "regNo": "2510255",
+    "name": "RUHAAN UPENDRA SHANBHAG",
+    "class": "1BCOM B",
+    "gender": "MALE",
+    "email": "ruhaan.shanbhag@bcomh.christuniversity.in"
+  },
+  {
+    "id": "bf8052a0-3ce8-4291-a18c-486edd2510ff",
+    "regNo": "2510256",
+    "name": "SABASTINE SANJAY JAMBHULKAR",
+    "class": "1BCOM B",
+    "gender": "MALE",
+    "email": "sabastine.jambhulkar@bcomh.christuniversity.in"
+  },
+  {
+    "id": "c526a010-3ed7-4200-b791-96d302494da7",
+    "regNo": "2510257",
+    "name": "SAI VISHWA T",
+    "class": "1BCOM B",
+    "gender": "MALE",
+    "email": "sai.t@bcomh.christuniversity.in"
+  },
+  {
+    "id": "269ae099-9491-4d77-912c-f850a1e340bb",
+    "regNo": "2510258",
+    "name": "SAIKRISHNA K B",
+    "class": "1BCOM B",
+    "gender": "MALE",
+    "email": "saikrishna.kb@bcomh.christuniversity.in"
+  },
+  {
+    "id": "4f228bac-5092-4455-b5d1-81bda084ef83",
+    "regNo": "2510259",
+    "name": "SANCIA SAJI PULIKAN",
+    "class": "1BCOM B",
+    "gender": "FEMALE",
+    "email": "sancia.pulikan@bcomh.christuniversity.in"
+  },
+  {
+    "id": "d68246ec-860c-4d0d-b860-7e887f685e87",
+    "regNo": "2510260",
+    "name": "SARVESH S",
+    "class": "1BCOM B",
+    "gender": "MALE",
+    "email": "sarvesh.s@bcomh.christuniversity.in"
+  },
+  {
+    "id": "5c805d86-35ed-4e52-9d5e-38fe8f16cce7",
+    "regNo": "2510261",
+    "name": "SHIVANI SENTHIL KUMAR",
+    "class": "1BCOM B",
+    "gender": "FEMALE",
+    "email": "shivani.kumar@bcomh.christuniversity.in"
+  },
+  {
+    "id": "d305011b-3219-4b34-ae33-e9a2f6ef7174",
+    "regNo": "2510262",
+    "name": "SHREYAS S",
+    "class": "1BCOM B",
+    "gender": "MALE",
+    "email": "shreyas.s@bcomh.christuniversity.in"
+  },
+  {
+    "id": "77288936-48b9-420d-adec-48b32f825546",
+    "regNo": "2510263",
+    "name": "SHUBH KHATTRY",
+    "class": "1BCOM B",
+    "gender": "MALE",
+    "email": "shubh.khattry@bcomh.christuniversity.in"
+  },
+  {
+    "id": "54c103b4-c082-4485-841f-a66b076b37c4",
+    "regNo": "2510264",
+    "name": "SHYAM PRAJAPAT MAHAVEER PRASAD",
+    "class": "1BCOM B",
+    "gender": "MALE",
+    "email": "shyam.prasad@bcomh.christuniversity.in"
+  },
+  {
+    "id": "26c7c911-f356-41b7-a10a-771afc452576",
+    "regNo": "2510265",
+    "name": "SRUTHI PRATHAP",
+    "class": "1BCOM B",
+    "gender": "FEMALE",
+    "email": "sruthi.prathap@bcomh.christuniversity.in"
+  },
+  {
+    "id": "5b09cda6-49e9-441d-ac03-4709c84986e8",
+    "regNo": "2510266",
+    "name": "STALIN B MATHEWS",
+    "class": "1BCOM B",
+    "gender": "MALE",
+    "email": "stalin.mathews@bcomh.christuniversity.in"
+  },
+  {
+    "id": "a46c80e2-1897-442b-8f96-65b6cc6b8fbf",
+    "regNo": "2510268",
+    "name": "TAMANNA",
+    "class": "1BCOM B",
+    "gender": "FEMALE",
+    "email": "tamanna@bcomh.christuniversity.in"
+  },
+  {
+    "id": "c324c53b-a231-4c10-bcf6-537199f1e8cc",
+    "regNo": "2510269",
+    "name": "TANISHQA ARORA",
+    "class": "1BCOM B",
+    "gender": "FEMALE",
+    "email": "tanishqa.arora@bcomh.christuniversity.in"
+  },
+  {
+    "id": "aade0440-dfa7-48b2-ae3b-59ca1933745b",
+    "regNo": "2510270",
+    "name": "TANUJ PATEL",
+    "class": "1BCOM B",
+    "gender": "MALE",
+    "email": "tanuj.patel@bcomh.christuniversity.in"
+  },
+  {
+    "id": "d68e01ff-a2da-4247-b281-4412f92b75ac",
+    "regNo": "2510271",
+    "name": "V YAZHINI",
+    "class": "1BCOM B",
+    "gender": "FEMALE",
+    "email": "v.yazhini@bcomh.christuniversity.in"
+  },
+  {
+    "id": "584ad6e9-38bb-47d8-95e6-d03ccc63c600",
+    "regNo": "2510272",
+    "name": "VARSHA M",
+    "class": "1BCOM B",
+    "gender": "MALE",
+    "email": "varsha.m@bcomh.christuniversity.in"
+  },
+  {
+    "id": "3301f325-82ef-457b-8828-dd40f26a0e99",
+    "regNo": "2510273",
+    "name": "VIJETA ILANGO",
+    "class": "1BCOM B",
+    "gender": "FEMALE",
+    "email": "vijeta.ilango@bcomh.christuniversity.in"
+  },
+  {
+    "id": "d9cb19ff-acd1-48dc-a0b7-52b27a37373e",
+    "regNo": "2510274",
+    "name": "VRIDHI P MEHTA",
+    "class": "1BCOM B",
+    "gender": "FEMALE",
+    "email": "vridhi.mehta@bcomh.christuniversity.in"
+  },
+  {
+    "id": "52084d41-6384-464a-9016-7c9a31ba6e7b",
+    "regNo": "2510275",
+    "name": "PURBASHA ROY",
+    "class": "1BCOM B",
+    "gender": "FEMALE",
+    "email": "purbasha.roy@bcomh.christuniversity.in"
+  },
+  {
+    "id": "d3fe004b-3a41-4d00-8575-9b8fdd9dd9b5",
+    "regNo": "2510276",
+    "name": "CHINMAY G",
+    "class": "1BCOM B",
+    "gender": "MALE",
+    "email": "chinmay.g@bcomh.christuniversity.in"
+  },
+  {
+    "id": "859aae79-22ef-454a-81bb-a3bdb4c1087c",
+    "regNo": "2510277",
+    "name": "MANYA GERA",
+    "class": "1BCOM B",
+    "gender": "FEMALE",
+    "email": "manya.gera@bcomh.christuniversity.in"
+  },
+  {
+    "id": "ffb50bbc-b322-4d80-b905-c43787d4d378",
+    "regNo": "2510301",
+    "name": "AARON GINISH",
+    "class": "1BCOM C",
+    "gender": "MALE",
+    "email": "aaron.ginish@bcomh.christuniversity.in"
+  },
+  {
+    "id": "d3aaeffa-11f0-4729-acd0-e2528719b2d8",
+    "regNo": "2510302",
+    "name": "AATHISH M",
+    "class": "1BCOM C",
+    "gender": "MALE",
+    "email": "aathish.m@bcomh.christuniversity.in"
+  },
+  {
+    "id": "5af9fd28-3cd9-41c3-b317-f9ef220dedff",
+    "regNo": "2510303",
+    "name": "ABHISHEK S",
+    "class": "1BCOM C",
+    "gender": "MALE",
+    "email": "abhishek.s@bcomh.christuniversity.in"
+  },
+  {
+    "id": "53be63c5-f46d-47ca-aae2-24cfd156c1c3",
+    "regNo": "2510304",
+    "name": "AISHWARYA M",
+    "class": "1BCOM C",
+    "gender": "FEMALE",
+    "email": "aishwarya.m@bcomh.christuniversity.in"
+  },
+  {
+    "id": "49f7c99b-703c-421c-afa9-0e6efa2ebbec",
+    "regNo": "2510305",
+    "name": "AISHWARYA PANDA",
+    "class": "1BCOM C",
+    "gender": "FEMALE",
+    "email": "aishwarya.panda@bcomh.christuniversity.in"
+  },
+  {
+    "id": "b8d3f96a-28c7-42a0-b515-290b55344eac",
+    "regNo": "2510306",
+    "name": "ANANYA RAMESH",
+    "class": "1BCOM C",
+    "gender": "FEMALE",
+    "email": "ananya.ramesh@bcomh.christuniversity.in"
+  },
+  {
+    "id": "2b7c7f3e-1066-4ac8-853b-fe9274a4fe2a",
+    "regNo": "2510307",
+    "name": "ANANYA VIJ",
+    "class": "1BCOM C",
+    "gender": "FEMALE",
+    "email": "ananya.vij@bcomh.christuniversity.in"
+  },
+  {
+    "id": "45a3d7b7-ebbe-4999-a417-a739a3a081f0",
+    "regNo": "2510308",
+    "name": "ANIKET MUKHERJEE",
+    "class": "1BCOM C",
+    "gender": "MALE",
+    "email": "aniket.mukherjee@bcomh.christuniversity.in"
+  },
+  {
+    "id": "a9689689-d7ed-4d67-b7a8-478eb7cd81ca",
+    "regNo": "2510309",
+    "name": "ANVIT MITTAL",
+    "class": "1BCOM C",
+    "gender": "MALE",
+    "email": "anvit.mittal@bcomh.christuniversity.in"
+  },
+  {
+    "id": "9537e0c9-25c3-4506-8890-8e547d5d4475",
+    "regNo": "2510310",
+    "name": "APOORVA B GUDENNAVAR",
+    "class": "1BCOM C",
+    "gender": "FEMALE",
+    "email": "apoorva.gudennavar@bcomh.christuniversity.in"
+  },
+  {
+    "id": "16b58493-9f6d-4b9a-b4e7-e4079c3eb1fd",
+    "regNo": "2510311",
+    "name": "ARCHIT JAIN",
+    "class": "1BCOM C",
+    "gender": "MALE",
+    "email": "archit.jain@bcomh.christuniversity.in"
+  },
+  {
+    "id": "85db4c7e-7862-4a9a-80c6-8ba0c0bca945",
+    "regNo": "2510312",
+    "name": "ARPIT MISHRA",
+    "class": "1BCOM C",
+    "gender": "MALE",
+    "email": "arpit.mishra@bcomh.christuniversity.in"
+  },
+  {
+    "id": "8c7bac03-b6e6-4456-b29b-f8fa05961ca7",
+    "regNo": "2510313",
+    "name": "ARSHIA NARANG",
+    "class": "1BCOM C",
+    "gender": "FEMALE",
+    "email": "arshia.narang@bcomh.christuniversity.in"
+  },
+  {
+    "id": "65995b72-9cb5-4bd1-b78b-1d306b92daaf",
+    "regNo": "2510314",
+    "name": "BAVANYA S",
+    "class": "1BCOM C",
+    "gender": "FEMALE",
+    "email": "bavanya.s@bcomh.christuniversity.in"
+  },
+  {
+    "id": "2c7cc857-524f-4396-b97e-30e8c503ea76",
+    "regNo": "2510315",
+    "name": "BHAAVISH S PATHANGE",
+    "class": "1BCOM C",
+    "gender": "MALE",
+    "email": "bhaavish.pathange@bcomh.christuniversity.in"
+  },
+  {
+    "id": "de8b906e-ab3b-4a2c-b2bf-d1a9bc3ea71c",
+    "regNo": "2510316",
+    "name": "BHOOMI MAHESH CHINNASWAMY",
+    "class": "1BCOM C",
+    "gender": "FEMALE",
+    "email": "bhoomi.chinnaswamy@bcomh.christuniversity.in"
+  },
+  {
+    "id": "387edd96-8525-4236-9daf-1d9ef7dd443d",
+    "regNo": "2510317",
+    "name": "CHARUKA P",
+    "class": "1BCOM C",
+    "gender": "FEMALE",
+    "email": "charuka.p@bcomh.christuniversity.in"
+  },
+  {
+    "id": "0f6f339b-6f3e-497f-a7f8-3d17713e29ea",
+    "regNo": "2510318",
+    "name": "D A SRINETHRA",
+    "class": "1BCOM C",
+    "gender": "FEMALE",
+    "email": "da.srinethra@bcomh.christuniversity.in"
+  },
+  {
+    "id": "48b99dcc-f627-4271-8675-25152bf9fbd4",
+    "regNo": "2510319",
+    "name": "DAKSH BATRA",
+    "class": "1BCOM C",
+    "gender": "MALE",
+    "email": "daksh.batra@bcomh.christuniversity.in"
+  },
+  {
+    "id": "8c65b3a9-6dfb-4b7e-916a-73247fa8bc47",
+    "regNo": "2510320",
+    "name": "DANIEL KOSHY",
+    "class": "1BCOM C",
+    "gender": "MALE",
+    "email": "daniel.koshy@bcomh.christuniversity.in"
+  },
+  {
+    "id": "377951c1-7975-43e8-b5a3-724bdb4dee1d",
+    "regNo": "2510321",
+    "name": "DEBARCHAN BANERJEE",
+    "class": "1BCOM C",
+    "gender": "MALE",
+    "email": "debarchan.banerjee@bcomh.christuniversity.in"
+  },
+  {
+    "id": "0a1ff496-dd97-444a-968c-742826024da7",
+    "regNo": "2510322",
+    "name": "DEEPTHI D",
+    "class": "1BCOM C",
+    "gender": "FEMALE",
+    "email": "deepthi.d@bcomh.christuniversity.in"
+  },
+  {
+    "id": "23476947-a858-4298-873f-2a49055760aa",
+    "regNo": "2510323",
+    "name": "EDEN WILLIAMS",
+    "class": "1BCOM C",
+    "gender": "FEMALE",
+    "email": "eden.williams@bcomh.christuniversity.in"
+  },
+  {
+    "id": "644cc804-a83f-4b21-b5fb-acd34b8721d2",
+    "regNo": "2510324",
+    "name": "GAGAN M",
+    "class": "1BCOM C",
+    "gender": "MALE",
+    "email": "gagan.m@bcomh.christuniversity.in"
+  },
+  {
+    "id": "7273b828-b821-4e50-a64f-5267fe6ae14c",
+    "regNo": "2510325",
+    "name": "GAURANSH KUMAR SHARMA",
+    "class": "1BCOM C",
+    "gender": "MALE",
+    "email": "gauransh.sharma@bcomh.christuniversity.in"
+  },
+  {
+    "id": "eb0cea5d-cff9-49a3-95fa-3688d8b44b8b",
+    "regNo": "2510326",
+    "name": "GUHAN G",
+    "class": "1BCOM C",
+    "gender": "MALE",
+    "email": "guhan.g@bcomh.christuniversity.in"
+  },
+  {
+    "id": "004507fc-bf86-4d91-ad42-1ba62b4a0bfe",
+    "regNo": "2510327",
+    "name": "HARDIK SINGHVI",
+    "class": "1BCOM C",
+    "gender": "MALE",
+    "email": "hardik.singhvi@bcomh.christuniversity.in"
+  },
+  {
+    "id": "79e5a3cb-0dc5-4419-ba6e-92b70b6122e6",
+    "regNo": "2510328",
+    "name": "HARSHIT SARIN",
+    "class": "1BCOM C",
+    "gender": "MALE",
+    "email": "harshit.sarin@bcomh.christuniversity.in"
+  },
+  {
+    "id": "5120258c-df90-4c79-adc6-b988e3cc7b97",
+    "regNo": "2510329",
+    "name": "ISHAN JOSHI",
+    "class": "1BCOM C",
+    "gender": "MALE",
+    "email": "ishan.joshi@bcomh.christuniversity.in"
+  },
+  {
+    "id": "0bd3909e-7e14-4c8f-9bf1-02f54dbc2891",
+    "regNo": "2510330",
+    "name": "JYOTISANA ADHIKARIMAYUM",
+    "class": "1BCOM C",
+    "gender": "MALE",
+    "email": "jyotisana.adhikarimayum@bcomh.christuniversity.in"
+  },
+  {
+    "id": "e49efa6c-bed5-4d8f-beb0-4108eb373189",
+    "regNo": "2510331",
+    "name": "K G AJAI PRANAV",
+    "class": "1BCOM C",
+    "gender": "MALE",
+    "email": "ajai.pranav@bcomh.christuniversity.in"
+  },
+  {
+    "id": "ea3c9236-ebe5-4e4b-8aa5-80e322ab6b17",
+    "regNo": "2510332",
+    "name": "KABIR KANJHLIA",
+    "class": "1BCOM C",
+    "gender": "MALE",
+    "email": "kabir.kanjhlia@bcomh.christuniversity.in"
+  },
+  {
+    "id": "b737fc3b-c4cd-49fe-b8e3-185a3ae96952",
+    "regNo": "2510333",
+    "name": "KAMALISRI K",
+    "class": "1BCOM C",
+    "gender": "FEMALE",
+    "email": "kamalisri.k@bcomh.christuniversity.in"
+  },
+  {
+    "id": "a7eca18e-959b-4fb3-8d2d-f2e46e4471cf",
+    "regNo": "2510334",
+    "name": "KANAN AGARWALLA",
+    "class": "1BCOM C",
+    "gender": "FEMALE",
+    "email": "kanan.agarwalla@bcomh.christuniversity.in"
+  },
+  {
+    "id": "2e6d4a4f-9059-4cbf-bdd3-c31fa1950724",
+    "regNo": "2510335",
+    "name": "KHANISHKAA V",
+    "class": "1BCOM C",
+    "gender": "FEMALE",
+    "email": "khanishkaa.v@bcomh.christuniversity.in"
+  },
+  {
+    "id": "553cee07-3ab1-47cd-b9cd-e8d476f73a5c",
+    "regNo": "2510336",
+    "name": "KRISHIL KAUSHAL KUMAR PATNI",
+    "class": "1BCOM C",
+    "gender": "MALE",
+    "email": "krishil.patni@bcomh.christuniversity.in"
+  },
+  {
+    "id": "c14c4a7b-35ae-441b-960d-384498dbff2d",
+    "regNo": "2510338",
+    "name": "KUVAM KUMAR KASHYAP",
+    "class": "1BCOM C",
+    "gender": "MALE",
+    "email": "kuvam.kashyap@bcomh.christuniversity.in"
+  },
+  {
+    "id": "223f21cd-9b87-4014-ad56-d01183fa35e0",
+    "regNo": "2510339",
+    "name": "MADONNA CAREN BENNO",
+    "class": "1BCOM C",
+    "gender": "FEMALE",
+    "email": "madonna.benno@bcomh.christuniversity.in"
+  },
+  {
+    "id": "aa93e9e5-6d97-4ec5-8365-594a4f47048d",
+    "regNo": "2510340",
+    "name": "MAHEK",
+    "class": "1BCOM C",
+    "gender": "FEMALE",
+    "email": "mahek@bcomh.christuniversity.in"
+  },
+  {
+    "id": "361c1af3-c68c-4e78-a14c-8436d657c4db",
+    "regNo": "2510341",
+    "name": "MANAS KONDILYA",
+    "class": "1BCOM C",
+    "gender": "MALE",
+    "email": "manas.kondilya@bcomh.christuniversity.in"
+  },
+  {
+    "id": "f5cafab2-218c-47af-95f0-36708a9692af",
+    "regNo": "2510342",
+    "name": "MANYA K GOWDA",
+    "class": "1BCOM C",
+    "gender": "FEMALE",
+    "email": "manya.gowda@bcomh.christuniversity.in"
+  },
+  {
+    "id": "8077c03a-8d0e-4c90-9814-7eb4f800818b",
+    "regNo": "2510343",
+    "name": "MAYERA GUPTA",
+    "class": "1BCOM C",
+    "gender": "FEMALE",
+    "email": "mayera.gupta@bcomh.christuniversity.in"
+  },
+  {
+    "id": "7334c846-4a88-4ad9-91af-7a326d1c6cb1",
+    "regNo": "2510344",
+    "name": "MERLIN BIJU ANDREWS",
+    "class": "1BCOM C",
+    "gender": "FEMALE",
+    "email": "merlin.andrews@bcomh.christuniversity.in"
+  },
+  {
+    "id": "468d9228-a33a-4b58-9d74-0868d3e0abb5",
+    "regNo": "2510345",
+    "name": "MOKSH JITESH BOHRA",
+    "class": "1BCOM C",
+    "gender": "MALE",
+    "email": "moksh.bohra@bcomh.christuniversity.in"
+  },
+  {
+    "id": "62980b5b-cda0-4d18-a07e-062d862f860b",
+    "regNo": "2510346",
+    "name": "NALIN MAHESHWARI",
+    "class": "1BCOM C",
+    "gender": "MALE",
+    "email": "nalin.maheshwari@bcomh.christuniversity.in"
+  },
+  {
+    "id": "e62b686c-0be3-4f1e-b677-3293ff4c0781",
+    "regNo": "2510347",
+    "name": "P B FLEMI",
+    "class": "1BCOM C",
+    "gender": "FEMALE",
+    "email": "pb.flemi@bcomh.christuniversity.in"
+  },
+  {
+    "id": "40bf6c1a-bd6d-4813-a323-674c490eaa55",
+    "regNo": "2510348",
+    "name": "PARIDHI LATH",
+    "class": "1BCOM C",
+    "gender": "FEMALE",
+    "email": "paridhi.lath@bcomh.christuniversity.in"
+  },
+  {
+    "id": "857df88a-7959-41fd-b7ff-b05ebd0becda",
+    "regNo": "2510349",
+    "name": "PL NAGAPPAN",
+    "class": "1BCOM C",
+    "gender": "MALE",
+    "email": "pl.nagappan@bcomh.christuniversity.in"
+  },
+  {
+    "id": "f906b274-7c12-4d02-be2c-827996de80e8",
+    "regNo": "2510350",
+    "name": "PRAJJWAL SINGH",
+    "class": "1BCOM C",
+    "gender": "MALE",
+    "email": "prajjwal.singh@bcomh.christuniversity.in"
+  },
+  {
+    "id": "744504cf-076f-437b-bc64-3f560b5acc25",
+    "regNo": "2510473",
+    "name": "VISHVAAS SUNIL KASHIKAR",
+    "class": "1BCOM D",
+    "gender": "MALE",
+    "email": "vishvaas.kashikar@bcomh.christuniversity.in"
+  },
+  {
+    "id": "e7c6f0b7-e0fa-4bbc-98a7-e4cc36d003c8",
+    "regNo": "2510474",
+    "name": "VIVAAN GUPTA",
+    "class": "1BCOM D",
+    "gender": "MALE",
+    "email": "vivaangupta@bcomh.christuniversity.in"
+  },
+  {
+    "id": "428804fd-42a6-4999-9c41-787c2664bf3f",
+    "regNo": "2510475",
+    "name": "HARSH MITTAL",
+    "class": "1BCOM D",
+    "gender": "MALE",
+    "email": "harsh.mittal@bcomh.christuniversity.in"
+  },
+  {
+    "id": "28d92e9f-08fb-49c6-a4d7-4c80606e5441",
+    "regNo": "2510476",
+    "name": "HANA MALICK",
+    "class": "1BCOM D",
+    "gender": "FEMALE",
+    "email": "hana.malick@bcomh.christuniversity.in"
+  },
+  {
+    "id": "58262bf0-fa12-4326-8a57-96ae0aab6376",
+    "regNo": "2510501",
+    "name": "AAKASH DINESH KUMAR",
+    "class": "1BCOM E",
+    "gender": "MALE",
+    "email": "aakash.kumar@bcomh.christuniversity.in"
+  },
+  {
+    "id": "e573dc0b-5b0a-4f3e-8751-b4ac7db62612",
+    "regNo": "2510502",
+    "name": "AASHNA GARG",
+    "class": "1BCOM E",
+    "gender": "FEMALE",
+    "email": "aashna.garg@bcomh.christuniversity.in"
+  },
+  {
+    "id": "97dbcc28-755e-49ce-acbb-e8f9c24e6d56",
+    "regNo": "2510503",
+    "name": "ABHIJEET SRIVASTAVA",
+    "class": "1BCOM E",
+    "gender": "MALE",
+    "email": "abhijeet.srivastava@bcomh.christuniversity.in"
+  },
+  {
+    "id": "ba2accc7-e82a-4495-a5ab-0ba3eba05b67",
+    "regNo": "2510504",
+    "name": "ADITYA ANURAG",
+    "class": "1BCOM E",
+    "gender": "MALE",
+    "email": "aditya.anurag@bcomh.christuniversity.in"
+  },
+  {
+    "id": "956ab954-f9ce-4cd4-aa4b-dcaafc1d8b91",
+    "regNo": "2510505",
+    "name": "AHAAN AGARWAL",
+    "class": "1BCOM E",
+    "gender": "MALE",
+    "email": "ahaan.agarwal@bcomh.christuniversity.in"
+  },
+  {
+    "id": "3433f559-59a7-4b6f-a023-d4c1ed9ce551",
+    "regNo": "2510506",
+    "name": "AISHWARYA SURESH",
+    "class": "1BCOM E",
+    "gender": "FEMALE",
+    "email": "aishwarya.suresh@bcomh.christuniversity.in"
+  },
+  {
+    "id": "22117957-f6aa-4f0c-b933-eec21c15e6c9",
+    "regNo": "2510507",
+    "name": "AMOGH PAVAN S P",
+    "class": "1BCOM E",
+    "gender": "MALE",
+    "email": "amogh.sp@bcomh.christuniversity.in"
+  },
+  {
+    "id": "0fffe50f-2f6b-4dfc-bdc2-6ddac513a157",
+    "regNo": "2510508",
+    "name": "ANANDITA SINHA",
+    "class": "1BCOM E",
+    "gender": "FEMALE",
+    "email": "anandita.sinha@bcomh.christuniversity.in"
+  },
+  {
+    "id": "ca61ec96-d460-40a5-b485-8da318b6df40",
+    "regNo": "2510509",
+    "name": "ANSH AGARWAL",
+    "class": "1BCOM E",
+    "gender": "MALE",
+    "email": "ansh.agarwal@bcomh.christuniversity.in"
+  },
+  {
+    "id": "7953448e-920a-4832-8e10-f108c8bb3cbd",
+    "regNo": "2510510",
+    "name": "ANUSHA DINESH KUNDER",
+    "class": "1BCOM E",
+    "gender": "FEMALE",
+    "email": "anusha.kunder@bcomh.christuniversity.in"
+  },
+  {
+    "id": "85c56e94-4793-4f95-8982-67a24433f867",
+    "regNo": "2510511",
+    "name": "ANUSHA MALLA",
+    "class": "1BCOM E",
+    "gender": "FEMALE",
+    "email": "anusha.malla@bcomh.christuniversity.in"
+  },
+  {
+    "id": "e30422d7-17bf-4f9c-97ae-c7ebb8242718",
+    "regNo": "2510512",
+    "name": "ARIHANT DIDWANIA",
+    "class": "1BCOM E",
+    "gender": "MALE",
+    "email": "arihant.didwania@bcomh.christuniversity.in"
+  },
+  {
+    "id": "de23837d-ea4c-42c0-a291-d4898eb765e8",
+    "regNo": "2510513",
+    "name": "AYUSH KUMAR SINHA",
+    "class": "1BCOM E",
+    "gender": "MALE",
+    "email": "ayush.sinha@bcomh.christuniversity.in"
+  },
+  {
+    "id": "2a7c7e2a-f10f-436f-9701-8fe0a4740994",
+    "regNo": "2510514",
+    "name": "AYUSH SINGH",
+    "class": "1BCOM E",
+    "gender": "MALE",
+    "email": "ayush.singh@bcomh.christuniversity.in"
+  },
+  {
+    "id": "8ce43349-a7e3-4669-8018-7f78fd5f3fec",
+    "regNo": "2510515",
+    "name": "BHAVESH NIKHIL JHAVERI",
+    "class": "1BCOM E",
+    "gender": "MALE",
+    "email": "bhavesh.jhaveri@bcomh.christuniversity.in"
+  },
+  {
+    "id": "1f6e4868-ed70-4b8b-8622-6933dd104294",
+    "regNo": "2510516",
+    "name": "CHESHTA MAROTHIA",
+    "class": "1BCOM E",
+    "gender": "FEMALE",
+    "email": "cheshta.marothia@bcomh.christuniversity.in"
+  },
+  {
+    "id": "172e8c84-92c0-4774-9522-d8a7bb9d57fd",
+    "regNo": "2510517",
+    "name": "CHRISTY ELIZABETH ROBY",
+    "class": "1BCOM E",
+    "gender": "FEMALE",
+    "email": "christy.roby@bcomh.christuniversity.in"
+  },
+  {
+    "id": "8fd607f5-d351-4ab7-b464-55f78dee8a52",
+    "regNo": "2510518",
+    "name": "DEEKSHA PRIYA S",
+    "class": "1BCOM E",
+    "gender": "FEMALE",
+    "email": "deeksha.s@bcomh.christuniversity.in"
+  },
+  {
+    "id": "8d0904c7-7085-4da0-aa33-1ed6e0b8afd5",
+    "regNo": "2510519",
+    "name": "DEVIKA M K",
+    "class": "1BCOM E",
+    "gender": "FEMALE",
+    "email": "devika.mk@bcomh.christuniversity.in"
+  },
+  {
+    "id": "9eec0bdb-940f-4bc6-b1cd-c3426730207c",
+    "regNo": "2510520",
+    "name": "DHANANJAY SHIVAJI MANDAVKAR",
+    "class": "1BCOM E",
+    "gender": "MALE",
+    "email": "dhananjay.mandavkar@bcomh.christuniversity.in"
+  },
+  {
+    "id": "054fb392-5f2f-44fb-8567-9de326b3a919",
+    "regNo": "2510521",
+    "name": "DHARSHANA S",
+    "class": "1BCOM E",
+    "gender": "FEMALE",
+    "email": "dharshana.s@bcomh.christuniversity.in"
+  },
+  {
+    "id": "f49ff1ea-24d6-48ca-aac9-1372217e3206",
+    "regNo": "2510522",
+    "name": "DHRUTHI RAO S",
+    "class": "1BCOM E",
+    "gender": "FEMALE",
+    "email": "dhruthi.s@bcomh.christuniversity.in"
+  },
+  {
+    "id": "9c5a547f-7dc6-4cdc-9e87-c6a6e7855041",
+    "regNo": "2510523",
+    "name": "DISHA TRIPATHI",
+    "class": "1BCOM E",
+    "gender": "FEMALE",
+    "email": "disha.tripathi@bcomh.christuniversity.in"
+  },
+  {
+    "id": "c7f2b78f-7029-4554-9845-fabd37c1f511",
+    "regNo": "2510524",
+    "name": "DITI CHADHA",
+    "class": "1BCOM E",
+    "gender": "FEMALE",
+    "email": "diti.chadha@bcomh.christuniversity.in"
+  },
+  {
+    "id": "eeb60697-1f9d-4826-809a-863046daae5c",
+    "regNo": "2510525",
+    "name": "DIVYANSHU SAHAI",
+    "class": "1BCOM E",
+    "gender": "MALE",
+    "email": "divyanshu.sahai@bcomh.christuniversity.in"
+  },
+  {
+    "id": "587c53f2-c6db-4c70-b90e-85cee54d711f",
+    "regNo": "2510351",
+    "name": "PRAVEK NAIR",
+    "class": "1BCOM C",
+    "gender": "MALE",
+    "email": "pravek.nair@bcomh.christuniversity.in"
+  },
+  {
+    "id": "8cc68c4e-a714-44e1-a0a7-6668ba41c3f6",
+    "regNo": "2510352",
+    "name": "PURVIDH BAGRI",
+    "class": "1BCOM C",
+    "gender": "MALE",
+    "email": "purvidh.bagri@bcomh.christuniversity.in"
+  },
+  {
+    "id": "2968ff81-f849-4b20-bbbb-a663fe172238",
+    "regNo": "2510353",
+    "name": "PURVIKA M N",
+    "class": "1BCOM C",
+    "gender": "FEMALE",
+    "email": "purvika.mn@bcomh.christuniversity.in"
+  },
+  {
+    "id": "249d6097-d08a-4fac-92ed-40b7954ebca6",
+    "regNo": "2510354",
+    "name": "R SANJANA",
+    "class": "1BCOM C",
+    "gender": "FEMALE",
+    "email": "rsanjana@bcomh.christuniversity.in"
+  },
+  {
+    "id": "a320234b-4443-42af-b071-d13a169c8c25",
+    "regNo": "2510355",
+    "name": "RIA JAIN",
+    "class": "1BCOM C",
+    "gender": "FEMALE",
+    "email": "ria.jain@bcomh.christuniversity.in"
+  },
+  {
+    "id": "ed7318fa-7f1c-4ad0-8c21-15888ec6c149",
+    "regNo": "2510356",
+    "name": "RITWIK SONTHALIA",
+    "class": "1BCOM C",
+    "gender": "MALE",
+    "email": "ritwik.sonthalia@bcomh.christuniversity.in"
+  },
+  {
+    "id": "28d5213e-2d5f-483c-a2d6-74d84b34530e",
+    "regNo": "2510357",
+    "name": "RIYA BHARAT WAIKAR",
+    "class": "1BCOM C",
+    "gender": "FEMALE",
+    "email": "riya.waikar@bcomh.christuniversity.in"
+  },
+  {
+    "id": "5eeba636-5695-40b3-ad25-2ae3ffff8020",
+    "regNo": "2510358",
+    "name": "ROHAN VINOD KUMAR UNNITHAAN",
+    "class": "1BCOM C",
+    "gender": "MALE",
+    "email": "rohan.unnithaan@bcomh.christuniversity.in"
+  },
+  {
+    "id": "95518c64-d048-495f-95f1-8b1e26c1ebc7",
+    "regNo": "2510359",
+    "name": "SAADANA S",
+    "class": "1BCOM C",
+    "gender": "FEMALE",
+    "email": "saadana.s@bcomh.christuniversity.in"
+  },
+  {
+    "id": "bb49e885-4f83-4cec-9bf7-e75e7a36b29d",
+    "regNo": "2510360",
+    "name": "SANKARSH M G",
+    "class": "1BCOM C",
+    "gender": "MALE",
+    "email": "sankarsh.mg@bcomh.christuniversity.in"
+  },
+  {
+    "id": "d379faf7-6e56-4725-afac-2fd631061a6b",
+    "regNo": "2510361",
+    "name": "SEBASTIAN ANTONY K",
+    "class": "1BCOM C",
+    "gender": "MALE",
+    "email": "sebastian.k@bcomh.christuniversity.in"
+  },
+  {
+    "id": "d23392b8-4ca5-44ed-823b-74a1a190f365",
+    "regNo": "2510362",
+    "name": "SHAUN MANU",
+    "class": "1BCOM C",
+    "gender": "MALE",
+    "email": "shaun.manu@bcomh.christuniversity.in"
+  },
+  {
+    "id": "9fccbb01-3fde-4b3f-9081-4251c7a1dedf",
+    "regNo": "2510363",
+    "name": "SHEMA SAIRA THARAKAN",
+    "class": "1BCOM C",
+    "gender": "FEMALE",
+    "email": "shema.tharakan@bcomh.christuniversity.in"
+  },
+  {
+    "id": "41472f4f-8580-4654-8176-7d82d0dab5ba",
+    "regNo": "2510364",
+    "name": "SHREYA KHEMKA",
+    "class": "1BCOM C",
+    "gender": "FEMALE",
+    "email": "shreya.khemka@bcomh.christuniversity.in"
+  },
+  {
+    "id": "b3578e8c-2a2b-4ef8-af5d-16dbce9a2cca",
+    "regNo": "2510365",
+    "name": "SOHAM ANAND",
+    "class": "1BCOM C",
+    "gender": "MALE",
+    "email": "soham.anand@bcomh.christuniversity.in"
+  },
+  {
+    "id": "1472d299-a46e-4873-9b94-45307a2e619b",
+    "regNo": "2510366",
+    "name": "SRIHARI L",
+    "class": "1BCOM C",
+    "gender": "MALE",
+    "email": "srihari.l@bcomh.christuniversity.in"
+  },
+  {
+    "id": "02cd58ee-3bbe-4d12-a7d9-ff9acb857654",
+    "regNo": "2510367",
+    "name": "SUNDHEEP ANGALAMMAN VENKATACHALAM RAMESH",
+    "class": "1BCOM C",
+    "gender": "MALE",
+    "email": "sundheep.ramesh@bcomh.christuniversity.in"
+  },
+  {
+    "id": "e99eb4ad-ae32-43e3-acb5-4484c9c5e81e",
+    "regNo": "2510368",
+    "name": "SWAPNIL ROY",
+    "class": "1BCOM C",
+    "gender": "MALE",
+    "email": "swapnil.roy@bcomh.christuniversity.in"
+  },
+  {
+    "id": "fe449338-05b2-40dc-a02c-fd72e5e0fc74",
+    "regNo": "2510369",
+    "name": "TEJAS C N",
+    "class": "1BCOM C",
+    "gender": "MALE",
+    "email": "tejas.cn@bcomh.christuniversity.in"
+  },
+  {
+    "id": "1be54b9e-94e7-4b8e-af69-f4a49e336661",
+    "regNo": "2510370",
+    "name": "TIA GUPTA",
+    "class": "1BCOM C",
+    "gender": "FEMALE",
+    "email": "tia.gupta@bcomh.christuniversity.in"
+  },
+  {
+    "id": "44bfd51b-5ad3-4b8c-ad47-fd68dd63fd69",
+    "regNo": "2510371",
+    "name": "UDIT HANDE",
+    "class": "1BCOM C",
+    "gender": "MALE",
+    "email": "udit.hande@bcomh.christuniversity.in"
+  },
+  {
+    "id": "b39633c4-46e3-4d9c-b63b-f81aca618bb2",
+    "regNo": "2510372",
+    "name": "VARNITA D",
+    "class": "1BCOM C",
+    "gender": "FEMALE",
+    "email": "varnita.d@bcomh.christuniversity.in"
+  },
+  {
+    "id": "fd6cd19d-7546-45b0-94f1-531ed4dd3e6e",
+    "regNo": "2510373",
+    "name": "VIDHUMIKA V",
+    "class": "1BCOM C",
+    "gender": "FEMALE",
+    "email": "vidhumika.v@bcomh.christuniversity.in"
+  },
+  {
+    "id": "eb26694d-8cce-4095-9270-8fadb4d39327",
+    "regNo": "2510374",
+    "name": "SHIVENDU KUMAR SINGH",
+    "class": "1BCOM C",
+    "gender": "MALE",
+    "email": "shivendukumar.singh@bcomh.christuniversity.in"
+  },
+  {
+    "id": "2dd5f449-1d72-40f4-9c35-e40eefb63eb2",
+    "regNo": "2510375",
+    "name": "HARSHA VARDHAN U",
+    "class": "1BCOM C",
+    "gender": "MALE",
+    "email": "harshavardhan.u@bcomh.christuniversity.in"
+  },
+  {
+    "id": "9f3c6c69-fb53-4075-afe2-ef990289b5ec",
+    "regNo": "2510376",
+    "name": "ZAYAN QAISER",
+    "class": "1BCOM C",
+    "gender": "MALE",
+    "email": "zayan.qaiser@bcomh.christuniversity.in"
+  },
+  {
+    "id": "4434f93b-1d95-4512-8ed2-804143a18843",
+    "regNo": "2510377",
+    "name": "CHETHAN P",
+    "class": "1BCOM C",
+    "gender": "MALE",
+    "email": "chethan.p@bcomh.christuniversity.in"
+  },
+  {
+    "id": "5be35af4-93cd-4141-b1c8-e7e1ded09e77",
+    "regNo": "2510378",
+    "name": "SAMAIRA MAHAJAN",
+    "class": "1BCOM C",
+    "gender": "FEMALE",
+    "email": "samaira.mahajan@bcomh.christuniversity.in"
+  },
+  {
+    "id": "71907e00-89fc-412a-a448-2e5eef982f5d",
+    "regNo": "2510401",
+    "name": "A YOGITA JAIN",
+    "class": "1BCOM D",
+    "gender": "FEMALE",
+    "email": "yogita.jain@bcomh.christuniversity.in"
+  },
+  {
+    "id": "974c18a5-91fe-4174-8cee-420b52c500a9",
+    "regNo": "2510402",
+    "name": "ABINAYA P S",
+    "class": "1BCOM D",
+    "gender": "FEMALE",
+    "email": "abinaya.ps@bcomh.christuniversity.in"
+  },
+  {
+    "id": "a7faac86-b32c-4028-b6cc-69019aaa0578",
+    "regNo": "2510403",
+    "name": "ADITYA BHATIA",
+    "class": "1BCOM D",
+    "gender": "MALE",
+    "email": "aditya.bhatia@bcomh.christuniversity.in"
+  },
+  {
+    "id": "e4d963fc-0281-47ad-8188-12c09a60b29a",
+    "regNo": "2510404",
+    "name": "ADITYA JOSHI",
+    "class": "1BCOM D",
+    "gender": "MALE",
+    "email": "aditya.joshi@bcomh.christuniversity.in"
+  },
+  {
+    "id": "566ecf30-6d18-406b-8c62-3b8239ca4c3d",
+    "regNo": "2510405",
+    "name": "ADITYA SINGH",
+    "class": "1BCOM D",
+    "gender": "MALE",
+    "email": "aditya.singh@bcomh.christuniversity.in"
+  },
+  {
+    "id": "4e78c390-d5de-49e9-a7f6-de8785ff6ebc",
+    "regNo": "2510406",
+    "name": "ANANSH PATIL",
+    "class": "1BCOM D",
+    "gender": "MALE",
+    "email": "anansh.patil@bcomh.christuniversity.in"
+  },
+  {
+    "id": "85f18cc0-eef2-437c-bc19-da1da32304b0",
+    "regNo": "2510407",
+    "name": "ANNLIN SUNNY",
+    "class": "1BCOM D",
+    "gender": "MALE",
+    "email": "annlin.sunny@bcomh.christuniversity.in"
+  },
+  {
+    "id": "0db3862b-7208-45fa-bc8d-40a31e072f66",
+    "regNo": "2510408",
+    "name": "ANUSHKA PODDAR",
+    "class": "1BCOM D",
+    "gender": "FEMALE",
+    "email": "anushka.poddar@bcomh.christuniversity.in"
+  },
+  {
+    "id": "3bb8d512-beb5-4e9c-954d-7ee9f29b6f82",
+    "regNo": "2510409",
+    "name": "ARADHYA CHACHRA",
+    "class": "1BCOM D",
+    "gender": "MALE",
+    "email": "aradhya.chachra@bcomh.christuniversity.in"
+  },
+  {
+    "id": "92fd1df3-b7e9-40f9-a8fb-afb60c28c288",
+    "regNo": "2510410",
+    "name": "ARJUN SEKHAR",
+    "class": "1BCOM D",
+    "gender": "MALE",
+    "email": "arjun.sekhar@bcomh.christuniversity.in"
+  },
+  {
+    "id": "d354b5e0-12f2-452a-b1fe-2ee4c6b38f44",
+    "regNo": "2510411",
+    "name": "ARSH MATHUR",
+    "class": "1BCOM D",
+    "gender": "MALE",
+    "email": "arsh.mathur@bcomh.christuniversity.in"
+  },
+  {
+    "id": "0959e276-983a-4538-81d9-ff00eb6995da",
+    "regNo": "2510412",
+    "name": "ARUSHI MITTAL",
+    "class": "1BCOM D",
+    "gender": "FEMALE",
+    "email": "arushi.mittal@bcomh.christuniversity.in"
+  },
+  {
+    "id": "ac753615-340c-4c88-8934-11c8753b9858",
+    "regNo": "2510413",
+    "name": "AVNI KANSAL",
+    "class": "1BCOM D",
+    "gender": "FEMALE",
+    "email": "avni.kansal@bcomh.christuniversity.in"
+  },
+  {
+    "id": "e013779a-9c91-4297-b993-9df585ba2416",
+    "regNo": "2510414",
+    "name": "B S VISHNU",
+    "class": "1BCOM D",
+    "gender": "MALE",
+    "email": "bs.vishnu@bcomh.christuniversity.in"
+  },
+  {
+    "id": "5fc5c6a8-8498-4d1b-9d6c-8a4d1bcad641",
+    "regNo": "2510415",
+    "name": "BHARANIDHARAN T H",
+    "class": "1BCOM D",
+    "gender": "MALE",
+    "email": "bharanidharan.h@bcomh.christuniversity.in"
+  },
+  {
+    "id": "00699b20-f701-4fcc-b423-cd8c46b4796a",
+    "regNo": "2510416",
+    "name": "BHAVYA JAIN",
+    "class": "1BCOM D",
+    "gender": "MALE",
+    "email": "bhavya.jain@bcomh.christuniversity.in"
+  },
+  {
+    "id": "9a02662d-f8ed-4780-a100-ead282ca48e3",
+    "regNo": "2510417",
+    "name": "CHETHANA PASUMARTHY",
+    "class": "1BCOM D",
+    "gender": "FEMALE",
+    "email": "chethana.pasumarthy@bcomh.christuniversity.in"
+  },
+  {
+    "id": "dbfc542a-b3ee-4fcd-9eeb-ab44868822de",
+    "regNo": "2510418",
+    "name": "DEV BUDHRAJA",
+    "class": "1BCOM D",
+    "gender": "MALE",
+    "email": "dev.budhraja@bcomh.christuniversity.in"
+  },
+  {
+    "id": "d42288c6-85c9-4024-987f-ef56919146e2",
+    "regNo": "2510419",
+    "name": "DIYA SINGH",
+    "class": "1BCOM D",
+    "gender": "FEMALE",
+    "email": "diya.singh@bcomh.christuniversity.in"
+  },
+  {
+    "id": "685ffb3f-0ff6-47c3-a498-95943fa2f60d",
+    "regNo": "2510420",
+    "name": "GAURAVI KUMARI TOMAR",
+    "class": "1BCOM D",
+    "gender": "FEMALE",
+    "email": "gauravi.tomar@bcomh.christuniversity.in"
+  },
+  {
+    "id": "f8f35cc2-09e9-4fb6-8630-e01f02d3484b",
+    "regNo": "2510421",
+    "name": "HANNA ELIZABETH BIJU",
+    "class": "1BCOM D",
+    "gender": "FEMALE",
+    "email": "hanna.biju@bcomh.christuniversity.in"
+  },
+  {
+    "id": "35ab7b02-1c75-47e1-a0e8-370fea1a7e8c",
+    "regNo": "2510422",
+    "name": "HANSHIKA S G",
+    "class": "1BCOM D",
+    "gender": "FEMALE",
+    "email": "hanshika.sg@bcomh.christuniversity.in"
+  },
+  {
+    "id": "ffe94a08-fbc6-416c-9f37-5944df77d9bb",
+    "regNo": "2510423",
+    "name": "HARSHITH VELU",
+    "class": "1BCOM D",
+    "gender": "MALE",
+    "email": "harshith.velu@bcomh.christuniversity.in"
+  },
+  {
+    "id": "d795fd96-c7a5-4809-aea8-aacd92707a07",
+    "regNo": "2510424",
+    "name": "HEMANG SATNALIKA",
+    "class": "1BCOM D",
+    "gender": "MALE",
+    "email": "hemang.satnalika@bcomh.christuniversity.in"
+  },
+  {
+    "id": "8c9920cb-1154-42f2-b973-724a72e574b2",
+    "regNo": "2510425",
+    "name": "HEMANTH M",
+    "class": "1BCOM D",
+    "gender": "MALE",
+    "email": "hemanthm@bcomh.christuniversity.in"
+  },
+  {
+    "id": "c69b7a37-beea-4fd0-8a91-4b72880b38f4",
+    "regNo": "2510426",
+    "name": "JOHN RICHARD",
+    "class": "1BCOM D",
+    "gender": "MALE",
+    "email": "john.richard@bcomh.christuniversity.in"
+  },
+  {
+    "id": "e6c412ff-e796-497e-9a51-fde930b0cbeb",
+    "regNo": "2510427",
+    "name": "KAMUNI ARYAN",
+    "class": "1BCOM D",
+    "gender": "MALE",
+    "email": "kamuni.aryan@bcomh.christuniversity.in"
+  },
+  {
+    "id": "eea4798a-6f83-44e2-bba5-e259260f45f9",
+    "regNo": "2510428",
+    "name": "KEERTHANA MADHUSUDANAN",
+    "class": "1BCOM D",
+    "gender": "FEMALE",
+    "email": "keerthana.madhusudanan@bcomh.christuniversity.in"
+  },
+  {
+    "id": "a8bb594c-5a18-4b50-8b4e-e472fbddd88a",
+    "regNo": "2510429",
+    "name": "KHAMAL S K",
+    "class": "1BCOM D",
+    "gender": "MALE",
+    "email": "khamal.sk@bcomh.christuniversity.in"
+  },
+  {
+    "id": "36c60fc1-70ac-48a3-80f0-c9be64feefa2",
+    "regNo": "2510430",
+    "name": "KHUSH BAHETI",
+    "class": "1BCOM D",
+    "gender": "MALE",
+    "email": "khush.baheti@bcomh.christuniversity.in"
+  },
+  {
+    "id": "eee7bc7f-f30d-41ea-9044-b803ea257020",
+    "regNo": "2510431",
+    "name": "KHUSHI MANOTH",
+    "class": "1BCOM D",
+    "gender": "FEMALE",
+    "email": "khushi.manoth@bcomh.christuniversity.in"
+  },
+  {
+    "id": "d9078115-4e4f-4437-b010-cd18f2dce052",
+    "regNo": "2510432",
+    "name": "KRISHNA KAKARLA",
+    "class": "1BCOM D",
+    "gender": "MALE",
+    "email": "krishna.kakarla@bcomh.christuniversity.in"
+  },
+  {
+    "id": "b0283523-32a6-43e1-bd43-66771cc3bfc7",
+    "regNo": "2510433",
+    "name": "LAKSHMI NARASIMHAN N",
+    "class": "1BCOM D",
+    "gender": "MALE",
+    "email": "lakshmi.n@bcomh.christuniversity.in"
+  },
+  {
+    "id": "b1591152-2cd1-47d0-9341-321dcaa23539",
+    "regNo": "2510434",
+    "name": "LAVANYA BHAT",
+    "class": "1BCOM D",
+    "gender": "FEMALE",
+    "email": "lavanya.bhat@bcomh.christuniversity.in"
+  },
+  {
+    "id": "7425fdba-ab0d-4521-b12e-19577acaa4aa",
+    "regNo": "2510435",
+    "name": "LIYA LATHEEF",
+    "class": "1BCOM D",
+    "gender": "FEMALE",
+    "email": "liya.latheef@bcomh.christuniversity.in"
+  },
+  {
+    "id": "e5b3497a-5608-4705-946d-10fb964306e3",
+    "regNo": "2510436",
+    "name": "M CHAYA SARVESWARI",
+    "class": "1BCOM D",
+    "gender": "FEMALE",
+    "email": "m.sarveswari@bcomh.christuniversity.in"
+  },
+  {
+    "id": "3a53358a-caa9-4173-b4b3-eb9aa72b384a",
+    "regNo": "2510437",
+    "name": "MAHITA KIRAN",
+    "class": "1BCOM D",
+    "gender": "FEMALE",
+    "email": "mahita.kiran@bcomh.christuniversity.in"
+  },
+  {
+    "id": "eeb30043-7b0d-4d01-823d-13930963c6e6",
+    "regNo": "2510438",
+    "name": "MAITREYI MANJUNATH",
+    "class": "1BCOM D",
+    "gender": "FEMALE",
+    "email": "maitreyi.manjunath@bcomh.christuniversity.in"
+  },
+  {
+    "id": "21824717-8902-436b-b71e-5f730cb190cf",
+    "regNo": "2510439",
+    "name": "MANASVI NANDA SREENIVASAN",
+    "class": "1BCOM D",
+    "gender": "FEMALE",
+    "email": "manasvi.sreenivasan@bcomh.christuniversity.in"
+  },
+  {
+    "id": "1bba6a0f-ab9a-4f0a-a92c-8e14785216e9",
+    "regNo": "2510440",
+    "name": "MAYANK KUMAR SINHA",
+    "class": "1BCOM D",
+    "gender": "MALE",
+    "email": "mayank.sinha@bcomh.christuniversity.in"
+  },
+  {
+    "id": "763e529e-a217-47df-94b7-40fbb99f5e2d",
+    "regNo": "2510441",
+    "name": "MICHAEL THADDEUS RAJAN S",
+    "class": "1BCOM D",
+    "gender": "MALE",
+    "email": "michael.s@bcomh.christuniversity.in"
+  },
+  {
+    "id": "47d8f846-36bb-4807-9641-fa1ea1302027",
+    "regNo": "2510442",
+    "name": "MISHKA SACHDEVA",
+    "class": "1BCOM D",
+    "gender": "FEMALE",
+    "email": "mishka.sachdeva@bcomh.christuniversity.in"
+  },
+  {
+    "id": "9bef757f-8941-4148-86d9-0a58ea633371",
+    "regNo": "2510443",
+    "name": "MOKSHA K MOOLYA",
+    "class": "1BCOM D",
+    "gender": "FEMALE",
+    "email": "moksha.moolya@bcomh.christuniversity.in"
+  },
+  {
+    "id": "66cce6ca-9303-4269-907f-f7d2a52f7c99",
+    "regNo": "2510444",
+    "name": "NAMIT SHARMA",
+    "class": "1BCOM D",
+    "gender": "MALE",
+    "email": "namit.sharma@bcomh.christuniversity.in"
+  },
+  {
+    "id": "52138c22-b765-45a3-ab86-7dae46ce8b6b",
+    "regNo": "2510445",
+    "name": "NAVANEETA BHAT",
+    "class": "1BCOM D",
+    "gender": "FEMALE",
+    "email": "navaneeta.bhat@bcomh.christuniversity.in"
+  },
+  {
+    "id": "67585b9a-64aa-40d5-a396-52daeaa6828d",
+    "regNo": "2510446",
+    "name": "NINAD JAISWAL",
+    "class": "1BCOM D",
+    "gender": "MALE",
+    "email": "ninad.jaiswal@bcomh.christuniversity.in"
+  },
+  {
+    "id": "c574cd3f-5a36-4202-85e4-43dffab0d5a6",
+    "regNo": "2510447",
+    "name": "PRAGNYA PRADEEP",
+    "class": "1BCOM D",
+    "gender": "FEMALE",
+    "email": "pragnya.pradeep@bcomh.christuniversity.in"
+  },
+  {
+    "id": "c31060e3-adb4-4a7d-9987-676fbaccb311",
+    "regNo": "2510448",
+    "name": "PRANAV RAKESH",
+    "class": "1BCOM D",
+    "gender": "MALE",
+    "email": "pranav.rakesh@bcomh.christuniversity.in"
+  },
+  {
+    "id": "79c466f4-ac4f-4f5e-999b-e58de70bca2e",
+    "regNo": "2510449",
+    "name": "PRANITHA MOHAN",
+    "class": "1BCOM D",
+    "gender": "FEMALE",
+    "email": "pranitha.mohan@bcomh.christuniversity.in"
+  },
+  {
+    "id": "2874101f-4ff9-4049-8f32-b6932662f3f3",
+    "regNo": "2510450",
+    "name": "PRAVAR CHHABRA",
+    "class": "1BCOM D",
+    "gender": "MALE",
+    "email": "pravar.chhabra@bcomh.christuniversity.in"
+  },
+  {
+    "id": "a1e71e74-a5e5-4fa5-951e-9b12c84f4fb2",
+    "regNo": "2510451",
+    "name": "PRIYA GUPTA",
+    "class": "1BCOM D",
+    "gender": "FEMALE",
+    "email": "priya.gupta@bcomh.christuniversity.in"
+  },
+  {
+    "id": "421aff73-2a50-4257-9ee7-f33c58d14303",
+    "regNo": "2510452",
+    "name": "RAHUL KEDIA",
+    "class": "1BCOM D",
+    "gender": "MALE",
+    "email": "rahul.kedia@bcomh.christuniversity.in"
+  },
+  {
+    "id": "48281390-4027-4795-80e7-0d80efdd73dc",
+    "regNo": "2510453",
+    "name": "RHEA RAVI PATEL",
+    "class": "1BCOM D",
+    "gender": "FEMALE",
+    "email": "rhea.patel@bcomh.christuniversity.in"
+  },
+  {
+    "id": "1c61ca44-608e-472f-ba9a-82e79f2b3a3c",
+    "regNo": "2510454",
+    "name": "RIA MISHRA",
+    "class": "1BCOM D",
+    "gender": "FEMALE",
+    "email": "ria.mishra@bcomh.christuniversity.in"
+  },
+  {
+    "id": "2aacfccc-2660-4254-939d-d92b39ab27b7",
+    "regNo": "2510455",
+    "name": "S ARAVIND",
+    "class": "1BCOM D",
+    "gender": "MALE",
+    "email": "s.aravind@bcomh.christuniversity.in"
+  },
+  {
+    "id": "337baa3f-0c53-4fcf-a855-74c68a26c49b",
+    "regNo": "2510456",
+    "name": "SAKETH ANAND K",
+    "class": "1BCOM D",
+    "gender": "MALE",
+    "email": "saketh.k@bcomh.christuniversity.in"
+  },
+  {
+    "id": "ef88a986-bcc0-4ffb-b078-6326b7034801",
+    "regNo": "2510457",
+    "name": "SANCHITA SHARMA",
+    "class": "1BCOM D",
+    "gender": "FEMALE",
+    "email": "sanchita.sharma@bcomh.christuniversity.in"
+  },
+  {
+    "id": "aec225c9-3398-4679-b631-2e1943f7f7e6",
+    "regNo": "2510458",
+    "name": "SANIKA PATIL",
+    "class": "1BCOM D",
+    "gender": "FEMALE",
+    "email": "sanika.patil@bcomh.christuniversity.in"
+  },
+  {
+    "id": "748506ff-ac60-4e8a-b85c-c599c97fb0a9",
+    "regNo": "2510459",
+    "name": "SAUMYA SINHA",
+    "class": "1BCOM D",
+    "gender": "FEMALE",
+    "email": "saumya.sinha@bcomh.christuniversity.in"
+  },
+  {
+    "id": "05af756d-d7c1-4a90-9e59-8ffd8d73cc00",
+    "regNo": "2510460",
+    "name": "SHALINI K",
+    "class": "1BCOM D",
+    "gender": "FEMALE",
+    "email": "shalini.k@bcomh.christuniversity.in"
+  },
+  {
+    "id": "e94571ff-a9e9-493b-9afc-8dcf06a50fd5",
+    "regNo": "2510461",
+    "name": "SHASWATI NEGI",
+    "class": "1BCOM D",
+    "gender": "FEMALE",
+    "email": "shaswati.negi@bcomh.christuniversity.in"
+  },
+  {
+    "id": "2ddd2c41-2ea7-404a-8458-3757aed20cbf",
+    "regNo": "2510462",
+    "name": "SHREEVATHSA H M",
+    "class": "1BCOM D",
+    "gender": "MALE",
+    "email": "shreevathsa.hm@bcomh.christuniversity.in"
+  },
+  {
+    "id": "026719d2-8489-4cef-a49e-df6b35b4a19f",
+    "regNo": "2510463",
+    "name": "SHRIRAM ASHOK",
+    "class": "1BCOM D",
+    "gender": "MALE",
+    "email": "shriram.ashok@bcomh.christuniversity.in"
+  },
+  {
+    "id": "78aca0dd-72a4-42fa-bcb1-80c205dcf371",
+    "regNo": "2510464",
+    "name": "SHREYA SUBHASHISH MOHANTY",
+    "class": "1BCOM D",
+    "gender": "FEMALE",
+    "email": "shreya.mohanty@bcomh.christuniversity.in"
+  },
+  {
+    "id": "ba3f6857-7a49-4189-a991-37cc46cd6283",
+    "regNo": "2510465",
+    "name": "SONAKSHI JAIN",
+    "class": "1BCOM D",
+    "gender": "FEMALE",
+    "email": "sonakshi.jain@bcomh.christuniversity.in"
+  },
+  {
+    "id": "927f47a5-df91-492c-830e-6e4074f96250",
+    "regNo": "2510466",
+    "name": "SUMAN M",
+    "class": "1BCOM D",
+    "gender": "MALE",
+    "email": "suman.m@bcomh.christuniversity.in"
+  },
+  {
+    "id": "ba7b3825-9f71-4835-b4da-66ec608566bf",
+    "regNo": "2510467",
+    "name": "SWADHA RASTOGI",
+    "class": "1BCOM D",
+    "gender": "FEMALE",
+    "email": "swadha.rastogi@bcomh.christuniversity.in"
+  },
+  {
+    "id": "389af18e-b104-4750-a7a8-5b24373da4e4",
+    "regNo": "2510468",
+    "name": "TANISHA SHAH",
+    "class": "1BCOM D",
+    "gender": "FEMALE",
+    "email": "tanisha.shah@bcomh.christuniversity.in"
+  },
+  {
+    "id": "7900b7fb-ce2d-45d2-911c-43162f04d78c",
+    "regNo": "2510469",
+    "name": "TRISHA TARUN",
+    "class": "1BCOM D",
+    "gender": "FEMALE",
+    "email": "trisha.tarun@bcomh.christuniversity.in"
+  },
+  {
+    "id": "b7a1986e-a8a8-4595-8a39-ed3aedafdab3",
+    "regNo": "2510470",
+    "name": "TUSHAR MEHTA",
+    "class": "1BCOM D",
+    "gender": "MALE",
+    "email": "tushar.mehta@bcomh.christuniversity.in"
+  },
+  {
+    "id": "0311dfb1-cb69-47b1-8928-497dc41a5e68",
+    "regNo": "2510471",
+    "name": "VALLABHA A",
+    "class": "1BCOM D",
+    "gender": "FEMALE",
+    "email": "vallabha.a@bcomh.christuniversity.in"
+  },
+  {
+    "id": "d3b19bff-edec-4693-9076-9e1b70a6f58c",
+    "regNo": "2510472",
+    "name": "VEDANT AGARWAL",
+    "class": "1BCOM D",
+    "gender": "MALE",
+    "email": "vedant.agarwal@bcomh.christuniversity.in"
+  },
+  {
+    "id": "f6a658f6-2163-43d0-a4cd-7bc1ffeab8b8",
+    "regNo": "2511020",
+    "name": "APRAJITA SAHARIA",
+    "class": "1BCOMA&T",
+    "gender": "FEMALE",
+    "email": "aprajita.saharia@bcomath.christuniversity.in"
+  },
+  {
+    "id": "59458dda-3068-46a4-bb9e-492103013c4d",
+    "regNo": "2511021",
+    "name": "ARCHIE KHANNA",
+    "class": "1BCOMA&T",
+    "gender": "FEMALE",
+    "email": "archie.khanna@bcomath.christuniversity.in"
+  },
+  {
+    "id": "67ecf406-37b4-438b-95b8-495f2ae27f55",
+    "regNo": "2511022",
+    "name": "ARJUN MITTAL",
+    "class": "1BCOMA&T",
+    "gender": "MALE",
+    "email": "arjun.mittal@bcomath.christuniversity.in"
+  },
+  {
+    "id": "98b0c0e4-c55b-46c7-a73b-36cddae49ce2",
+    "regNo": "2511023",
+    "name": "ARYA S",
+    "class": "1BCOMA&T",
+    "gender": "FEMALE",
+    "email": "arya.s@bcomath.christuniversity.in"
+  },
+  {
+    "id": "55b17ee0-4302-48d4-ba9d-92ea96508baf",
+    "regNo": "2511024",
+    "name": "ASEN SUMI",
+    "class": "1BCOMA&T",
+    "gender": "FEMALE",
+    "email": "asen.sumi@bcomath.christuniversity.in"
+  },
+  {
+    "id": "3a431e48-c566-410a-aaa1-38f76ae4ae56",
+    "regNo": "2511025",
+    "name": "ASTHA YADAV",
+    "class": "1BCOMA&T",
+    "gender": "FEMALE",
+    "email": "astha.yadav@bcomath.christuniversity.in"
+  },
+  {
+    "id": "ef62007b-4c4e-43f2-93c8-1fa6ba5745fc",
+    "regNo": "2511026",
+    "name": "AYUSH YADAV",
+    "class": "1BCOMA&T",
+    "gender": "MALE",
+    "email": "ayush.yadav@bcomath.christuniversity.in"
+  },
+  {
+    "id": "74078986-cec7-4876-a75c-eed2828d1e87",
+    "regNo": "2511027",
+    "name": "BHAVYA KOTHARI",
+    "class": "1BCOMA&T",
+    "gender": "FEMALE",
+    "email": "bhavya.kothari@bcomath.christuniversity.in"
+  },
+  {
+    "id": "b1a18b46-da5f-44ca-a55e-a84d9ca061d0",
+    "regNo": "2511028",
+    "name": "BHUMIKA GUPTA",
+    "class": "1BCOMA&T",
+    "gender": "FEMALE",
+    "email": "bhumika.gupta@bcomath.christuniversity.in"
+  },
+  {
+    "id": "e0d4e16d-8fb8-47e1-b2d4-5c765df663cd",
+    "regNo": "2511029",
+    "name": "BHUVANA R",
+    "class": "1BCOMA&T",
+    "gender": "FEMALE",
+    "email": "bhuvana.r@bcomath.christuniversity.in"
+  },
+  {
+    "id": "3ccb7c12-0b10-463c-bdfa-cfd7c0344b64",
+    "regNo": "2511030",
+    "name": "CHANDINI ANAND",
+    "class": "1BCOMA&T",
+    "gender": "FEMALE",
+    "email": "chandini.anand@bcomath.christuniversity.in"
+  },
+  {
+    "id": "364484f1-2769-4009-86a6-be5ea6920107",
+    "regNo": "2511031",
+    "name": "DHRUV JAGADISH SHARMA",
+    "class": "1BCOMA&T",
+    "gender": "MALE",
+    "email": "dhruv.sharma@bcomath.christuniversity.in"
+  },
+  {
+    "id": "7925d123-e465-4577-91ec-bf7b58c5ec3a",
+    "regNo": "2511032",
+    "name": "DHRUVIKA DESAI",
+    "class": "1BCOMA&T",
+    "gender": "FEMALE",
+    "email": "dhruvika.desai@bcomath.christuniversity.in"
+  },
+  {
+    "id": "76da76a3-d45b-4271-b05f-88e88d1cc552",
+    "regNo": "2511033",
+    "name": "DRITI BHATIA",
+    "class": "1BCOMA&T",
+    "gender": "FEMALE",
+    "email": "driti.bhatia@bcomath.christuniversity.in"
+  },
+  {
+    "id": "7faa0db0-4382-454e-bb4d-46013a3adad6",
+    "regNo": "2510526",
+    "name": "DOYEL LASKAR",
+    "class": "1BCOM E",
+    "gender": "FEMALE",
+    "email": "doyel.laskar@bcomh.christuniversity.in"
+  },
+  {
+    "id": "f82f54a6-f813-4fb8-a139-b4602e516147",
+    "regNo": "2510527",
+    "name": "FARHEEN A",
+    "class": "1BCOM E",
+    "gender": "FEMALE",
+    "email": "farheen.a@bcomh.christuniversity.in"
+  },
+  {
+    "id": "7f1d06ff-a284-4a0f-88f9-88bab964d726",
+    "regNo": "2510528",
+    "name": "HARITHA VIJAY",
+    "class": "1BCOM E",
+    "gender": "FEMALE",
+    "email": "haritha.vijay@bcomh.christuniversity.in"
+  },
+  {
+    "id": "0dd10dc6-724a-49a6-a01d-111ae54f4d1b",
+    "regNo": "2510529",
+    "name": "HEMANT SINGH",
+    "class": "1BCOM E",
+    "gender": "MALE",
+    "email": "hemant.singh@bcomh.christuniversity.in"
+  },
+  {
+    "id": "984c983f-bddd-491d-81c4-3648f780f41a",
+    "regNo": "2510530",
+    "name": "ISHITA SHARAN",
+    "class": "1BCOM E",
+    "gender": "FEMALE",
+    "email": "ishita.sharan@bcomh.christuniversity.in"
+  },
+  {
+    "id": "c41c5eee-418b-4e44-9396-6c745aa2bd8e",
+    "regNo": "2510531",
+    "name": "JAHNAVI S B",
+    "class": "1BCOM E",
+    "gender": "FEMALE",
+    "email": "jahnavi.sb@bcomh.christuniversity.in"
+  },
+  {
+    "id": "6d4caca1-06ba-4ad5-9d5e-9c371db845d2",
+    "regNo": "2510532",
+    "name": "JESHMA FRANCIS",
+    "class": "1BCOM E",
+    "gender": "FEMALE",
+    "email": "jeshma.francis@bcomh.christuniversity.in"
+  },
+  {
+    "id": "b27ee07c-6676-4a4f-be33-d157aa955385",
+    "regNo": "2510533",
+    "name": "JOSHUA REVANTH P",
+    "class": "1BCOM E",
+    "gender": "MALE",
+    "email": "joshua.p@bcomh.christuniversity.in"
+  },
+  {
+    "id": "b492da1b-57b7-4d5b-be6e-12c2d90286e3",
+    "regNo": "2510534",
+    "name": "K JAHNAVI",
+    "class": "1BCOM E",
+    "gender": "FEMALE",
+    "email": "k.jahnavi@bcomh.christuniversity.in"
+  },
+  {
+    "id": "7fca8252-426e-4ec5-996c-55686ecbe56b",
+    "regNo": "2510535",
+    "name": "KAASHVI SURANA",
+    "class": "1BCOM E",
+    "gender": "FEMALE",
+    "email": "kaashvi.surana@bcomh.christuniversity.in"
+  },
+  {
+    "id": "17254efe-f59e-44f5-8f3f-e3f98c5c7bea",
+    "regNo": "2510536",
+    "name": "KESHAV KAPOOR",
+    "class": "1BCOM E",
+    "gender": "MALE",
+    "email": "keshav.kapoor@bcomh.christuniversity.in"
+  },
+  {
+    "id": "146b9fb7-c8ca-468d-a4cf-f291059b8ca6",
+    "regNo": "2510537",
+    "name": "KESHAV MITTAL",
+    "class": "1BCOM E",
+    "gender": "MALE",
+    "email": "keshav.mittal@bcomh.christuniversity.in"
+  },
+  {
+    "id": "8609e5a9-9195-430c-a585-dd3f2f4193a3",
+    "regNo": "2510538",
+    "name": "KRISHNA RANA",
+    "class": "1BCOM E",
+    "gender": "FEMALE",
+    "email": "krishna.rana@bcomh.christuniversity.in"
+  },
+  {
+    "id": "5f5e309c-3ebc-4801-85a7-0f5368ba6f69",
+    "regNo": "2510539",
+    "name": "LAKSHMI J",
+    "class": "1BCOM E",
+    "gender": "FEMALE",
+    "email": "lakshmi.j@bcomh.christuniversity.in"
+  },
+  {
+    "id": "3a8a92b4-6def-44b6-b136-ce110b75f6d3",
+    "regNo": "2510540",
+    "name": "LIKHITA RAJESH",
+    "class": "1BCOM E",
+    "gender": "FEMALE",
+    "email": "likhita.rajesh@bcomh.christuniversity.in"
+  },
+  {
+    "id": "2aaa41f9-0796-497a-b63b-55e943ed815b",
+    "regNo": "2510541",
+    "name": "MAHATHI VEMULA",
+    "class": "1BCOM E",
+    "gender": "FEMALE",
+    "email": "mahathi.vemula@bcomh.christuniversity.in"
+  },
+  {
+    "id": "6396112d-f5fe-41f0-981d-48607d2b6457",
+    "regNo": "2510542",
+    "name": "MEDHANSH JAIN",
+    "class": "1BCOM E",
+    "gender": "MALE",
+    "email": "medhansh.jain@bcomh.christuniversity.in"
+  },
+  {
+    "id": "127d79d5-1fd9-4e13-a73c-32629fed57f9",
+    "regNo": "2510543",
+    "name": "MITALI BAID",
+    "class": "1BCOM E",
+    "gender": "FEMALE",
+    "email": "mitali.baid@bcomh.christuniversity.in"
+  },
+  {
+    "id": "120ae228-38e7-4b21-b8ef-a8ed1f6f9e11",
+    "regNo": "2510544",
+    "name": "NANDITHA BIJU",
+    "class": "1BCOM E",
+    "gender": "FEMALE",
+    "email": "nanditha.biju@bcomh.christuniversity.in"
+  },
+  {
+    "id": "1bd034d2-a595-4069-ada2-015556ad1fa8",
+    "regNo": "2510545",
+    "name": "NAVANEETH NANDAKUMAR",
+    "class": "1BCOM E",
+    "gender": "MALE",
+    "email": "navaneeth.nandakumar@bcomh.christuniversity.in"
+  },
+  {
+    "id": "4a171c3b-0f59-4bd9-8a6d-aaf77bdd8dc4",
+    "regNo": "2510546",
+    "name": "NAYANIKAA K",
+    "class": "1BCOM E",
+    "gender": "FEMALE",
+    "email": "nayanikaa.k@bcomh.christuniversity.in"
+  },
+  {
+    "id": "a59a48f5-c382-4e4b-9301-502f0052292c",
+    "regNo": "2510547",
+    "name": "NEEV DHAWAN",
+    "class": "1BCOM E",
+    "gender": "MALE",
+    "email": "neev.dhawan@bcomh.christuniversity.in"
+  },
+  {
+    "id": "220d4873-97aa-4150-b10a-4672ba3f99c7",
+    "regNo": "2510548",
+    "name": "NISHANTH SENTHIL",
+    "class": "1BCOM E",
+    "gender": "MALE",
+    "email": "nishanth.senthil@bcomh.christuniversity.in"
+  },
+  {
+    "id": "07b45314-a404-46e1-927b-dba3527a7399",
+    "regNo": "2510549",
+    "name": "NITHI R",
+    "class": "1BCOM E",
+    "gender": "FEMALE",
+    "email": "nithi.r@bcomh.christuniversity.in"
+  },
+  {
+    "id": "613e6ee7-2c4b-444d-a48f-8119543a114a",
+    "regNo": "2510550",
+    "name": "OJASWI SINGH",
+    "class": "1BCOM E",
+    "gender": "FEMALE",
+    "email": "ojaswi.singh@bcomh.christuniversity.in"
+  },
+  {
+    "id": "7830694e-47b4-4921-87c5-6e4fabc8084b",
+    "regNo": "2510551",
+    "name": "PIYUSH GANGWAR",
+    "class": "1BCOM E",
+    "gender": "MALE",
+    "email": "piyush.gangwar@bcomh.christuniversity.in"
+  },
+  {
+    "id": "d56a234e-d0c4-47e6-a64e-dbb1b961280e",
+    "regNo": "2510552",
+    "name": "PRAMATH PRASAD",
+    "class": "1BCOM E",
+    "gender": "MALE",
+    "email": "pramath.prasad@bcomh.christuniversity.in"
+  },
+  {
+    "id": "81ef85e2-d77b-454f-9368-15bec35c513f",
+    "regNo": "2510553",
+    "name": "PRANAV PRABHU",
+    "class": "1BCOM E",
+    "gender": "MALE",
+    "email": "pranav.prabhu@bcomh.christuniversity.in"
+  },
+  {
+    "id": "d86d7436-2b8b-4002-af79-a2f82fe54fd2",
+    "regNo": "2510554",
+    "name": "PRANJAL MALPANI",
+    "class": "1BCOM E",
+    "gender": "FEMALE",
+    "email": "pranjal.malpani@bcomh.christuniversity.in"
+  },
+  {
+    "id": "28352f60-1045-4c8b-946d-3db69c943421",
+    "regNo": "2510555",
+    "name": "PRIYANSHI CHAUHAN",
+    "class": "1BCOM E",
+    "gender": "FEMALE",
+    "email": "priyanshi.chauhan@bcomh.christuniversity.in"
+  },
+  {
+    "id": "9530397f-e5e2-48db-a922-cd14667115e2",
+    "regNo": "2510556",
+    "name": "R SIDDHANTH",
+    "class": "1BCOM E",
+    "gender": "MALE",
+    "email": "r.siddhanth@bcomh.christuniversity.in"
+  },
+  {
+    "id": "05a9b3a8-91c3-4b24-ba38-094a28efeb15",
+    "regNo": "2510557",
+    "name": "RADHIKA BANSAL",
+    "class": "1BCOM E",
+    "gender": "FEMALE",
+    "email": "radhika.bansal@bcomh.christuniversity.in"
+  },
+  {
+    "id": "c355f0a7-9286-421e-bccc-dd8eb28eda95",
+    "regNo": "2510558",
+    "name": "RISHABH GOEL",
+    "class": "1BCOM E",
+    "gender": "MALE",
+    "email": "rishabh.goel@bcomh.christuniversity.in"
+  },
+  {
+    "id": "1d12f45a-f004-48de-91db-c96aa6cf940d",
+    "regNo": "2510559",
+    "name": "RIYAN TARAFDAR",
+    "class": "1BCOM E",
+    "gender": "MALE",
+    "email": "riyan.tarafdar@bcomh.christuniversity.in"
+  },
+  {
+    "id": "3ab926ec-324d-43b2-b71f-bc67b347189d",
+    "regNo": "2510560",
+    "name": "S DHARSHINI",
+    "class": "1BCOM E",
+    "gender": "FEMALE",
+    "email": "s.dharshini@bcomh.christuniversity.in"
+  },
+  {
+    "id": "ae157f28-d484-4a80-b1b9-85fa0cfa44e4",
+    "regNo": "2510561",
+    "name": "SANJANASHREE R S",
+    "class": "1BCOM E",
+    "gender": "FEMALE",
+    "email": "sanjanashree.rs@bcomh.christuniversity.in"
+  },
+  {
+    "id": "b85f7fce-6c69-48d5-8dbb-6799b5688c66",
+    "regNo": "2510562",
+    "name": "SATVIKA B GORTI",
+    "class": "1BCOM E",
+    "gender": "FEMALE",
+    "email": "satvika.gorti@bcomh.christuniversity.in"
+  },
+  {
+    "id": "fdfea874-e759-4b82-9754-5c7b1e97a34a",
+    "regNo": "2510563",
+    "name": "SHASHANK P",
+    "class": "1BCOM E",
+    "gender": "MALE",
+    "email": "shashankp@bcomh.christuniversity.in"
+  },
+  {
+    "id": "66928252-90ca-418f-be94-dacc7e873739",
+    "regNo": "2510564",
+    "name": "SHREYA PAUL",
+    "class": "1BCOM E",
+    "gender": "FEMALE",
+    "email": "shreya.paul@bcomh.christuniversity.in"
+  },
+  {
+    "id": "f8e77386-348c-4782-9fca-a0138834465b",
+    "regNo": "2510565",
+    "name": "SHRIYA GUPTA",
+    "class": "1BCOM E",
+    "gender": "FEMALE",
+    "email": "shriya.gupta@bcomh.christuniversity.in"
+  },
+  {
+    "id": "bf5f92b6-2be8-481e-a16c-810e25223db3",
+    "regNo": "2510566",
+    "name": "SHRUTI BHATT",
+    "class": "1BCOM E",
+    "gender": "FEMALE",
+    "email": "shruti.bhatt@bcomh.christuniversity.in"
+  },
+  {
+    "id": "ce7df49b-440e-45fd-be48-294580d94844",
+    "regNo": "2510567",
+    "name": "SUBHAN AKRAM SHAIKH",
+    "class": "1BCOM E",
+    "gender": "MALE",
+    "email": "subhan.shaikh@bcomh.christuniversity.in"
+  },
+  {
+    "id": "704df520-b4f8-4e69-806b-94767f7b21fc",
+    "regNo": "2510568",
+    "name": "TANISH SHETTY",
+    "class": "1BCOM E",
+    "gender": "MALE",
+    "email": "tanish.shetty@bcomh.christuniversity.in"
+  },
+  {
+    "id": "78bcb6cb-bde9-48f4-be47-65ce50f5aecc",
+    "regNo": "2510569",
+    "name": "TANMAY KUMAR",
+    "class": "1BCOM E",
+    "gender": "MALE",
+    "email": "tanmay.kumar@bcomh.christuniversity.in"
+  },
+  {
+    "id": "f52b2887-378b-4d21-b63b-9af2f5f8c0e5",
+    "regNo": "2510570",
+    "name": "TANVI GUPTA",
+    "class": "1BCOM E",
+    "gender": "FEMALE",
+    "email": "tanvigupta@bcomh.christuniversity.in"
+  },
+  {
+    "id": "b9bc86aa-09ab-4e46-97c4-f66eebfaf364",
+    "regNo": "2510571",
+    "name": "UDAYVEER SAGAR",
+    "class": "1BCOM E",
+    "gender": "MALE",
+    "email": "udayveer.sagar@bcomh.christuniversity.in"
+  },
+  {
+    "id": "88fb7f61-34d7-42a9-9dda-295b31c66152",
+    "regNo": "2510572",
+    "name": "UNNATI ARORA",
+    "class": "1BCOM E",
+    "gender": "FEMALE",
+    "email": "unnati.arora@bcomh.christuniversity.in"
+  },
+  {
+    "id": "0694c861-6621-476c-85f0-4a12f4a0a56f",
+    "regNo": "2510573",
+    "name": "VARENYAM SRIVASTAVA",
+    "class": "1BCOM E",
+    "gender": "MALE",
+    "email": "varenyam.srivastava@bcomh.christuniversity.in"
+  },
+  {
+    "id": "f472083b-0be4-4855-acdc-baac3704f833",
+    "regNo": "2510574",
+    "name": "VASANT KUMAR",
+    "class": "1BCOM E",
+    "gender": "MALE",
+    "email": "vasant.kumar@bcomh.christuniversity.in"
+  },
+  {
+    "id": "96fe4bb3-1a89-4bfe-bbfe-df69e01aef19",
+    "regNo": "2510575",
+    "name": "VAYUN SINGLA",
+    "class": "1BCOM E",
+    "gender": "MALE",
+    "email": "vayun.singla@bcomh.christuniversity.in"
+  },
+  {
+    "id": "761f6e22-8e97-4f14-88ff-c65e78322109",
+    "regNo": "2510576",
+    "name": "VIDIT GUPTA",
+    "class": "1BCOM E",
+    "gender": "MALE",
+    "email": "vidit.gupta@bcomh.christuniversity.in"
+  },
+  {
+    "id": "edb3cb90-4ce8-4759-85fa-c6cda06a2df0",
+    "regNo": "2510577",
+    "name": "YASHASWINI B R",
+    "class": "1BCOM E",
+    "gender": "FEMALE",
+    "email": "yashaswini.br@bcomh.christuniversity.in"
+  },
+  {
+    "id": "3b910247-6bc8-4d1c-b24a-2cc236d72908",
+    "regNo": "2511001",
+    "name": "AADYA DIWAN",
+    "class": "1BCOMA&T",
+    "gender": "FEMALE",
+    "email": "aadya.diwan@bcomath.christuniversity.in"
+  },
+  {
+    "id": "73f1388b-cc02-4ccd-997c-bf7fc2a1e938",
+    "regNo": "2511002",
+    "name": "AAKRITI THAKUR",
+    "class": "1BCOMA&T",
+    "gender": "FEMALE",
+    "email": "aakriti.thakur@bcomath.christuniversity.in"
+  },
+  {
+    "id": "d96bd63b-5467-4fcd-9195-03bde768de20",
+    "regNo": "2511003",
+    "name": "AASHIA BHATIA",
+    "class": "1BCOMA&T",
+    "gender": "FEMALE",
+    "email": "aashia.bhatia@bcomath.christuniversity.in"
+  },
+  {
+    "id": "29373626-c9b6-45bd-b12a-94c7f2cce30a",
+    "regNo": "2511004",
+    "name": "AAYUSH KANSAL",
+    "class": "1BCOMA&T",
+    "gender": "MALE",
+    "email": "aayush.kansal@bcomath.christuniversity.in"
+  },
+  {
+    "id": "4011c72d-c43c-4586-8c00-bbeb5f2fcfcf",
+    "regNo": "2511005",
+    "name": "ADEEBA ZAHID",
+    "class": "1BCOMA&T",
+    "gender": "FEMALE",
+    "email": "adeeba.zahid@bcomath.christuniversity.in"
+  },
+  {
+    "id": "26a38337-e05c-4e70-ab28-1591f1fb082c",
+    "regNo": "2511006",
+    "name": "ADISHREE DEORUKHKAR",
+    "class": "1BCOMA&T",
+    "gender": "FEMALE",
+    "email": "adishree.deorukhkar@bcomath.christuniversity.in"
+  },
+  {
+    "id": "5c3a6acf-7bd0-4bcf-a0be-eedb11a3d506",
+    "regNo": "2511007",
+    "name": "ADITHI SURESH",
+    "class": "1BCOMA&T",
+    "gender": "FEMALE",
+    "email": "adithi.suresh@bcomath.christuniversity.in"
+  },
+  {
+    "id": "b4a85aed-464a-4f27-bc75-229920f4502c",
+    "regNo": "2511008",
+    "name": "ADITYA JHA",
+    "class": "1BCOMA&T",
+    "gender": "MALE",
+    "email": "aditya.jha@bcomath.christuniversity.in"
+  },
+  {
+    "id": "3acc8924-c522-49c6-85ce-167dba9a5de1",
+    "regNo": "2511009",
+    "name": "ADITYA KISHAN KUMAR",
+    "class": "1BCOMA&T",
+    "gender": "MALE",
+    "email": "aditya.kumar@bcomath.christuniversity.in"
+  },
+  {
+    "id": "a6a8c409-f37c-44ce-b7a2-33192a4a3941",
+    "regNo": "2511010",
+    "name": "ADITYA SANJAY MITTAL",
+    "class": "1BCOMA&T",
+    "gender": "MALE",
+    "email": "aditya.mittal@bcomath.christuniversity.in"
+  },
+  {
+    "id": "54959dbf-09dc-4f85-90e3-a69d14c3cfc2",
+    "regNo": "2511011",
+    "name": "AKSHARA BALACHANDRA",
+    "class": "1BCOMA&T",
+    "gender": "FEMALE",
+    "email": "akshara.balachandra@bcomath.christuniversity.in"
+  },
+  {
+    "id": "68a997b0-ab22-47a3-86ca-7d32fc2a990b",
+    "regNo": "2511012",
+    "name": "AKSHARA GIREESH",
+    "class": "1BCOMA&T",
+    "gender": "FEMALE",
+    "email": "akshara.gireesh@bcomath.christuniversity.in"
+  },
+  {
+    "id": "94dbf914-530c-4ffc-b50f-82ce68e2f317",
+    "regNo": "2511013",
+    "name": "AMAN PANDEY",
+    "class": "1BCOMA&T",
+    "gender": "MALE",
+    "email": "aman.pandey@bcomath.christuniversity.in"
+  },
+  {
+    "id": "e3a9d13d-f3fd-4246-812e-c36f81a1e8dc",
+    "regNo": "2511014",
+    "name": "AMAY ANKUSH AGRAWAL",
+    "class": "1BCOMA&T",
+    "gender": "MALE",
+    "email": "amay.agrawal@bcomath.christuniversity.in"
+  },
+  {
+    "id": "b5f422ba-9f85-4278-b562-dadff65cd79d",
+    "regNo": "2511015",
+    "name": "AMRITANSH PAUL",
+    "class": "1BCOMA&T",
+    "gender": "MALE",
+    "email": "amritansh.paul@bcomath.christuniversity.in"
+  },
+  {
+    "id": "6be9f295-1c68-4769-b4a5-f738603d106c",
+    "regNo": "2511016",
+    "name": "ANANTA YADAV",
+    "class": "1BCOMA&T",
+    "gender": "MALE",
+    "email": "ananta.yadav@bcomath.christuniversity.in"
+  },
+  {
+    "id": "a99e0d4f-d76e-4f32-a1dd-532da6be8c44",
+    "regNo": "2511017",
+    "name": "ANISH SUNIL",
+    "class": "1BCOMA&T",
+    "gender": "MALE",
+    "email": "anish.sunil@bcomath.christuniversity.in"
+  },
+  {
+    "id": "8e78bba2-d49b-4998-b737-2570a67d7996",
+    "regNo": "2511018",
+    "name": "ANOOSHA NISHA",
+    "class": "1BCOMA&T",
+    "gender": "FEMALE",
+    "email": "anoosha.nisha@bcomath.christuniversity.in"
+  },
+  {
+    "id": "4690bd8b-4d8f-41a2-86a8-c23c1f4c8dc0",
+    "regNo": "2511019",
+    "name": "ANUSHRIYA JAISWAL",
+    "class": "1BCOMA&T",
+    "gender": "FEMALE",
+    "email": "anushriya.jaiswal@bcomath.christuniversity.in"
+  },
+  {
+    "id": "02b87f58-8958-468a-bf1d-78c22aafbe3d",
+    "regNo": "2511132",
+    "name": "KESHAV S MULGUND",
+    "class": "1BCOMAFA",
+    "gender": "MALE",
+    "email": "keshav.mulgund@bcomafh.christuniversity.in"
+  },
+  {
+    "id": "fe17f478-c1d2-4ad4-9c79-477acf39bb0d",
+    "regNo": "2511133",
+    "name": "KRISHI YANAMANDALLA",
+    "class": "1BCOMAFA",
+    "gender": "MALE",
+    "email": "krishi.yanamandalla@bcomafh.christuniversity.in"
+  },
+  {
+    "id": "ecee8482-8494-4fbb-8310-f9bca5989c87",
+    "regNo": "2511134",
+    "name": "KUSHANK CHANDRA",
+    "class": "1BCOMAFA",
+    "gender": "MALE",
+    "email": "kushank.chandra@bcomafh.christuniversity.in"
+  },
+  {
+    "id": "2bdd7311-a4a5-45ff-a28e-1cd7798301e8",
+    "regNo": "2511135",
+    "name": "M.S.PARTHIV SUNDHAR",
+    "class": "1BCOMAFA",
+    "gender": "MALE",
+    "email": "ms.sundhar@bcomafh.christuniversity.in"
+  },
+  {
+    "id": "e1f22f4a-ec66-432f-a50e-32967df96f1f",
+    "regNo": "2511136",
+    "name": "MEGHANA S",
+    "class": "1BCOMAFA",
+    "gender": "FEMALE",
+    "email": "meghana.s@bcomafh.christuniversity.in"
+  },
+  {
+    "id": "dbbc9e0e-7d2f-4ed1-a6e3-3e5a821ef55e",
+    "regNo": "2511137",
+    "name": "MERIN ELSA THOMAS",
+    "class": "1BCOMAFA",
+    "gender": "FEMALE",
+    "email": "merin.thomas@bcomafh.christuniversity.in"
+  },
+  {
+    "id": "083c75ea-f30f-4e44-af66-b39cf00d512f",
+    "regNo": "2511138",
+    "name": "MICHELLE PAUL",
+    "class": "1BCOMAFA",
+    "gender": "FEMALE",
+    "email": "michelle.paul@bcomafh.christuniversity.in"
+  },
+  {
+    "id": "2a778380-253a-436d-9f0f-c4b93de7e7a5",
+    "regNo": "2511139",
+    "name": "NIHAL P PATIL",
+    "class": "1BCOMAFA",
+    "gender": "MALE",
+    "email": "nihal.patil@bcomafh.christuniversity.in"
+  },
+  {
+    "id": "f4373e24-7ef7-481f-9ad5-289eae3b7e1c",
+    "regNo": "2511140",
+    "name": "NIHAL P REDDY",
+    "class": "1BCOMAFA",
+    "gender": "MALE",
+    "email": "nihal.reddy@bcomafh.christuniversity.in"
+  },
+  {
+    "id": "c3170705-4d54-4bd1-951f-5564e1e7ea34",
+    "regNo": "2511141",
+    "name": "NITHYA M",
+    "class": "1BCOMAFA",
+    "gender": "FEMALE",
+    "email": "nithya.m@bcomafh.christuniversity.in"
+  },
+  {
+    "id": "d21ca0c5-554a-4868-bd15-da1678cc0089",
+    "regNo": "2511142",
+    "name": "NIVETHITHA",
+    "class": "1BCOMAFA",
+    "gender": "FEMALE",
+    "email": "nivethitha@bcomafh.christuniversity.in"
+  },
+  {
+    "id": "68bfe288-c1c0-4102-9731-5a3e4e3dd751",
+    "regNo": "2511143",
+    "name": "NOEL P SANTHOSH",
+    "class": "1BCOMAFA",
+    "gender": "MALE",
+    "email": "noelsanthosh@bcomafh.christuniversity.in"
+  },
+  {
+    "id": "0d5c7144-8379-47f5-ba54-303414268f3b",
+    "regNo": "2511144",
+    "name": "PAUL ABBY PULICKAL",
+    "class": "1BCOMAFA",
+    "gender": "MALE",
+    "email": "paul.pulickal@bcomafh.christuniversity.in"
+  },
+  {
+    "id": "14ab0233-6dce-4807-89a1-db9a24c007b8",
+    "regNo": "2511145",
+    "name": "POONAM CHAND",
+    "class": "1BCOMAFA",
+    "gender": "FEMALE",
+    "email": "poonam.chand@bcomafh.christuniversity.in"
+  },
+  {
+    "id": "55ea1247-c07f-4196-9a72-f810f1355a91",
+    "regNo": "2511146",
+    "name": "PRANAMYA ADINATH",
+    "class": "1BCOMAFA",
+    "gender": "MALE",
+    "email": "pranamya.adinath@bcomafh.christuniversity.in"
+  },
+  {
+    "id": "46a714b4-c5da-4503-abe5-e8a9cd18aa30",
+    "regNo": "2511147",
+    "name": "PRATEEK SETHI",
+    "class": "1BCOMAFA",
+    "gender": "MALE",
+    "email": "prateek.sethi@bcomafh.christuniversity.in"
+  },
+  {
+    "id": "6aad5ae0-f9c7-4ce4-ac97-24ba7f0a8460",
+    "regNo": "2511148",
+    "name": "R HARIHARAN",
+    "class": "1BCOMAFA",
+    "gender": "MALE",
+    "email": "r.hariharan@bcomafh.christuniversity.in"
+  },
+  {
+    "id": "3c05859a-6822-4636-b81a-583d3ad22d10",
+    "regNo": "2511149",
+    "name": "RABEEU ALZAMAN",
+    "class": "1BCOMAFA",
+    "gender": "MALE",
+    "email": "rabeeu.alzaman@bcomafh.christuniversity.in"
+  },
+  {
+    "id": "c5a65813-25fc-41e3-a78c-e6bca2b4aad2",
+    "regNo": "2511150",
+    "name": "RICHA BRIGIT MANU",
+    "class": "1BCOMAFA",
+    "gender": "FEMALE",
+    "email": "richa.manu@bcomafh.christuniversity.in"
+  },
+  {
+    "id": "f313e6ce-7f92-4d80-94b1-d6c2f5c521a7",
+    "regNo": "2511151",
+    "name": "RITEESHA M",
+    "class": "1BCOMAFA",
+    "gender": "FEMALE",
+    "email": "riteesha.m@bcomafh.christuniversity.in"
+  },
+  {
+    "id": "0bb98ab5-cced-4d70-b298-aab7583d288b",
+    "regNo": "2511152",
+    "name": "RITHVIK DEVARAJAN",
+    "class": "1BCOMAFA",
+    "gender": "MALE",
+    "email": "rithvik.devarajan@bcomafh.christuniversity.in"
+  },
+  {
+    "id": "4262611f-9262-47a0-b70c-0034385185bb",
+    "regNo": "2511153",
+    "name": "ROHAN SAHA",
+    "class": "1BCOMAFA",
+    "gender": "MALE",
+    "email": "rohan.saha@bcomafh.christuniversity.in"
+  },
+  {
+    "id": "107b2e67-e8a6-4f9d-bd04-9ff1d54d273b",
+    "regNo": "2511154",
+    "name": "ROHITH M",
+    "class": "1BCOMAFA",
+    "gender": "MALE",
+    "email": "rohith.m@bcomafh.christuniversity.in"
+  },
+  {
+    "id": "8c03a512-da8d-4901-9e16-ee98be4b5e87",
+    "regNo": "2511155",
+    "name": "RUTH ACHU CHERIAN",
+    "class": "1BCOMAFA",
+    "gender": "FEMALE",
+    "email": "ruth.cherian@bcomafh.christuniversity.in"
+  },
+  {
+    "id": "216669c1-a40c-4e63-b8e2-4b5ade8a4f52",
+    "regNo": "2511156",
+    "name": "RUTH SARAH JOHN",
+    "class": "1BCOMAFA",
+    "gender": "FEMALE",
+    "email": "ruth.john@bcomafh.christuniversity.in"
+  },
+  {
+    "id": "f412e67f-ae57-42ff-80b0-873a4155a7fd",
+    "regNo": "2511157",
+    "name": "RYAN JACOB",
+    "class": "1BCOMAFA",
+    "gender": "MALE",
+    "email": "ryan.jacob@bcomafh.christuniversity.in"
+  },
+  {
+    "id": "5664b530-6ced-4e3a-a9c4-8efc50926ec4",
+    "regNo": "2511158",
+    "name": "SAMAIRA CHANANA",
+    "class": "1BCOMAFA",
+    "gender": "FEMALE",
+    "email": "samaira.chanana@bcomafh.christuniversity.in"
+  },
+  {
+    "id": "87e7e34f-1635-4228-b14a-c20b61ea3bd9",
+    "regNo": "2511159",
+    "name": "SAMRIT PUHAN",
+    "class": "1BCOMAFA",
+    "gender": "MALE",
+    "email": "samrit.puhan@bcomafh.christuniversity.in"
+  },
+  {
+    "id": "af28aba7-4b59-463e-a197-a03f3f461342",
+    "regNo": "2511160",
+    "name": "SANDHYAA RAMESH",
+    "class": "1BCOMAFA",
+    "gender": "FEMALE",
+    "email": "sandhyaa.ramesh@bcomafh.christuniversity.in"
+  },
+  {
+    "id": "7babc950-f915-479d-ba1e-27478e786232",
+    "regNo": "2511162",
+    "name": "SARTHAK DAS",
+    "class": "1BCOMAFA",
+    "gender": "MALE",
+    "email": "sarthak.das@bcomafh.christuniversity.in"
+  },
+  {
+    "id": "53b24dd2-e7fd-4752-ba3d-7d53f0efc65d",
+    "regNo": "2511163",
+    "name": "SARTHAK S SHETTY",
+    "class": "1BCOMAFA",
+    "gender": "MALE",
+    "email": "sarthak.shetty@bcomafh.christuniversity.in"
+  },
+  {
+    "id": "f9baa30e-ddea-4eb5-b958-0cf0152dc16b",
+    "regNo": "2511164",
+    "name": "SERA BABU",
+    "class": "1BCOMAFA",
+    "gender": "FEMALE",
+    "email": "sera.babu@bcomafh.christuniversity.in"
+  },
+  {
+    "id": "6afa5546-2159-4be3-bc85-1aa2e02cc057",
+    "regNo": "2511165",
+    "name": "SHREYA SINGH",
+    "class": "1BCOMAFA",
+    "gender": "FEMALE",
+    "email": "shreya.singh@bcomafh.christuniversity.in"
+  },
+  {
+    "id": "c46f7b09-5afa-4f12-b8ad-494f6a61f8af",
+    "regNo": "2511166",
+    "name": "SIDDHARTH RAMESH",
+    "class": "1BCOMAFA",
+    "gender": "MALE",
+    "email": "siddharth.ramesh@bcomafh.christuniversity.in"
+  },
+  {
+    "id": "459a2741-6d86-41c2-98e1-9bb1e20ca204",
+    "regNo": "2511167",
+    "name": "SIDDHARTH RAO",
+    "class": "1BCOMAFA",
+    "gender": "MALE",
+    "email": "siddharth.rao@bcomafh.christuniversity.in"
+  },
+  {
+    "id": "01bf260f-18a4-4445-8b8e-eeafa8f1e792",
+    "regNo": "2511168",
+    "name": "SREENANDA K SURESH",
+    "class": "1BCOMAFA",
+    "gender": "FEMALE",
+    "email": "sreenanda.suresh@bcomafh.christuniversity.in"
+  },
+  {
+    "id": "1af87351-ebe9-4510-a344-9d6cb0e9fa37",
+    "regNo": "2511169",
+    "name": "SWASTIKA DHANUKA",
+    "class": "1BCOMAFA",
+    "gender": "FEMALE",
+    "email": "swastika.dhanuka@bcomafh.christuniversity.in"
+  },
+  {
+    "id": "7b85f9e7-ed72-4b43-8371-5e985df3543f",
+    "regNo": "2511170",
+    "name": "TAVEON VINCENT",
+    "class": "1BCOMAFA",
+    "gender": "MALE",
+    "email": "taveon.vincent@bcomafh.christuniversity.in"
+  },
+  {
+    "id": "a47c7f6e-17d8-45c4-88eb-69dbb6908e55",
+    "regNo": "2511171",
+    "name": "TEJASWI C",
+    "class": "1BCOMAFA",
+    "gender": "MALE",
+    "email": "tejaswi.c@bcomafh.christuniversity.in"
+  },
+  {
+    "id": "3d6fa78e-2ca6-4384-84b1-1a528da9502f",
+    "regNo": "2511172",
+    "name": "THANUSREE ANDEZHATH SHIJITH",
+    "class": "1BCOMAFA",
+    "gender": "FEMALE",
+    "email": "thanusree.shijith@bcomafh.christuniversity.in"
+  },
+  {
+    "id": "2b6a02c6-ff91-4aa0-94b5-79aef004c6e0",
+    "regNo": "2511173",
+    "name": "TRINITY MERLIN A",
+    "class": "1BCOMAFA",
+    "gender": "FEMALE",
+    "email": "trinity.a@bcomafh.christuniversity.in"
+  },
+  {
+    "id": "6d3893a5-0981-4de5-8672-9ef938057694",
+    "regNo": "2511174",
+    "name": "TULASI KJ",
+    "class": "1BCOMAFA",
+    "gender": "FEMALE",
+    "email": "tulasi.kj@bcomafh.christuniversity.in"
+  },
+  {
+    "id": "c71ba826-7be3-4c83-8332-ba01f91f20bf",
+    "regNo": "2511034",
+    "name": "DYUTI KALRA",
+    "class": "1BCOMA&T",
+    "gender": "FEMALE",
+    "email": "dyuti.kalra@bcomath.christuniversity.in"
+  },
+  {
+    "id": "75a6aa24-5291-4dda-9b42-df36a4457946",
+    "regNo": "2511035",
+    "name": "GABRIEL SUNNY",
+    "class": "1BCOMA&T",
+    "gender": "MALE",
+    "email": "gabriel.sunny@bcomath.christuniversity.in"
+  },
+  {
+    "id": "f939993a-0963-4d9a-9228-7fdd02691005",
+    "regNo": "2511036",
+    "name": "GAUTHAM R",
+    "class": "1BCOMA&T",
+    "gender": "MALE",
+    "email": "gautham.r@bcomath.christuniversity.in"
+  },
+  {
+    "id": "ec46a9e7-78e7-44b2-b92d-753a5b6fd805",
+    "regNo": "2511037",
+    "name": "GUNJAN DUTTA",
+    "class": "1BCOMA&T",
+    "gender": "FEMALE",
+    "email": "gunjan.dutta@bcomath.christuniversity.in"
+  },
+  {
+    "id": "01d05071-5fde-45f4-98bc-23fa2590f66d",
+    "regNo": "2511038",
+    "name": "HEMANTHVARMA MADDURI",
+    "class": "1BCOMA&T",
+    "gender": "MALE",
+    "email": "hemanthvarma.madduri@bcomath.christuniversity.in"
+  },
+  {
+    "id": "b103c9c0-d7a9-440a-ab35-a01b084de0f2",
+    "regNo": "2511039",
+    "name": "IRFAN RIAZ",
+    "class": "1BCOMA&T",
+    "gender": "MALE",
+    "email": "irfan.riaz@bcomath.christuniversity.in"
+  },
+  {
+    "id": "065d906a-40e6-4b39-901a-c3ee4f9b739e",
+    "regNo": "2511040",
+    "name": "ISHAN HARISH BAHETI",
+    "class": "1BCOMA&T",
+    "gender": "MALE",
+    "email": "ishan.baheti@bcomath.christuniversity.in"
+  },
+  {
+    "id": "f6b5ffea-467b-4ead-879b-7b89119086de",
+    "regNo": "2511041",
+    "name": "JAYANT KUMAR MISHRA",
+    "class": "1BCOMA&T",
+    "gender": "MALE",
+    "email": "jayant.mishra@bcomath.christuniversity.in"
+  },
+  {
+    "id": "be9eaab6-e6c2-48b9-9b34-635f2219bfae",
+    "regNo": "2511042",
+    "name": "K R LAKSHMI AKSHAYAA",
+    "class": "1BCOMA&T",
+    "gender": "FEMALE",
+    "email": "lakshmi.akshayaa@bcomath.christuniversity.in"
+  },
+  {
+    "id": "1eff320c-a377-43f2-9e66-25b1cfd297fc",
+    "regNo": "2511043",
+    "name": "KARNIKA JAIN",
+    "class": "1BCOMA&T",
+    "gender": "FEMALE",
+    "email": "karnika.jain@bcomath.christuniversity.in"
+  },
+  {
+    "id": "bff360dd-3c36-4673-ade9-a6288b09e1d7",
+    "regNo": "2511044",
+    "name": "KASHIKA JAIN",
+    "class": "1BCOMA&T",
+    "gender": "FEMALE",
+    "email": "kashika.jain@bcomath.christuniversity.in"
+  },
+  {
+    "id": "52fe9d82-70b7-4364-af9d-f958ecba12c7",
+    "regNo": "2511045",
+    "name": "KAVYA N",
+    "class": "1BCOMA&T",
+    "gender": "FEMALE",
+    "email": "kavya.n@bcomath.christuniversity.in"
+  },
+  {
+    "id": "3a2f45f8-7ce4-457b-9dcd-8b59e7698c18",
+    "regNo": "2511046",
+    "name": "KHUSHI PANDEY",
+    "class": "1BCOMA&T",
+    "gender": "FEMALE",
+    "email": "khushi.pandey@bcomath.christuniversity.in"
+  },
+  {
+    "id": "26c2eda1-985d-4554-9aef-0513d2963926",
+    "regNo": "2511047",
+    "name": "LAKSHMIMOHAN VIVEKKUMAR CHANDANI",
+    "class": "1BCOMA&T",
+    "gender": "MALE",
+    "email": "lakshmimohan.chandani@bcomath.christuniversity.in"
+  },
+  {
+    "id": "3d4dab34-1733-46b4-aa46-87dca1f5338a",
+    "regNo": "2511048",
+    "name": "MAITRY MEHTA",
+    "class": "1BCOMA&T",
+    "gender": "FEMALE",
+    "email": "maitry.mehta@bcomath.christuniversity.in"
+  },
+  {
+    "id": "cea74389-ce2c-4f1c-8a3a-df377adb77fb",
+    "regNo": "2511049",
+    "name": "MANSI PATHAK",
+    "class": "1BCOMA&T",
+    "gender": "FEMALE",
+    "email": "mansi.pathak@bcomath.christuniversity.in"
+  },
+  {
+    "id": "63292c7d-000e-4504-8521-b0f9f6133f97",
+    "regNo": "2511050",
+    "name": "MANYA MALVIYA",
+    "class": "1BCOMA&T",
+    "gender": "FEMALE",
+    "email": "manya.malviya@bcomath.christuniversity.in"
+  },
+  {
+    "id": "5f0bd930-5bff-49b2-8f51-3082c0d62051",
+    "regNo": "2511051",
+    "name": "MAYUR GIRI",
+    "class": "1BCOMA&T",
+    "gender": "MALE",
+    "email": "mayur.giri@bcomath.christuniversity.in"
+  },
+  {
+    "id": "0086c924-c867-4d55-961c-29b03d494f4d",
+    "regNo": "2511052",
+    "name": "MOHITH BAIRY",
+    "class": "1BCOMA&T",
+    "gender": "MALE",
+    "email": "mohith.bairy@bcomath.christuniversity.in"
+  },
+  {
+    "id": "12cc232c-aaf2-444f-983a-29c9d362050b",
+    "regNo": "2511053",
+    "name": "MUSKAN SOMANI",
+    "class": "1BCOMA&T",
+    "gender": "FEMALE",
+    "email": "muskan.somani@bcomath.christuniversity.in"
+  },
+  {
+    "id": "4c60aaf0-c60c-49bf-b497-2cab41e5306f",
+    "regNo": "2511054",
+    "name": "NAGASHRI ADYAANTH KULAL",
+    "class": "1BCOMA&T",
+    "gender": "FEMALE",
+    "email": "nagashri.kulal@bcomath.christuniversity.in"
+  },
+  {
+    "id": "f00feb06-075b-4cb1-a9d2-8d4c8b60387e",
+    "regNo": "2511055",
+    "name": "NAKSHATRA AGGARWAL",
+    "class": "1BCOMA&T",
+    "gender": "FEMALE",
+    "email": "nakshatra.aggarwal@bcomath.christuniversity.in"
+  },
+  {
+    "id": "b92a4101-4d83-451c-8ce0-ad9f1fd67773",
+    "regNo": "2511056",
+    "name": "NAVYA A",
+    "class": "1BCOMA&T",
+    "gender": "FEMALE",
+    "email": "navya.a@bcomath.christuniversity.in"
+  },
+  {
+    "id": "254b0ba8-81ee-4068-b5dc-a4ba36ee3199",
+    "regNo": "2511057",
+    "name": "NAVYA AGARWAL",
+    "class": "1BCOMA&T",
+    "gender": "FEMALE",
+    "email": "navya.agarwal@bcomath.christuniversity.in"
+  },
+  {
+    "id": "01455952-5486-4415-9277-a56db0438898",
+    "regNo": "2511058",
+    "name": "NAVYA GROVER",
+    "class": "1BCOMA&T",
+    "gender": "FEMALE",
+    "email": "navya.grover@bcomath.christuniversity.in"
+  },
+  {
+    "id": "5953d8c6-0a6b-4a16-8265-a8e036be8a23",
+    "regNo": "2511059",
+    "name": "NIDHI B SHAH",
+    "class": "1BCOMA&T",
+    "gender": "FEMALE",
+    "email": "nidhi.shah@bcomath.christuniversity.in"
+  },
+  {
+    "id": "c86129f9-25f9-42a8-b1ac-8987f0a8b567",
+    "regNo": "2511060",
+    "name": "NISCHITHA P",
+    "class": "1BCOMA&T",
+    "gender": "FEMALE",
+    "email": "nischitha.p@bcomath.christuniversity.in"
+  },
+  {
+    "id": "33eedbac-8953-4d42-a18c-517dd932d543",
+    "regNo": "2511061",
+    "name": "NISHCHITHA S J",
+    "class": "1BCOMA&T",
+    "gender": "FEMALE",
+    "email": "nishchitha.sj@bcomath.christuniversity.in"
+  },
+  {
+    "id": "66667f6f-942e-4ad3-b2c3-c3d323b2c146",
+    "regNo": "2511062",
+    "name": "NIVEDITHA G",
+    "class": "1BCOMA&T",
+    "gender": "FEMALE",
+    "email": "niveditha.g@bcomath.christuniversity.in"
+  },
+  {
+    "id": "26ed84a5-2e5b-4e9a-844c-a819a15e0868",
+    "regNo": "2511063",
+    "name": "PALAK JAIN",
+    "class": "1BCOMA&T",
+    "gender": "FEMALE",
+    "email": "palak.jain@bcomath.christuniversity.in"
+  },
+  {
+    "id": "6365d376-ff70-4d6a-af85-88fa99df4e19",
+    "regNo": "2511064",
+    "name": "PARTHAV RAO",
+    "class": "1BCOMA&T",
+    "gender": "MALE",
+    "email": "parthav.rao@bcomath.christuniversity.in"
+  },
+  {
+    "id": "f1511394-b5a6-4ae3-88f1-a40a19aec129",
+    "regNo": "2511065",
+    "name": "PRANAV MENON",
+    "class": "1BCOMA&T",
+    "gender": "MALE",
+    "email": "pranav.menon@bcomath.christuniversity.in"
+  },
+  {
+    "id": "6f2a19b1-cace-4903-8d32-01ec581cecf1",
+    "regNo": "2511066",
+    "name": "PRANAY VARMA",
+    "class": "1BCOMA&T",
+    "gender": "MALE",
+    "email": "pranay.varma@bcomath.christuniversity.in"
+  },
+  {
+    "id": "e92aecf8-be2f-4e6d-91d8-350f21b42eba",
+    "regNo": "2511067",
+    "name": "PRISHA JAIN",
+    "class": "1BCOMA&T",
+    "gender": "FEMALE",
+    "email": "prisha.jain@bcomath.christuniversity.in"
+  },
+  {
+    "id": "b33b5920-08a9-495d-97d3-2495f35a1a8b",
+    "regNo": "2511068",
+    "name": "PUSHKAR NARASIMHAN",
+    "class": "1BCOMA&T",
+    "gender": "MALE",
+    "email": "pushkar.narasimhan@bcomath.christuniversity.in"
+  },
+  {
+    "id": "3401e79a-53a9-4aa0-9f37-10c7c64ce12e",
+    "regNo": "2511069",
+    "name": "RAHUL ARAVIND",
+    "class": "1BCOMA&T",
+    "gender": "MALE",
+    "email": "rahul.aravind@bcomath.christuniversity.in"
+  },
+  {
+    "id": "f52fc252-fae2-4755-897a-3642be3e9390",
+    "regNo": "2511070",
+    "name": "REEMA SAHA",
+    "class": "1BCOMA&T",
+    "gender": "FEMALE",
+    "email": "reema.saha@bcomath.christuniversity.in"
+  },
+  {
+    "id": "5cc41851-aed1-41e4-b949-1e03d531c7cd",
+    "regNo": "2511071",
+    "name": "RIDDHI DAGA",
+    "class": "1BCOMA&T",
+    "gender": "FEMALE",
+    "email": "riddhi.daga@bcomath.christuniversity.in"
+  },
+  {
+    "id": "cde6f445-cb53-49cb-ab26-9db0e7f975bf",
+    "regNo": "2511072",
+    "name": "RISHABH SHARMA",
+    "class": "1BCOMA&T",
+    "gender": "MALE",
+    "email": "rishabh.sharma@bcomath.christuniversity.in"
+  },
+  {
+    "id": "abb05bdf-f0dc-43b0-a3d4-dab3639f2a0f",
+    "regNo": "2511073",
+    "name": "RIYA SINGH",
+    "class": "1BCOMA&T",
+    "gender": "FEMALE",
+    "email": "riya.singh@bcomath.christuniversity.in"
+  },
+  {
+    "id": "c12c77f3-0c53-4194-9851-b3b9af14dfb9",
+    "regNo": "2511074",
+    "name": "ROOHI S",
+    "class": "1BCOMA&T",
+    "gender": "FEMALE",
+    "email": "roohi.s@bcomath.christuniversity.in"
+  },
+  {
+    "id": "74f1a09b-4ef6-4e8d-a108-f58390dbfe31",
+    "regNo": "2511075",
+    "name": "S SWATHI",
+    "class": "1BCOMA&T",
+    "gender": "FEMALE",
+    "email": "s.swathi@bcomath.christuniversity.in"
+  },
+  {
+    "id": "14a200c1-5ba5-4f73-a2b7-92972ea23c7f",
+    "regNo": "2511076",
+    "name": "SAHIL KESAR",
+    "class": "1BCOMA&T",
+    "gender": "MALE",
+    "email": "sahil.kesar@bcomath.christuniversity.in"
+  },
+  {
+    "id": "764027c9-07c9-4e98-b32b-b580e3319078",
+    "regNo": "2511077",
+    "name": "SANJAY NARAYANA VARMA",
+    "class": "1BCOMA&T",
+    "gender": "MALE",
+    "email": "sanjay.varma@bcomath.christuniversity.in"
+  },
+  {
+    "id": "dfc6dd9e-dd63-4597-b8cb-dcbe7ccc8b30",
+    "regNo": "2511078",
+    "name": "SANYA GAUR",
+    "class": "1BCOMA&T",
+    "gender": "FEMALE",
+    "email": "sanya.gaur@bcomath.christuniversity.in"
+  },
+  {
+    "id": "ae6e6c42-dc39-4674-a820-f15bbb2ea47b",
+    "regNo": "2511079",
+    "name": "SAUMYA BHARTI",
+    "class": "1BCOMA&T",
+    "gender": "FEMALE",
+    "email": "saumya.bharti@bcomath.christuniversity.in"
+  },
+  {
+    "id": "7f58bd28-ddb9-42d7-b178-a548b0886cd6",
+    "regNo": "2511080",
+    "name": "SHAGUN SINHA",
+    "class": "1BCOMA&T",
+    "gender": "FEMALE",
+    "email": "shagun.sinha@bcomath.christuniversity.in"
+  },
+  {
+    "id": "bc6fa22f-b400-4632-94b6-d0f5193819ca",
+    "regNo": "2511081",
+    "name": "SHIVANI MURALI DHARAN",
+    "class": "1BCOMA&T",
+    "gender": "FEMALE",
+    "email": "shivani.dharan@bcomath.christuniversity.in"
+  },
+  {
+    "id": "00a4606f-75ea-4212-b6f0-6f0df4ec191d",
+    "regNo": "2511082",
+    "name": "SHREYA DAS",
+    "class": "1BCOMA&T",
+    "gender": "FEMALE",
+    "email": "shreya.das@bcomath.christuniversity.in"
+  },
+  {
+    "id": "e15bc1d4-ae31-4a0b-8e09-947e695502b7",
+    "regNo": "2511083",
+    "name": "SHREY GUPTA",
+    "class": "1BCOMA&T",
+    "gender": "MALE",
+    "email": "shrey.gupta@bcomath.christuniversity.in"
+  },
+  {
+    "id": "d33e02f1-5ebd-4741-b71e-b98502552405",
+    "regNo": "2511084",
+    "name": "VAANIA CHANDARANA",
+    "class": "1BCOMA&T",
+    "gender": "FEMALE",
+    "email": "vaania.chandarana@bcomath.christuniversity.in"
+  },
+  {
+    "id": "d7d45a78-e560-4abb-ab1c-72f7f3d3d6d9",
+    "regNo": "2511085",
+    "name": "YASH NARWANI",
+    "class": "1BCOMA&T",
+    "gender": "MALE",
+    "email": "yash.narwani@bcomath.christuniversity.in"
+  },
+  {
+    "id": "c67b0cb3-43ff-45b4-9b0a-30ee3494fba5",
+    "regNo": "2511086",
+    "name": "APOORV SHRIVASTAVA",
+    "class": "1BCOMA&T",
+    "gender": "MALE",
+    "email": "apoorv.shrivastava@bcomath.christuniversity.in"
+  },
+  {
+    "id": "b3db31e7-a481-4587-8ec7-8385e01fe8e4",
+    "regNo": "2511087",
+    "name": "MUDIT MUSADDI",
+    "class": "1BCOMA&T",
+    "gender": "MALE",
+    "email": "mudit.musaddi@bcomath.christuniversity.in"
+  },
+  {
+    "id": "e4a07797-0838-4d90-b2cc-cf7ce8f204e8",
+    "regNo": "2511088",
+    "name": "R SABARINATH",
+    "class": "1BCOMA&T",
+    "gender": "MALE",
+    "email": ""
+  },
+  {
+    "id": "9f283f10-cbbc-44a0-8ce4-12af9a212639",
+    "regNo": "2511101",
+    "name": "A D ASHMITHA",
+    "class": "1BCOMAFA",
+    "gender": "FEMALE",
+    "email": "ad.ashmitha@bcomafh.christuniversity.in"
+  },
+  {
+    "id": "5788b30d-cccf-418d-ba32-e804960236e3",
+    "regNo": "2511102",
+    "name": "ABEER AGARWAL",
+    "class": "1BCOMAFA",
+    "gender": "MALE",
+    "email": "abeer.agarwal@bcomafh.christuniversity.in"
+  },
+  {
+    "id": "a8b99b7d-ca00-499d-abd2-c71f57bd890b",
+    "regNo": "2511103",
+    "name": "ABHAY ALLADI",
+    "class": "1BCOMAFA",
+    "gender": "MALE",
+    "email": "abhay.alladi@bcomafh.christuniversity.in"
+  },
+  {
+    "id": "65c1b2aa-a007-46d8-b913-afcb1b7c091d",
+    "regNo": "2511104",
+    "name": "ABHIRUP MITRA",
+    "class": "1BCOMAFA",
+    "gender": "MALE",
+    "email": "abhirup.mitra@bcomafh.christuniversity.in"
+  },
+  {
+    "id": "11a16c18-a458-47cc-a6a5-99dedb50474c",
+    "regNo": "2511105",
+    "name": "ALENA ANN BYJU",
+    "class": "1BCOMAFA",
+    "gender": "FEMALE",
+    "email": "alena.byju@bcomafh.christuniversity.in"
+  },
+  {
+    "id": "6f64e5ae-7956-43c4-ab31-28f09aba71aa",
+    "regNo": "2511106",
+    "name": "ALEX STANLY",
+    "class": "1BCOMAFA",
+    "gender": "MALE",
+    "email": "alex.stanly@bcomafh.christuniversity.in"
+  },
+  {
+    "id": "009c2f1f-f919-4e1b-8e1e-d95f517ebe05",
+    "regNo": "2511107",
+    "name": "ALINA MATHEW",
+    "class": "1BCOMAFA",
+    "gender": "FEMALE",
+    "email": "alina.mathew@bcomafh.christuniversity.in"
+  },
+  {
+    "id": "92bb4e6f-f823-4980-a4fa-7846e7a96e28",
+    "regNo": "2511108",
+    "name": "ALWIN JOMY",
+    "class": "1BCOMAFA",
+    "gender": "MALE",
+    "email": "alwin.jomy@bcomafh.christuniversity.in"
+  },
+  {
+    "id": "325a9cec-ac0a-422c-8076-22ea847e1cfb",
+    "regNo": "2511109",
+    "name": "AMULYA JAIN",
+    "class": "1BCOMAFA",
+    "gender": "FEMALE",
+    "email": "amulya.jain@bcomafh.christuniversity.in"
+  },
+  {
+    "id": "3531f393-a91c-4429-8784-0923aaebb1f7",
+    "regNo": "2511110",
+    "name": "AR CT ARUNACHALAM",
+    "class": "1BCOMAFA",
+    "gender": "MALE",
+    "email": "ar.arunachalam@bcomafh.christuniversity.in"
+  },
+  {
+    "id": "5c89afe5-cbdc-4ff3-bb6f-b58a7d0c508f",
+    "regNo": "2511111",
+    "name": "ARJUN SREE KUMAR NAIR",
+    "class": "1BCOMAFA",
+    "gender": "MALE",
+    "email": "arjun.nair@bcomafh.christuniversity.in"
+  },
+  {
+    "id": "d3e410af-5733-43f0-a235-c5a38e0fbacb",
+    "regNo": "2511112",
+    "name": "ARQUISH ARBAB KHAN",
+    "class": "1BCOMAFA",
+    "gender": "MALE",
+    "email": "arquish.khan@bcomafh.christuniversity.in"
+  },
+  {
+    "id": "ead9aa06-99e5-42f7-915d-b43ac360d0b1",
+    "regNo": "2511113",
+    "name": "ARYA CHAUDHARY",
+    "class": "1BCOMAFA",
+    "gender": "MALE",
+    "email": "arya.chaudhary@bcomafh.christuniversity.in"
+  },
+  {
+    "id": "539bc063-2cb3-46d5-8ab7-311a4a594c73",
+    "regNo": "2511114",
+    "name": "ASMI SAINI",
+    "class": "1BCOMAFA",
+    "gender": "FEMALE",
+    "email": "asmi.saini@bcomafh.christuniversity.in"
+  },
+  {
+    "id": "b74d4973-a0f0-4d43-8ea7-89b1bd202b94",
+    "regNo": "2511115",
+    "name": "ASTETVA SAH",
+    "class": "1BCOMAFA",
+    "gender": "MALE",
+    "email": "astetva.sah@bcomafh.christuniversity.in"
+  },
+  {
+    "id": "ddc554cd-1f91-4517-864b-0c94b4fae59b",
+    "regNo": "2511116",
+    "name": "AYUSH R NAIR",
+    "class": "1BCOMAFA",
+    "gender": "MALE",
+    "email": "ayush.nair@bcomafh.christuniversity.in"
+  },
+  {
+    "id": "190f01a7-6b0f-4bd9-bd8b-e837312ba75e",
+    "regNo": "2511117",
+    "name": "DAN SAMUEL ASHLEY",
+    "class": "1BCOMAFA",
+    "gender": "MALE",
+    "email": "dan.ashley@bcomafh.christuniversity.in"
+  },
+  {
+    "id": "7e9d3d63-14a7-4be4-8c6a-5444874a3db9",
+    "regNo": "2511118",
+    "name": "DANNY JOHNSON JACOB",
+    "class": "1BCOMAFA",
+    "gender": "MALE",
+    "email": "danny.jacob@bcomafh.christuniversity.in"
+  },
+  {
+    "id": "d93e08ea-5bb7-4b89-8199-29d7e46b7608",
+    "regNo": "2511119",
+    "name": "DEVNA GOYAL",
+    "class": "1BCOMAFA",
+    "gender": "FEMALE",
+    "email": "devna.goyal@bcomafh.christuniversity.in"
+  },
+  {
+    "id": "7cf5e7ee-cb7a-432e-8f01-0ee38d707947",
+    "regNo": "2511120",
+    "name": "DIZA GARG",
+    "class": "1BCOMAFA",
+    "gender": "FEMALE",
+    "email": "diza.garg@bcomafh.christuniversity.in"
+  },
+  {
+    "id": "8a326e75-5d6f-451d-9133-61ba5b63c4f7",
+    "regNo": "2511121",
+    "name": "EMIL SHINE VARGHESE",
+    "class": "1BCOMAFA",
+    "gender": "MALE",
+    "email": "emil.varghese@bcomafh.christuniversity.in"
+  },
+  {
+    "id": "4eeeeddd-a022-404f-9b25-db0656346cbb",
+    "regNo": "2511122",
+    "name": "EVELYN ANNA MARTIN",
+    "class": "1BCOMAFA",
+    "gender": "FEMALE",
+    "email": "evelyn.martin@bcomafh.christuniversity.in"
+  },
+  {
+    "id": "97a2c8d4-6a89-4f9f-a225-ceca811d2444",
+    "regNo": "2511123",
+    "name": "EZA ELIZABETH JUBY",
+    "class": "1BCOMAFA",
+    "gender": "FEMALE",
+    "email": "eza.juby@bcomafh.christuniversity.in"
+  },
+  {
+    "id": "918581ba-05b0-4863-adbb-5cdec32ffa6f",
+    "regNo": "2511124",
+    "name": "GAURI SHANKAR",
+    "class": "1BCOMAFA",
+    "gender": "FEMALE",
+    "email": "gauri.shankar@bcomafh.christuniversity.in"
+  },
+  {
+    "id": "341d9229-ebfa-4d4a-abbd-cbdfcbc2a441",
+    "regNo": "2511125",
+    "name": "GAURISH ARORA",
+    "class": "1BCOMAFA",
+    "gender": "MALE",
+    "email": "gaurish.arora@bcomafh.christuniversity.in"
+  },
+  {
+    "id": "27be65cc-489d-4f11-a3aa-a0a0b721f52a",
+    "regNo": "2511126",
+    "name": "HARSHEEL YANNIS Y",
+    "class": "1BCOMAFA",
+    "gender": "MALE",
+    "email": "harsheel.y@bcomafh.christuniversity.in"
+  },
+  {
+    "id": "839db253-91c6-4d7a-94d5-91f0d4120a88",
+    "regNo": "2511127",
+    "name": "JEEVAN JAYAN",
+    "class": "1BCOMAFA",
+    "gender": "MALE",
+    "email": "jeevan.jayan@bcomafh.christuniversity.in"
+  },
+  {
+    "id": "1cdc402c-28ce-4e70-b452-f26334e4ce85",
+    "regNo": "2511128",
+    "name": "JES VIJU",
+    "class": "1BCOMAFA",
+    "gender": "MALE",
+    "email": "jes.viju@bcomafh.christuniversity.in"
+  },
+  {
+    "id": "46cbe6e6-bdef-4100-b1db-32c370e57b7e",
+    "regNo": "2511129",
+    "name": "JOHN C SUNNY",
+    "class": "1BCOMAFA",
+    "gender": "MALE",
+    "email": "john.sunny@bcomafh.christuniversity.in"
+  },
+  {
+    "id": "d9198dc4-c62a-4386-b8db-a686644bb767",
+    "regNo": "2511130",
+    "name": "KARTHICK KASHYAP",
+    "class": "1BCOMAFA",
+    "gender": "MALE",
+    "email": "karthick.kashyap@bcomafh.christuniversity.in"
+  },
+  {
+    "id": "5fd27749-e887-429c-8e55-68436d1e66e1",
+    "regNo": "2511131",
+    "name": "KEN SHIBIN",
+    "class": "1BCOMAFA",
+    "gender": "MALE",
+    "email": "ken.shibin@bcomafh.christuniversity.in"
+  },
+  {
+    "id": "65df1f98-d6ce-4d59-aa9e-be40ba459487",
+    "regNo": "2511356",
+    "name": "SANJITH VEERAPPAN V",
+    "class": "1BCOMF&I A",
+    "gender": "MALE",
+    "email": "sanjith.v@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "4a58b5d4-ea9f-4f3b-a403-14d843313d0c",
+    "regNo": "2511357",
+    "name": "SARBANI KAUR",
+    "class": "1BCOMF&I A",
+    "gender": "FEMALE",
+    "email": "sarbani.kaur@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "3c3608aa-584d-498e-af2c-a56a8a7c949c",
+    "regNo": "2511358",
+    "name": "SAVIO SCARIA SILBY",
+    "class": "1BCOMF&I A",
+    "gender": "MALE",
+    "email": "savio.silby@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "2cc87dd1-3169-4816-8c78-f9efa9c8d8cf",
+    "regNo": "2511359",
+    "name": "SERA MARIAM DAVID",
+    "class": "1BCOMF&I A",
+    "gender": "FEMALE",
+    "email": "sera.david@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "daa34486-7238-49d6-b695-2532eda5924f",
+    "regNo": "2511360",
+    "name": "SHARON JIJU",
+    "class": "1BCOMF&I A",
+    "gender": "FEMALE",
+    "email": "sharon.jiju@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "f18e30ec-398e-4fca-a5b0-717f936739ee",
+    "regNo": "2511361",
+    "name": "SHRESHTA SUDISH",
+    "class": "1BCOMF&I A",
+    "gender": "FEMALE",
+    "email": "shreshta.sudish@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "b14d9e5e-7c86-4431-9894-5a2406e166b5",
+    "regNo": "2511362",
+    "name": "SHURAIM SAQEEB SIDDIQUE",
+    "class": "1BCOMF&I A",
+    "gender": "MALE",
+    "email": "shuraim.siddique@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "e9467835-28b1-40be-a6ab-eeb26659071a",
+    "regNo": "2511363",
+    "name": "SOHAM MANISH LIMAYE",
+    "class": "1BCOMF&I A",
+    "gender": "MALE",
+    "email": "soham.limaye@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "b63299ca-fbed-49f6-a0db-2288119edc62",
+    "regNo": "2511364",
+    "name": "STEPHIN JOSE",
+    "class": "1BCOMF&I A",
+    "gender": "MALE",
+    "email": "stephin.jose@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "b40a358b-7611-4f5d-add4-e02f5f7d4d08",
+    "regNo": "2511365",
+    "name": "TANISH KABRA",
+    "class": "1BCOMF&I A",
+    "gender": "MALE",
+    "email": "tanish.kabra@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "7240bb7d-abae-486e-9e6e-355a3ac86c1f",
+    "regNo": "2511366",
+    "name": "TANMAY JAIN",
+    "class": "1BCOMF&I A",
+    "gender": "MALE",
+    "email": "tanmay.jain@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "c75bbfac-2c80-4867-9975-88f7d6356658",
+    "regNo": "2511367",
+    "name": "TEJAS PARMANANDKA",
+    "class": "1BCOMF&I A",
+    "gender": "MALE",
+    "email": "tejas.parmanandka@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "80f526d2-8ad2-4ca9-912d-fdf8a1bf54ff",
+    "regNo": "2511368",
+    "name": "VAANYA CHOPRA",
+    "class": "1BCOMF&I A",
+    "gender": "FEMALE",
+    "email": "vaanya.chopra@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "2601d2ac-88d7-421f-b7e5-fe38fa34fba8",
+    "regNo": "2511369",
+    "name": "VAIBHAV",
+    "class": "1BCOMF&I A",
+    "gender": "MALE",
+    "email": "vaibhav@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "5ca374de-2c32-40dc-b0c3-c658a220ccec",
+    "regNo": "2511370",
+    "name": "VANSH RATHI",
+    "class": "1BCOMF&I A",
+    "gender": "MALE",
+    "email": "vansh.rathi@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "da382b3e-2b7c-4783-bba5-a0b5a5706c5e",
+    "regNo": "2511371",
+    "name": "VANSSH SINGGHVI",
+    "class": "1BCOMF&I A",
+    "gender": "MALE",
+    "email": "vanssh.singghvi@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "c3ddd04a-709b-4019-9bbe-d12ba0bee4fe",
+    "regNo": "2511372",
+    "name": "VEDANSH SARRAF",
+    "class": "1BCOMF&I A",
+    "gender": "MALE",
+    "email": "vedansh.sarraf@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "da203eb0-b1b7-4cd3-892a-8a1afe370958",
+    "regNo": "2511373",
+    "name": "VIDHI DHIMAN",
+    "class": "1BCOMF&I A",
+    "gender": "FEMALE",
+    "email": "vidhi.dhiman@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "07e6d762-4e59-4a7d-9b90-385b73cb9663",
+    "regNo": "2511374",
+    "name": "VINAYAK NAG",
+    "class": "1BCOMF&I A",
+    "gender": "MALE",
+    "email": "vinayak.nag@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "3b61db88-9288-443e-9b9d-04657d52d69e",
+    "regNo": "2511375",
+    "name": "R VENCLIN SANTHIYA MARY",
+    "class": "1BCOMF&I A",
+    "gender": "FEMALE",
+    "email": "venclin.santhiyamary@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "2185c831-fce9-4c68-9665-2e24a75fdedf",
+    "regNo": "2511376",
+    "name": "AASHMAN GANESH SHETTY",
+    "class": "1BCOMF&I A",
+    "gender": "MALE",
+    "email": ""
+  },
+  {
+    "id": "a88d778c-ca60-4f94-83d9-4c2f5932aadd",
+    "regNo": "2511377",
+    "name": "PRANAV K MURTHY",
+    "class": "1BCOMF&I A",
+    "gender": "MALE",
+    "email": ""
+  },
+  {
+    "id": "a276059c-133f-4100-b181-c8b4cab67f12",
+    "regNo": "2511401",
+    "name": "ADITYA AGGARWAL",
+    "class": "1BCOMF&I B",
+    "gender": "MALE",
+    "email": "aditya.aggarwal@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "6ed99dcd-29ad-44bf-b493-49f22960d5ff",
+    "regNo": "2511402",
+    "name": "ADITYA JAIN",
+    "class": "1BCOMF&I B",
+    "gender": "MALE",
+    "email": "adityajain@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "f7a1fa3d-efca-492d-b9fd-ce2515b294bb",
+    "regNo": "2511403",
+    "name": "ALEENA JOSHY",
+    "class": "1BCOMF&I B",
+    "gender": "FEMALE",
+    "email": "aleena.joshy@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "6f116a17-eca9-4ce5-958a-39461e1fb902",
+    "regNo": "2511404",
+    "name": "AMAN KRISHNANI",
+    "class": "1BCOMF&I B",
+    "gender": "MALE",
+    "email": "aman.krishnani@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "885d13cc-eca2-4461-8787-1f0c744e5106",
+    "regNo": "2511405",
+    "name": "ANEESH PATEL",
+    "class": "1BCOMF&I B",
+    "gender": "MALE",
+    "email": "aneesh.patel@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "d75f7fd4-8674-4bb5-bfcc-cd17fc87d0d2",
+    "regNo": "2511175",
+    "name": "TUSHAR S JAIN",
+    "class": "1BCOMAFA",
+    "gender": "MALE",
+    "email": "tushar.jain@bcomafh.christuniversity.in"
+  },
+  {
+    "id": "5678c194-ad78-4a64-8d6c-646c0073d16e",
+    "regNo": "2511176",
+    "name": "UTKARSH SHINGHAL",
+    "class": "1BCOMAFA",
+    "gender": "MALE",
+    "email": "utkarsh.shinghal@bcomafh.christuniversity.in"
+  },
+  {
+    "id": "4c441bea-906f-4889-a837-09fe0ec3cf91",
+    "regNo": "2511177",
+    "name": "YASH MANISH RAMCHANDANI",
+    "class": "1BCOMAFA",
+    "gender": "MALE",
+    "email": "yash.ramchandani@bcomafh.christuniversity.in"
+  },
+  {
+    "id": "8bef29a9-f2dd-432b-912b-91ab7551024a",
+    "regNo": "2511178",
+    "name": "ZUBIN MOHAN",
+    "class": "1BCOMAFA",
+    "gender": "MALE",
+    "email": "zubin.mohan@bcomafh.christuniversity.in"
+  },
+  {
+    "id": "7f623920-5ed3-47db-8637-0973a35646f6",
+    "regNo": "2511301",
+    "name": "AAKAASH DEEP P V",
+    "class": "1BCOMF&I A",
+    "gender": "MALE",
+    "email": "aakaash.pv@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "a8cc4c84-ac88-4a70-887b-d4fc22665724",
+    "regNo": "2511302",
+    "name": "AAYUSHI PRASHANT CHITTARAGI",
+    "class": "1BCOMF&I A",
+    "gender": "FEMALE",
+    "email": "aayushi.chittaragi@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "c0664767-fd6a-4b08-a7fc-f365f1955c30",
+    "regNo": "2511303",
+    "name": "ABEL BIJU THOMAS",
+    "class": "1BCOMF&I A",
+    "gender": "MALE",
+    "email": "abel.thomas@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "6e1ff2cc-976e-4901-b3ff-02e3a0e487d2",
+    "regNo": "2511304",
+    "name": "ABHEEK SHARMA",
+    "class": "1BCOMF&I A",
+    "gender": "MALE",
+    "email": "abheek.sharma@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "1c31126d-3266-410d-bd6c-f3ad898f09b7",
+    "regNo": "2511305",
+    "name": "ABHIJITH JOJU",
+    "class": "1BCOMF&I A",
+    "gender": "MALE",
+    "email": "abhijith.joju@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "c2adefaa-cf2d-4751-8467-123b9234342b",
+    "regNo": "2511306",
+    "name": "ADVAITH P NAMBIAR",
+    "class": "1BCOMF&I A",
+    "gender": "MALE",
+    "email": "advaith.nambiar@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "d16b74d8-3787-406a-9ce9-2782f189ec7c",
+    "regNo": "2511307",
+    "name": "ANGELINA RACHEL",
+    "class": "1BCOMF&I A",
+    "gender": "FEMALE",
+    "email": "angelina.rachel@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "4e23a449-e0b9-46da-b149-6af3fa7392d1",
+    "regNo": "2511308",
+    "name": "ANTONY DAVID NIXON",
+    "class": "1BCOMF&I A",
+    "gender": "MALE",
+    "email": "antony.nixon@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "1d709190-fcc6-401c-9024-5e5f199c14a2",
+    "regNo": "2511309",
+    "name": "APURV DUBEY",
+    "class": "1BCOMF&I A",
+    "gender": "MALE",
+    "email": "apurv.dubey@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "bfff3a35-fbb3-422b-9d9a-1369feeb2a17",
+    "regNo": "2511310",
+    "name": "ARJUN ROY",
+    "class": "1BCOMF&I A",
+    "gender": "MALE",
+    "email": "arjun.roy@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "e189cd6b-0ebe-40cb-ae11-81046553832b",
+    "regNo": "2511311",
+    "name": "ARMAAN JAIN",
+    "class": "1BCOMF&I A",
+    "gender": "MALE",
+    "email": "armaan.jain@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "a0c62631-f538-412c-9359-f51815de5ae5",
+    "regNo": "2511312",
+    "name": "ARNAV KHANNA",
+    "class": "1BCOMF&I A",
+    "gender": "MALE",
+    "email": "arnav.khanna@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "1514c605-07e7-42bc-b979-bf0a79fcd0e0",
+    "regNo": "2511313",
+    "name": "ASHWINI MANJUNATH",
+    "class": "1BCOMF&I A",
+    "gender": "FEMALE",
+    "email": "ashwini.manjunath@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "30c5d21b-09a7-45dc-b3e7-8bbd3e18aa7d",
+    "regNo": "2511314",
+    "name": "AVISHEK BHADURY",
+    "class": "1BCOMF&I A",
+    "gender": "MALE",
+    "email": "avishek.bhadury@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "78069c15-4b68-4a60-9f54-6ed9abf19990",
+    "regNo": "2511315",
+    "name": "CATHY ANN JOBBY",
+    "class": "1BCOMF&I A",
+    "gender": "FEMALE",
+    "email": "cathy.jobby@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "74780c13-01ae-416e-9e8a-858aa1eeb80f",
+    "regNo": "2511316",
+    "name": "DEVA NANDA VIJU KUMAR",
+    "class": "1BCOMF&I A",
+    "gender": "FEMALE",
+    "email": "deva.kumar@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "483a6732-7286-4a48-b1a7-9b7dd2cfbd4b",
+    "regNo": "2511317",
+    "name": "DEVARSH MITESH BORKHETARIYA",
+    "class": "1BCOMF&I A",
+    "gender": "MALE",
+    "email": "devarsh.borkhetariya@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "b9712e70-d5d9-4637-9e06-7f42d73d0e49",
+    "regNo": "2511318",
+    "name": "DHAIRYA ANKIT CHANGANI",
+    "class": "1BCOMF&I A",
+    "gender": "MALE",
+    "email": "dhairya.changani@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "5e9a914b-0084-4840-be44-7142a61b4a6e",
+    "regNo": "2511319",
+    "name": "DHRUV GANDHI",
+    "class": "1BCOMF&I A",
+    "gender": "MALE",
+    "email": "dhruv.gandhi@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "e4bea882-65d1-411a-8ff6-f1c50817a363",
+    "regNo": "2511320",
+    "name": "DIKSHA S JAIN",
+    "class": "1BCOMF&I A",
+    "gender": "FEMALE",
+    "email": "diksha.jain@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "b44b095f-f251-4de7-80ed-9abcf557252a",
+    "regNo": "2511321",
+    "name": "HANSIKA SINGH",
+    "class": "1BCOMF&I A",
+    "gender": "FEMALE",
+    "email": "hansika.singh@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "2d711f5c-91e7-49ef-ace6-e2c5e53a9f20",
+    "regNo": "2511322",
+    "name": "HARSHEET JAIN",
+    "class": "1BCOMF&I A",
+    "gender": "MALE",
+    "email": "harsheet.jain@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "ce094831-936d-49c2-9d45-f159a4eb1f1a",
+    "regNo": "2511323",
+    "name": "JANAKI PRAVEEN",
+    "class": "1BCOMF&I A",
+    "gender": "FEMALE",
+    "email": "janaki.praveen@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "4f231cdd-05ea-45e0-9178-ba911f82d93b",
+    "regNo": "2511324",
+    "name": "JENO PAUL",
+    "class": "1BCOMF&I A",
+    "gender": "MALE",
+    "email": "jeno.paul@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "3679d289-941a-4392-a98d-1189f7e22c9a",
+    "regNo": "2511325",
+    "name": "JEROME JOE JOSEPH",
+    "class": "1BCOMF&I A",
+    "gender": "MALE",
+    "email": "jerome.joseph@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "8ed6811f-3fd7-49c9-843d-7179604c1e3e",
+    "regNo": "2511326",
+    "name": "JOANN JOHNSON",
+    "class": "1BCOMF&I A",
+    "gender": "FEMALE",
+    "email": "joann.johnson@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "79724cf0-6336-4589-98f1-5db54874e918",
+    "regNo": "2511327",
+    "name": "JOEL THOMAS",
+    "class": "1BCOMF&I A",
+    "gender": "MALE",
+    "email": "joel.thomas@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "70e03a97-6bc1-459b-8ed3-ff17d707bd49",
+    "regNo": "2511328",
+    "name": "JOHANNAN ANIL MATHEW",
+    "class": "1BCOMF&I A",
+    "gender": "MALE",
+    "email": "johannan.mathew@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "0cd93244-6e59-4176-8226-49eb191fbfc0",
+    "regNo": "2511330",
+    "name": "KANISHK REDDY P",
+    "class": "1BCOMF&I A",
+    "gender": "MALE",
+    "email": "kanishk.p@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "a4302aa2-e1b5-40e4-9ee3-08c10f89a607",
+    "regNo": "2511331",
+    "name": "KARAN DEV",
+    "class": "1BCOMF&I A",
+    "gender": "MALE",
+    "email": "karan.dev@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "5a463243-d457-423b-b6c1-510bc6e40608",
+    "regNo": "2511332",
+    "name": "KHUSHI MISHRA",
+    "class": "1BCOMF&I A",
+    "gender": "FEMALE",
+    "email": "khushi.mishra@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "06f79b1c-1d52-4370-828f-e90425315dca",
+    "regNo": "2511333",
+    "name": "KRISHNA TOLA",
+    "class": "1BCOMF&I A",
+    "gender": "MALE",
+    "email": "krishna.tola@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "24ae13e7-f70e-46a6-9005-d892a5ab3439",
+    "regNo": "2511334",
+    "name": "LAVANYA SINGH JAMWAL",
+    "class": "1BCOMF&I A",
+    "gender": "FEMALE",
+    "email": "lavanya.jamwal@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "e084c944-50e6-441d-a4c8-d503486122bc",
+    "regNo": "2511335",
+    "name": "LAVINA GOYAL",
+    "class": "1BCOMF&I A",
+    "gender": "FEMALE",
+    "email": "lavina.goyal@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "7987a8f4-febe-4aff-ba15-2d48a0b88be3",
+    "regNo": "2511336",
+    "name": "LEO ALLEN A",
+    "class": "1BCOMF&I A",
+    "gender": "MALE",
+    "email": "leo.a@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "3ca58e8a-72e8-4033-a376-5aa000397e40",
+    "regNo": "2511337",
+    "name": "LIKHIT V JAIN",
+    "class": "1BCOMF&I A",
+    "gender": "MALE",
+    "email": "likhit.jain@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "f85ccceb-95e8-48b4-aae7-25a01751b917",
+    "regNo": "2511338",
+    "name": "MARIYA SAJI",
+    "class": "1BCOMF&I A",
+    "gender": "FEMALE",
+    "email": "mariya.saji@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "7ebecb49-c29a-4853-8956-ac37f14146f3",
+    "regNo": "2511339",
+    "name": "MEDHANSH SINGHAL",
+    "class": "1BCOMF&I A",
+    "gender": "MALE",
+    "email": "medhansh.singhal@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "498db58a-bfcf-43ce-9df6-0bacdc2bfb7b",
+    "regNo": "2511340",
+    "name": "MOHAMMED HAMBAL PUZHANGARA ILLUTH",
+    "class": "1BCOMF&I A",
+    "gender": "MALE",
+    "email": "mohammed.illuth@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "9c9a83b6-9a3e-4e23-b61b-ecc4bac90d4f",
+    "regNo": "2511341",
+    "name": "MOOLE VENKATA SRIHITHA",
+    "class": "1BCOMF&I A",
+    "gender": "FEMALE",
+    "email": "moole.srihitha@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "2b752070-4e82-4e6c-934b-511e002cd0e2",
+    "regNo": "2511342",
+    "name": "NAMRATHA BK",
+    "class": "1BCOMF&I A",
+    "gender": "FEMALE",
+    "email": "namratha.bk@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "6603dc06-d0b8-4928-bec8-b25b8a145189",
+    "regNo": "2511343",
+    "name": "NIHAL KRISHNA PALLITHARA SHAL",
+    "class": "1BCOMF&I A",
+    "gender": "MALE",
+    "email": "nihal.shal@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "62886e30-32bc-4f83-8bcc-b60ecffd6437",
+    "regNo": "2511344",
+    "name": "NIKHILESH JHUNJHUNWALA",
+    "class": "1BCOMF&I A",
+    "gender": "MALE",
+    "email": "nikhilesh.jhunjhunwala@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "0f9f7470-0b81-4693-8216-dceb14fcdac0",
+    "regNo": "2511345",
+    "name": "NILA SIVAKUMAR",
+    "class": "1BCOMF&I A",
+    "gender": "FEMALE",
+    "email": "nila.sivakumar@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "75099b00-d74c-4886-9156-c04bbdc3d849",
+    "regNo": "2511346",
+    "name": "PARTH ISRANI",
+    "class": "1BCOMF&I A",
+    "gender": "MALE",
+    "email": "parth.israni@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "eb783ef4-ca1d-44e0-ac13-cda86faf24e0",
+    "regNo": "2511347",
+    "name": "PRADEEP D N",
+    "class": "1BCOMF&I A",
+    "gender": "MALE",
+    "email": "pradeep.dn@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "a51da8d8-e4ca-4879-aa6f-cbcf84b88f5d",
+    "regNo": "2511348",
+    "name": "PRATEEK KUMBHAT",
+    "class": "1BCOMF&I A",
+    "gender": "MALE",
+    "email": "prateek.kumbhat@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "93b19818-3190-4ed8-ae55-77b54465593c",
+    "regNo": "2511349",
+    "name": "PRATIK RAJPUROHIT",
+    "class": "1BCOMF&I A",
+    "gender": "MALE",
+    "email": "pratik.rajpurohit@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "6a814323-62ba-4ffb-b5b5-f6c879b1f58d",
+    "regNo": "2511350",
+    "name": "PRISHA KHEMKA",
+    "class": "1BCOMF&I A",
+    "gender": "FEMALE",
+    "email": "prisha.khemka@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "f85610df-aabf-4d9d-bd0b-e16c5a3cb0ea",
+    "regNo": "2511351",
+    "name": "R LOHITH",
+    "class": "1BCOMF&I A",
+    "gender": "MALE",
+    "email": "r.lohith@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "a93c966f-b7f4-478b-82bc-fb73cce1fd49",
+    "regNo": "2511352",
+    "name": "RAFAEL JOSE MANJOORAN",
+    "class": "1BCOMF&I A",
+    "gender": "MALE",
+    "email": "rafael.manjooran@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "8103936b-1040-430a-8b73-4ac17d7afd88",
+    "regNo": "2511353",
+    "name": "REVANT AGARWAL",
+    "class": "1BCOMF&I A",
+    "gender": "MALE",
+    "email": "revant.agarwal@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "45b5d03b-b0ea-49f3-8788-3e5d92a48c6e",
+    "regNo": "2511354",
+    "name": "SAKETH VADAKEPAT MANAKIL",
+    "class": "1BCOMF&I A",
+    "gender": "MALE",
+    "email": "saketh.manakil@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "50720d67-c6cc-41e6-8309-788543923527",
+    "regNo": "2511355",
+    "name": "SAMUEL LUKE JOSEPH",
+    "class": "1BCOMF&I A",
+    "gender": "MALE",
+    "email": "samuel.joseph@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "bf1b7fd0-4e09-4c3b-b99f-d314a850c177",
+    "regNo": "2511504",
+    "name": "ABHIMANYU M",
+    "class": "1BCOMSF",
+    "gender": "MALE",
+    "email": "abhimanyu.m@bcomsfh.christuniversity.in"
+  },
+  {
+    "id": "a8cd878a-d2c0-4ee0-b2fc-b394afd0a2c9",
+    "regNo": "2511506",
+    "name": "ADITYA PRASHANTH",
+    "class": "1BCOMSF",
+    "gender": "MALE",
+    "email": "aditya.prashanth@bcomsfh.christuniversity.in"
+  },
+  {
+    "id": "fe66e5cc-fd87-4e5b-818a-ff8ce5e5c96c",
+    "regNo": "2511507",
+    "name": "AGNI SHEKHAR GHOSH",
+    "class": "1BCOMSF",
+    "gender": "MALE",
+    "email": "agni.ghosh@bcomsfh.christuniversity.in"
+  },
+  {
+    "id": "8676ce7c-edca-435f-8768-409240174568",
+    "regNo": "2511508",
+    "name": "AKSHAT GAJAPATHI NARAYAN DEO",
+    "class": "1BCOMSF",
+    "gender": "MALE",
+    "email": "akshat.deo@bcomsfh.christuniversity.in"
+  },
+  {
+    "id": "b32ee6a2-7eea-42ea-a046-1245d5e8c352",
+    "regNo": "2511509",
+    "name": "AKSHITI AGRAWAL",
+    "class": "1BCOMSF",
+    "gender": "FEMALE",
+    "email": "akshiti.agrawal@bcomsfh.christuniversity.in"
+  },
+  {
+    "id": "9d4a7621-1abd-4e63-8a53-ddd25d7432c6",
+    "regNo": "2511510",
+    "name": "AMBUJ AMAR",
+    "class": "1BCOMSF",
+    "gender": "MALE",
+    "email": "ambuj.amar@bcomsfh.christuniversity.in"
+  },
+  {
+    "id": "d53e43e4-4b60-46d9-ad17-c31e58c1eef8",
+    "regNo": "2511511",
+    "name": "ANIK CHATTOPADHYAY",
+    "class": "1BCOMSF",
+    "gender": "MALE",
+    "email": "anik.chattopadhyay@bcomsfh.christuniversity.in"
+  },
+  {
+    "id": "ce0b73fb-9bc5-4054-840e-935e1146002a",
+    "regNo": "2511512",
+    "name": "ANIRUDHA S ATHREYA",
+    "class": "1BCOMSF",
+    "gender": "MALE",
+    "email": "anirudha.athreya@bcomsfh.christuniversity.in"
+  },
+  {
+    "id": "349665bc-b19a-42c4-90e9-5fb134324606",
+    "regNo": "2511513",
+    "name": "ANJALEENA WILSON",
+    "class": "1BCOMSF",
+    "gender": "FEMALE",
+    "email": "anjaleena.wilson@bcomsfh.christuniversity.in"
+  },
+  {
+    "id": "91d16022-9b31-454a-a806-4d3ac156aced",
+    "regNo": "2511514",
+    "name": "AVINASH ASHOK",
+    "class": "1BCOMSF",
+    "gender": "MALE",
+    "email": "avinash.ashok@bcomsfh.christuniversity.in"
+  },
+  {
+    "id": "8552ea01-4e19-4e42-8bed-14be7d610dc3",
+    "regNo": "2511515",
+    "name": "CAROLIN THERESA SUNIL",
+    "class": "1BCOMSF",
+    "gender": "FEMALE",
+    "email": "carolin.sunil@bcomsfh.christuniversity.in"
+  },
+  {
+    "id": "99a5efdd-2fd5-45c6-a9a2-a4d5daab3922",
+    "regNo": "2511516",
+    "name": "CATHERINE GEORGE",
+    "class": "1BCOMSF",
+    "gender": "FEMALE",
+    "email": "catherine.george@bcomsfh.christuniversity.in"
+  },
+  {
+    "id": "1ca5c6f8-a9eb-4cb8-a929-6c13f6f7c80f",
+    "regNo": "2511517",
+    "name": "CELINA BHARGAVA",
+    "class": "1BCOMSF",
+    "gender": "FEMALE",
+    "email": "celina.bhargava@bcomsfh.christuniversity.in"
+  },
+  {
+    "id": "3cd43312-3400-4579-8538-aa892f866ead",
+    "regNo": "2511518",
+    "name": "CHACKO JOSEY",
+    "class": "1BCOMSF",
+    "gender": "MALE",
+    "email": "chacko.josey@bcomsfh.christuniversity.in"
+  },
+  {
+    "id": "b5cb4530-84d8-4b56-9910-4bcd9d792ecd",
+    "regNo": "2511519",
+    "name": "CHANDAN J SIGUNDEY",
+    "class": "1BCOMSF",
+    "gender": "MALE",
+    "email": "chandan.sigundey@bcomsfh.christuniversity.in"
+  },
+  {
+    "id": "371f8d8e-9c09-41ef-81e5-46ffffa31546",
+    "regNo": "2511520",
+    "name": "CHRIS THOMAS GEORGE",
+    "class": "1BCOMSF",
+    "gender": "MALE",
+    "email": "chris.george@bcomsfh.christuniversity.in"
+  },
+  {
+    "id": "40a4f072-8dc0-4d2d-9065-abaf98ffa492",
+    "regNo": "2511521",
+    "name": "CHUNDURI RUJULA",
+    "class": "1BCOMSF",
+    "gender": "FEMALE",
+    "email": "chunduri.rujula@bcomsfh.christuniversity.in"
+  },
+  {
+    "id": "a163640a-0a84-4a4f-ab24-6084e852d793",
+    "regNo": "2511522",
+    "name": "DEVANSH CHAUDHURY",
+    "class": "1BCOMSF",
+    "gender": "MALE",
+    "email": "devansh.chaudhury@bcomsfh.christuniversity.in"
+  },
+  {
+    "id": "a633b3b8-7ead-48c1-8428-ec4b96a84bc7",
+    "regNo": "2511523",
+    "name": "DEVANSH DAGA",
+    "class": "1BCOMSF",
+    "gender": "MALE",
+    "email": "devansh.daga@bcomsfh.christuniversity.in"
+  },
+  {
+    "id": "9ea556d3-b72e-4623-afdd-864e50f6cba0",
+    "regNo": "2511524",
+    "name": "DHANUSH V",
+    "class": "1BCOMSF",
+    "gender": "MALE",
+    "email": "dhanush.v@bcomsfh.christuniversity.in"
+  },
+  {
+    "id": "bc6dfff0-b194-4ee8-a604-d713fe58e2d8",
+    "regNo": "2511525",
+    "name": "ELIZABETH THOMAS BOBBY",
+    "class": "1BCOMSF",
+    "gender": "FEMALE",
+    "email": "elizabeth.bobby@bcomsfh.christuniversity.in"
+  },
+  {
+    "id": "3156ce27-e2de-49f1-9604-1d7d9a302249",
+    "regNo": "2511526",
+    "name": "EVIN JAISON KONNOTH",
+    "class": "1BCOMSF",
+    "gender": "MALE",
+    "email": "evin.konnoth@bcomsfh.christuniversity.in"
+  },
+  {
+    "id": "084fffe8-2e27-41ce-a8c6-d5abf4f4bbdc",
+    "regNo": "2511527",
+    "name": "G P RACHITA",
+    "class": "1BCOMSF",
+    "gender": "FEMALE",
+    "email": "gp.rachita@bcomsfh.christuniversity.in"
+  },
+  {
+    "id": "dccc8112-8da1-4c11-89a8-43ec4092861e",
+    "regNo": "2511528",
+    "name": "GAGANA PRAMOD",
+    "class": "1BCOMSF",
+    "gender": "FEMALE",
+    "email": "gagana.pramod@bcomsfh.christuniversity.in"
+  },
+  {
+    "id": "a1730ac6-6e00-40fa-a515-70527c863d49",
+    "regNo": "2511529",
+    "name": "GAUTAM KRISHNA S",
+    "class": "1BCOMSF",
+    "gender": "MALE",
+    "email": "gautam.s@bcomsfh.christuniversity.in"
+  },
+  {
+    "id": "3e294241-06ff-480c-9cd5-effedb0da9ec",
+    "regNo": "2511530",
+    "name": "HARINI M",
+    "class": "1BCOMSF",
+    "gender": "FEMALE",
+    "email": "harini.m@bcomsfh.christuniversity.in"
+  },
+  {
+    "id": "2d92eb5b-fa4c-47cf-9aab-ac0b744f79b7",
+    "regNo": "2511531",
+    "name": "HARITH BACKER C K",
+    "class": "1BCOMSF",
+    "gender": "MALE",
+    "email": "harith.ck@bcomsfh.christuniversity.in"
+  },
+  {
+    "id": "306b3f19-16a4-40db-96ea-e820f16976d1",
+    "regNo": "2511532",
+    "name": "HARSHINI R M",
+    "class": "1BCOMSF",
+    "gender": "FEMALE",
+    "email": "harshini.rm@bcomsfh.christuniversity.in"
+  },
+  {
+    "id": "ef82b2d4-6b1f-40c6-a80c-3ecde66e8b4d",
+    "regNo": "2511533",
+    "name": "HARSHIT RUSTAGI",
+    "class": "1BCOMSF",
+    "gender": "MALE",
+    "email": "harshit.rustagi@bcomsfh.christuniversity.in"
+  },
+  {
+    "id": "0144b339-654a-47bb-a124-0c33d3d30b12",
+    "regNo": "2511534",
+    "name": "HERLIN GIGI",
+    "class": "1BCOMSF",
+    "gender": "FEMALE",
+    "email": "herlin.gigi@bcomsfh.christuniversity.in"
+  },
+  {
+    "id": "325c7290-16e1-46b8-9f5a-91e626d94f58",
+    "regNo": "2511535",
+    "name": "KAILASH",
+    "class": "1BCOMSF",
+    "gender": "MALE",
+    "email": "kailash@bcomsfh.christuniversity.in"
+  },
+  {
+    "id": "c46a1c53-d204-4fce-b02d-72a0d5d6d18c",
+    "regNo": "2511536",
+    "name": "KANISHK KASTURI",
+    "class": "1BCOMSF",
+    "gender": "MALE",
+    "email": "kanishk.kasturi@bcomsfh.christuniversity.in"
+  },
+  {
+    "id": "349c2b03-07d8-4a6b-8984-96e96bb29c7b",
+    "regNo": "2511537",
+    "name": "KATELYN MAE DAVID",
+    "class": "1BCOMSF",
+    "gender": "FEMALE",
+    "email": "katelyn.david@bcomsfh.christuniversity.in"
+  },
+  {
+    "id": "b43f2f75-eb22-4c32-b59b-7659ea46431b",
+    "regNo": "2511538",
+    "name": "KHUSHI PATEL",
+    "class": "1BCOMSF",
+    "gender": "FEMALE",
+    "email": "khushi.patel@bcomsfh.christuniversity.in"
+  },
+  {
+    "id": "9f8cac2a-6525-4d15-820b-460002258754",
+    "regNo": "2511539",
+    "name": "KHUSHII REDDY",
+    "class": "1BCOMSF",
+    "gender": "FEMALE",
+    "email": "khushii.reddy@bcomsfh.christuniversity.in"
+  },
+  {
+    "id": "024f97d9-70c8-4507-a446-b16fe68a791c",
+    "regNo": "2511540",
+    "name": "KINJAL MAHESHWARI",
+    "class": "1BCOMSF",
+    "gender": "FEMALE",
+    "email": "kinjal.maheshwari@bcomsfh.christuniversity.in"
+  },
+  {
+    "id": "1f6c7e01-b7f6-46a1-a4f0-48cccaa9bb5c",
+    "regNo": "2511541",
+    "name": "KISHNAV KANDHARI",
+    "class": "1BCOMSF",
+    "gender": "MALE",
+    "email": "kishnav.kandhari@bcomsfh.christuniversity.in"
+  },
+  {
+    "id": "b558adcc-af5d-4972-981f-cfab2660d107",
+    "regNo": "2511542",
+    "name": "KUSHAGRA HEMANT KULKARNI",
+    "class": "1BCOMSF",
+    "gender": "MALE",
+    "email": "kushagra.kulkarni@bcomsfh.christuniversity.in"
+  },
+  {
+    "id": "c3e5164e-b699-4f28-a2cc-f0692686478e",
+    "regNo": "2511543",
+    "name": "MAANYA NANDEESH",
+    "class": "1BCOMSF",
+    "gender": "FEMALE",
+    "email": "maanya.nandeesh@bcomsfh.christuniversity.in"
+  },
+  {
+    "id": "bcc16d79-5bac-46fd-a70f-b8ef439997bf",
+    "regNo": "2511544",
+    "name": "MABEL MARIAM MATHEW",
+    "class": "1BCOMSF",
+    "gender": "FEMALE",
+    "email": "mabel.mathew@bcomsfh.christuniversity.in"
+  },
+  {
+    "id": "3ac0324e-afcd-4f94-bbde-d6267826144e",
+    "regNo": "2511545",
+    "name": "MANOGNA CHEMBETI",
+    "class": "1BCOMSF",
+    "gender": "FEMALE",
+    "email": "manogna.chembeti@bcomsfh.christuniversity.in"
+  },
+  {
+    "id": "2cbf8ec7-5068-457c-b49c-244b78f84498",
+    "regNo": "2511546",
+    "name": "MANSOOR AHMED SHARIFF",
+    "class": "1BCOMSF",
+    "gender": "MALE",
+    "email": "mansoor.shariff@bcomsfh.christuniversity.in"
+  },
+  {
+    "id": "c9c73351-03de-4df0-a617-7e4942a4c50d",
+    "regNo": "2511547",
+    "name": "MARIAM FATHIMA",
+    "class": "1BCOMSF",
+    "gender": "FEMALE",
+    "email": "mariam.fathima@bcomsfh.christuniversity.in"
+  },
+  {
+    "id": "ed79a421-11f5-4764-9f9c-93d3576bca77",
+    "regNo": "2511548",
+    "name": "MEGHA N",
+    "class": "1BCOMSF",
+    "gender": "FEMALE",
+    "email": "megha.n@bcomsfh.christuniversity.in"
+  },
+  {
+    "id": "21a126e8-5d48-4e1c-8e6d-23a3402bc244",
+    "regNo": "2511549",
+    "name": "N SWARA",
+    "class": "1BCOMSF",
+    "gender": "FEMALE",
+    "email": "n.swara@bcomsfh.christuniversity.in"
+  },
+  {
+    "id": "42c9f8e7-770f-41d3-bc8c-2f134f36ef8e",
+    "regNo": "2511550",
+    "name": "NANDINI KHEMKA",
+    "class": "1BCOMSF",
+    "gender": "FEMALE",
+    "email": "nandini.khemka@bcomsfh.christuniversity.in"
+  },
+  {
+    "id": "06ad2e89-4153-472a-a609-bbda67a4cfa4",
+    "regNo": "2511551",
+    "name": "NIDESH SHARMA",
+    "class": "1BCOMSF",
+    "gender": "MALE",
+    "email": "nidesh.sharma@bcomsfh.christuniversity.in"
+  },
+  {
+    "id": "4e190401-03b1-47f3-8f50-3ddc0833c67f",
+    "regNo": "2511552",
+    "name": "NIHAR SAJAN",
+    "class": "1BCOMSF",
+    "gender": "MALE",
+    "email": "nihar.sajan@bcomsfh.christuniversity.in"
+  },
+  {
+    "id": "dc004129-31f0-4fdc-998a-80d7b8ca8818",
+    "regNo": "2511553",
+    "name": "NIVA AGARWAL",
+    "class": "1BCOMSF",
+    "gender": "FEMALE",
+    "email": "niva.agarwal@bcomsfh.christuniversity.in"
+  },
+  {
+    "id": "771e4ba8-5140-4c51-9301-aec32f0b2a4a",
+    "regNo": "2511554",
+    "name": "PARTH BHAWANI",
+    "class": "1BCOMSF",
+    "gender": "MALE",
+    "email": "parth.bhawani@bcomsfh.christuniversity.in"
+  },
+  {
+    "id": "62d40381-5109-45ad-bf59-b19564abccd8",
+    "regNo": "2511555",
+    "name": "PIYUSH MAZUMDAR",
+    "class": "1BCOMSF",
+    "gender": "MALE",
+    "email": "piyush.mazumdar@bcomsfh.christuniversity.in"
+  },
+  {
+    "id": "d6aa0bea-b619-4024-8d47-94f619b88a24",
+    "regNo": "2511556",
+    "name": "PRAKRUTHI ANIL KUMAR SHINDAGI",
+    "class": "1BCOMSF",
+    "gender": "FEMALE",
+    "email": "prakruthi.shindagi@bcomsfh.christuniversity.in"
+  },
+  {
+    "id": "0a04274b-4bcb-49e5-9a46-d68977aeff15",
+    "regNo": "2511557",
+    "name": "PRANAY P",
+    "class": "1BCOMSF",
+    "gender": "MALE",
+    "email": "pranay.p@bcomsfh.christuniversity.in"
+  },
+  {
+    "id": "0d72fa19-89be-4331-b955-2f630d798596",
+    "regNo": "2511406",
+    "name": "ANTRIZA MARIA CHERIAN",
+    "class": "1BCOMF&I B",
+    "gender": "FEMALE",
+    "email": "antriza.cherian@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "fefe6a14-ff48-4c2b-a73a-64ff3e197985",
+    "regNo": "2511407",
+    "name": "ANUSHKA AGARWAL",
+    "class": "1BCOMF&I B",
+    "gender": "FEMALE",
+    "email": "anushka.agarwal@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "c39f44db-7933-4201-9008-cf7e220b2614",
+    "regNo": "2511409",
+    "name": "ARJUN MISHRA",
+    "class": "1BCOMF&I B",
+    "gender": "MALE",
+    "email": "arjun.mishra@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "94bac549-88be-4403-a794-3eaaffb0f15e",
+    "regNo": "2511410",
+    "name": "ARJUN SUNNYMON",
+    "class": "1BCOMF&I B",
+    "gender": "MALE",
+    "email": "arjun.sunnymon@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "fc610330-f7da-49d3-86a1-2c88f31d7b87",
+    "regNo": "2511411",
+    "name": "ARNAV SHAFEEKH MANOORAYIL",
+    "class": "1BCOMF&I B",
+    "gender": "MALE",
+    "email": "arnav.manoorayil@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "d481f5a6-661f-493e-822d-983aa7f59db2",
+    "regNo": "2511412",
+    "name": "ARYAN ANESH NEELANGAL",
+    "class": "1BCOMF&I B",
+    "gender": "MALE",
+    "email": "aryan.neelangal@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "204b59e0-97c8-45a4-8298-ac9558780229",
+    "regNo": "2511413",
+    "name": "ATHUL JOSEPH TINTU",
+    "class": "1BCOMF&I B",
+    "gender": "MALE",
+    "email": "athul.tintu@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "daa8078a-7c96-4b7d-9712-7735168ac541",
+    "regNo": "2511414",
+    "name": "AYRA GOEL",
+    "class": "1BCOMF&I B",
+    "gender": "FEMALE",
+    "email": "ayra.goel@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "42c66dd0-72f8-43e3-be37-be79f487c6ae",
+    "regNo": "2511415",
+    "name": "BUDDIGA SAIRAM",
+    "class": "1BCOMF&I B",
+    "gender": "MALE",
+    "email": "buddiga.sairam@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "8e436110-3c71-4a78-b8c8-0be281a9eb94",
+    "regNo": "2511416",
+    "name": "CHETAN JAJODIA",
+    "class": "1BCOMF&I B",
+    "gender": "MALE",
+    "email": "chetan.jajodia@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "8cb30c93-0daf-41cd-afae-aa085d54a32f",
+    "regNo": "2511417",
+    "name": "DARSHAN BHANDARI",
+    "class": "1BCOMF&I B",
+    "gender": "MALE",
+    "email": "darshan.bhandari@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "e5522dd1-5a03-4568-b17d-2ccea99db771",
+    "regNo": "2511418",
+    "name": "DHANESH",
+    "class": "1BCOMF&I B",
+    "gender": "MALE",
+    "email": "dhanesh@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "a9fd0ab9-919d-415d-bfba-c8bb3106cff3",
+    "regNo": "2511419",
+    "name": "DHRUV SUJAYENDRA DALI",
+    "class": "1BCOMF&I B",
+    "gender": "MALE",
+    "email": "dhruv.dali@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "3585cff3-2311-4518-a824-aa1dd150b5e2",
+    "regNo": "2511420",
+    "name": "DIMPLE REDDY GIRISH",
+    "class": "1BCOMF&I B",
+    "gender": "FEMALE",
+    "email": "dimple.girish@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "36960e16-d8e9-4f8e-bc9a-d51e9991701f",
+    "regNo": "2511421",
+    "name": "DIVYASHREE KARTHIKEYAN",
+    "class": "1BCOMF&I B",
+    "gender": "FEMALE",
+    "email": "divyashree.karthikeyan@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "a7d29cdf-9fac-48aa-90f4-c452346365d2",
+    "regNo": "2511422",
+    "name": "GIVISH KAPOOR",
+    "class": "1BCOMF&I B",
+    "gender": "MALE",
+    "email": "givish.kapoor@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "58447830-5774-4590-9d05-f82ffbd2b7d5",
+    "regNo": "2511423",
+    "name": "HARRY V CHERIAN",
+    "class": "1BCOMF&I B",
+    "gender": "MALE",
+    "email": "harry.cherian@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "bba1d622-8bd9-4fa5-b04b-cbc3fd5dfdd6",
+    "regNo": "2511424",
+    "name": "HEMANYA A BAJAJ",
+    "class": "1BCOMF&I B",
+    "gender": "MALE",
+    "email": "hemanya.bajaj@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "33482b6b-19fb-4b16-ab8a-665b3b4baf40",
+    "regNo": "2511425",
+    "name": "HITANSH R JAIN",
+    "class": "1BCOMF&I B",
+    "gender": "MALE",
+    "email": "hitansh.jain@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "b82aceda-8e1b-44ea-8917-9c6be4de6f00",
+    "regNo": "2511426",
+    "name": "JOEL SAJI",
+    "class": "1BCOMF&I B",
+    "gender": "MALE",
+    "email": "joel.saji@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "f9351919-df1f-41f3-87c3-5e8e91dc9420",
+    "regNo": "2511427",
+    "name": "JOHIT J SEBIN",
+    "class": "1BCOMF&I B",
+    "gender": "MALE",
+    "email": "johit.sebin@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "cfb070c3-efe7-4995-ba3e-eba3a8888d92",
+    "regNo": "2511428",
+    "name": "KOTHILMOZHI R",
+    "class": "1BCOMF&I B",
+    "gender": "FEMALE",
+    "email": "kothilmozhi.r@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "44e2cfc2-5bcb-418b-bdf8-77d302ee845b",
+    "regNo": "2511429",
+    "name": "KRITIKA AGARWAL",
+    "class": "1BCOMF&I B",
+    "gender": "FEMALE",
+    "email": "kritika.agarwal@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "3fe3e93d-80aa-4725-86de-1b34c45c317e",
+    "regNo": "2511430",
+    "name": "KRUPA PURANIK",
+    "class": "1BCOMF&I B",
+    "gender": "FEMALE",
+    "email": "krupa.puranik@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "6eb3c06b-0e39-401c-a292-d3c422524b6b",
+    "regNo": "2511431",
+    "name": "KUSHAAL KARTHIK",
+    "class": "1BCOMF&I B",
+    "gender": "MALE",
+    "email": "kushaal.karthik@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "575c72b5-4079-4e70-9eef-cbc90528efa4",
+    "regNo": "2511432",
+    "name": "M K YUGHAL",
+    "class": "1BCOMF&I B",
+    "gender": "MALE",
+    "email": "mk.yughal@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "763a2ad5-c12b-4714-b6d1-2b557a5c584d",
+    "regNo": "2511433",
+    "name": "MANSI DWIVEDI",
+    "class": "1BCOMF&I B",
+    "gender": "FEMALE",
+    "email": "mansi.dwivedi@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "e8fccc79-dfe1-4592-afef-842cda991948",
+    "regNo": "2511434",
+    "name": "MANVI PODDAR",
+    "class": "1BCOMF&I B",
+    "gender": "FEMALE",
+    "email": "manvi.poddar@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "b81c5fae-7139-42a1-9f5c-f532069a86b6",
+    "regNo": "2511435",
+    "name": "MAYANK GOYAL",
+    "class": "1BCOMF&I B",
+    "gender": "MALE",
+    "email": "mayank.goyal@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "a2cce652-6250-4244-8fc2-de75ed88331e",
+    "regNo": "2511436",
+    "name": "MILBORNE FERNANDES",
+    "class": "1BCOMF&I B",
+    "gender": "MALE",
+    "email": "milborne.fernandes@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "237a45b3-df7f-44ca-93ff-9fe9062ad898",
+    "regNo": "2511437",
+    "name": "MOKSHYA BEGWANI",
+    "class": "1BCOMF&I B",
+    "gender": "MALE",
+    "email": "mokshya.begwani@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "8cf1544d-d2fd-4c6e-8a2a-61d6a5cb982d",
+    "regNo": "2511438",
+    "name": "NANDITA RAVINDRA",
+    "class": "1BCOMF&I B",
+    "gender": "FEMALE",
+    "email": "nandita.ravindra@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "8e379c42-54d5-4417-aa4a-1e6f2722b546",
+    "regNo": "2511439",
+    "name": "NEIL S THOMAS",
+    "class": "1BCOMF&I B",
+    "gender": "MALE",
+    "email": "neil.thomas@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "cd77cfcb-3285-45f0-a60f-e50f01dc3f91",
+    "regNo": "2511440",
+    "name": "NEIL SHETTY",
+    "class": "1BCOMF&I B",
+    "gender": "MALE",
+    "email": "neil.shetty@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "c8673898-e864-410d-9b7b-b9fc93735e2a",
+    "regNo": "2511441",
+    "name": "NEZA AMNA V",
+    "class": "1BCOMF&I B",
+    "gender": "FEMALE",
+    "email": "neza.v@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "f26ecede-7856-4768-8e2a-2d1d2afcfddd",
+    "regNo": "2511442",
+    "name": "NIKHIL MANOJKUMAR JAIN",
+    "class": "1BCOMF&I B",
+    "gender": "MALE",
+    "email": "nikhil.jain@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "7567a106-6997-4f93-a95d-78e839847ddd",
+    "regNo": "2511443",
+    "name": "NOEL BINU",
+    "class": "1BCOMF&I B",
+    "gender": "MALE",
+    "email": "noel.binu@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "e0db8206-7ee2-4c02-96fc-9c36d977c496",
+    "regNo": "2511444",
+    "name": "OMISHA SINGH",
+    "class": "1BCOMF&I B",
+    "gender": "FEMALE",
+    "email": "omisha.singh@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "34fa9fbe-53a7-4191-a555-64bc20988596",
+    "regNo": "2511445",
+    "name": "PARTH JAIN",
+    "class": "1BCOMF&I B",
+    "gender": "MALE",
+    "email": "parth.jain@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "12eaf3d6-421c-4bc7-b4e6-a2090a7ea756",
+    "regNo": "2511446",
+    "name": "PRACHI MARLECHA",
+    "class": "1BCOMF&I B",
+    "gender": "FEMALE",
+    "email": "prachi.marlecha@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "4e1018d1-f8aa-4252-99b6-43341d4729b9",
+    "regNo": "2511447",
+    "name": "RAGHAV BHASKAR",
+    "class": "1BCOMF&I B",
+    "gender": "MALE",
+    "email": "raghav.bhaskar@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "fb8ca7da-4e49-4726-9c56-3fb27ceb5ed9",
+    "regNo": "2511449",
+    "name": "RHEA COELHO",
+    "class": "1BCOMF&I B",
+    "gender": "FEMALE",
+    "email": "rhea.coelho@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "b1b8fcdd-29d0-4076-9768-051e602ce611",
+    "regNo": "2511450",
+    "name": "RISHWANTH SUBRAMANIAM",
+    "class": "1BCOMF&I B",
+    "gender": "MALE",
+    "email": "rishwanth.subramaniam@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "cdd0aa6a-bddf-4c5d-a47f-304f215bec5a",
+    "regNo": "2511451",
+    "name": "RITHIKA SASIKUMAR",
+    "class": "1BCOMF&I B",
+    "gender": "FEMALE",
+    "email": "rithika.sasikumar@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "5c8f8e76-363d-42dc-9aa1-28b93ecd462d",
+    "regNo": "2511452",
+    "name": "RITHWIK JINCE THAYIL",
+    "class": "1BCOMF&I B",
+    "gender": "MALE",
+    "email": "rithwik.thayil@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "bf5b04eb-5d7f-4580-9229-2810fd885a94",
+    "regNo": "2511453",
+    "name": "S AKSHAYA",
+    "class": "1BCOMF&I B",
+    "gender": "FEMALE",
+    "email": "s.akshaya@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "26d4495c-dea8-49fa-a3d9-fc74ecff527c",
+    "regNo": "2511454",
+    "name": "SALMAN MANAF",
+    "class": "1BCOMF&I B",
+    "gender": "MALE",
+    "email": "salman.manaf@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "0b52f3b4-3892-458b-a268-8967d789779b",
+    "regNo": "2511455",
+    "name": "SAMAIRA ANAND",
+    "class": "1BCOMF&I B",
+    "gender": "FEMALE",
+    "email": "samaira.anand@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "71c6d8cc-0f2c-4c8b-8e91-2579cf347001",
+    "regNo": "2511456",
+    "name": "SHABARISH M",
+    "class": "1BCOMF&I B",
+    "gender": "MALE",
+    "email": "shabarish.m@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "8b918ba7-09de-49b4-b1a3-e2b4e9cb82e7",
+    "regNo": "2511457",
+    "name": "SHIVAM RISHI DIWAN",
+    "class": "1BCOMF&I B",
+    "gender": "MALE",
+    "email": "shivam.diwan@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "2c0d41e8-a48c-4f98-b77b-f8396c617076",
+    "regNo": "2511458",
+    "name": "SIDDHARTH DEEPAK KHODANI",
+    "class": "1BCOMF&I B",
+    "gender": "MALE",
+    "email": "siddharth.khodani@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "bca47e20-e13c-4a1b-b67b-e7b8f6738cf2",
+    "regNo": "2511459",
+    "name": "SIDDHARTH SHANKAR",
+    "class": "1BCOMF&I B",
+    "gender": "MALE",
+    "email": "siddharth.shankar@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "d0b9f81f-af66-479b-815d-ffcb5b24ffe4",
+    "regNo": "2511460",
+    "name": "SOMIRON BORGOHAIN",
+    "class": "1BCOMF&I B",
+    "gender": "MALE",
+    "email": "somiron.borgohain@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "d30eb851-7182-4293-92a1-ed7eea6ed1ed",
+    "regNo": "2511461",
+    "name": "SUJITH DIYAN JAIN",
+    "class": "1BCOMF&I B",
+    "gender": "MALE",
+    "email": "sujith.jain@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "7b406de9-cd2b-467c-a6c5-4dc8ff5781e1",
+    "regNo": "2511462",
+    "name": "TARUN BALA CHITOOR",
+    "class": "1BCOMF&I B",
+    "gender": "MALE",
+    "email": "tarun.chitoor@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "b393b95a-0446-44de-81f5-fc63034efe3a",
+    "regNo": "2511463",
+    "name": "TEJAS SHIBU VALIYAKALAYIL",
+    "class": "1BCOMF&I B",
+    "gender": "MALE",
+    "email": "tejas.valiyakalayil@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "c0c6d21d-3c2f-4435-af9f-35696bcbe6ed",
+    "regNo": "2511464",
+    "name": "TONY JAIJO",
+    "class": "1BCOMF&I B",
+    "gender": "MALE",
+    "email": "tony.jaijo@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "57365168-7c9e-466f-a87e-37ada484628f",
+    "regNo": "2511465",
+    "name": "TUSHAR GUPTA",
+    "class": "1BCOMF&I B",
+    "gender": "MALE",
+    "email": "tushar.gupta@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "9b9d6b33-3cdd-4ecf-ab1b-2a4431286444",
+    "regNo": "2511466",
+    "name": "TVISHA KOHLI",
+    "class": "1BCOMF&I B",
+    "gender": "FEMALE",
+    "email": "tvisha.kohli@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "c68edfbe-9650-458b-8116-57a71a5f8b9c",
+    "regNo": "2511467",
+    "name": "VATSAL AGARWAL",
+    "class": "1BCOMF&I B",
+    "gender": "MALE",
+    "email": "vatsal.agarwal@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "e91149a6-1a89-4802-98a1-3cf081a6ed18",
+    "regNo": "2511468",
+    "name": "VEDHADRI GADDE",
+    "class": "1BCOMF&I B",
+    "gender": "MALE",
+    "email": "vedhadri.gadde@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "0f42c541-6f5b-44a6-986b-c1b772811bd4",
+    "regNo": "2511469",
+    "name": "VENKATA SURYA HAYATI PODUGU",
+    "class": "1BCOMF&I B",
+    "gender": "FEMALE",
+    "email": "venkata.podugu@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "e7274d52-7b56-4527-898a-4e504c0382fb",
+    "regNo": "2511470",
+    "name": "VIDHI S JAIN",
+    "class": "1BCOMF&I B",
+    "gender": "FEMALE",
+    "email": "vidhi.jain@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "ad2f0f64-6648-492a-9ae2-7d6cb39644e3",
+    "regNo": "2511471",
+    "name": "VIVAAN GUPTA",
+    "class": "1BCOMF&I B",
+    "gender": "MALE",
+    "email": "vivaan.gupta@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "c4faf952-7edb-4ea6-bb88-63c8b9d133d6",
+    "regNo": "2511472",
+    "name": "YESHWANT RADEV S P",
+    "class": "1BCOMF&I B",
+    "gender": "MALE",
+    "email": "yeshwant.sp@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "bc355d36-5a09-456f-bc69-ea9435529ca5",
+    "regNo": "2511473",
+    "name": "YOSHITHA CHADA",
+    "class": "1BCOMF&I B",
+    "gender": "FEMALE",
+    "email": "yoshitha.chada@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "02e17fd2-12c5-4f25-a697-6026642f18c1",
+    "regNo": "2511474",
+    "name": "PRAGNA P RAJU",
+    "class": "1BCOMF&I B",
+    "gender": "FEMALE",
+    "email": "pragna.raju@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "373f3313-56bb-4368-9699-65b6d64c7107",
+    "regNo": "2511475",
+    "name": "R CHANDAN GANIG",
+    "class": "1BCOMF&I B",
+    "gender": "MALE",
+    "email": "chandan.ganig@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "c8b6efbb-573b-4a34-9d7b-86584beb7880",
+    "regNo": "2511476",
+    "name": "IVANA CHRISTINA RAVURI",
+    "class": "1BCOMF&I B",
+    "gender": "FEMALE",
+    "email": "ivanachristina.ravuri@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "03e13adc-b4b9-4175-b816-71c47686ac9c",
+    "regNo": "2511477",
+    "name": "HEMAKESH REDDY V",
+    "class": "1BCOMF&I B",
+    "gender": "MALE",
+    "email": "hemakesh.reddy@bcomfih.christuniversity.in"
+  },
+  {
+    "id": "456ff691-b8b8-499e-8caf-2c2f22e6e9e8",
+    "regNo": "2511501",
+    "name": "AADITYA J RAJA",
+    "class": "1BCOMSF",
+    "gender": "MALE",
+    "email": "aaditya.raja@bcomsfh.christuniversity.in"
+  },
+  {
+    "id": "a6900129-6e3d-41f1-88f6-8b0be67e931a",
+    "regNo": "2511502",
+    "name": "AARUSHI SINHA",
+    "class": "1BCOMSF",
+    "gender": "FEMALE",
+    "email": "aarushi.sinha@bcomsfh.christuniversity.in"
+  },
+  {
+    "id": "7e32cef2-7562-4b9a-be82-d6d1153c29c0",
+    "regNo": "2511503",
+    "name": "AARYAN KHANNA",
+    "class": "1BCOMSF",
+    "gender": "MALE",
+    "email": "aaryan.khanna@bcomsfh.christuniversity.in"
+  },
+  {
+    "id": "210287b8-fffc-4273-929c-7712699163ed",
+    "regNo": "2511558",
+    "name": "PRANJAL JAIN",
+    "class": "1BCOMSF",
+    "gender": "FEMALE",
+    "email": "pranjal.jain@bcomsfh.christuniversity.in"
+  },
+  {
+    "id": "d8fceba7-2a07-4c93-85b1-29a7be068eaa",
+    "regNo": "2511560",
+    "name": "PRIYANSHI DOBHAL",
+    "class": "1BCOMSF",
+    "gender": "FEMALE",
+    "email": "priyanshi.dobhal@bcomsfh.christuniversity.in"
+  },
+  {
+    "id": "042bf871-d8f2-4102-8870-cfadf106173b",
+    "regNo": "2511561",
+    "name": "REANNO JOSE BERNARDO GALDINO DE SOUZA",
+    "class": "1BCOMSF",
+    "gender": "MALE",
+    "email": "reanno.souza@bcomsfh.christuniversity.in"
+  },
+  {
+    "id": "e1c430c0-1b2f-48a9-a518-77b655b512b4",
+    "regNo": "2511562",
+    "name": "RHYTHM AGARWAL",
+    "class": "1BCOMSF",
+    "gender": "MALE",
+    "email": "rhythm.agarwal@bcomsfh.christuniversity.in"
+  },
+  {
+    "id": "c40d8575-7588-467d-8876-370875e282ec",
+    "regNo": "2511563",
+    "name": "RISHIT AMEET SURATKAR",
+    "class": "1BCOMSF",
+    "gender": "MALE",
+    "email": "rishit.suratkar@bcomsfh.christuniversity.in"
+  },
+  {
+    "id": "9ec923bd-c4c5-468b-a705-f71ccf24245a",
+    "regNo": "2511564",
+    "name": "ROHAN JACOB PYNUMMOOTTIL",
+    "class": "1BCOMSF",
+    "gender": "MALE",
+    "email": "rohan.pynummoottil@bcomsfh.christuniversity.in"
+  },
+  {
+    "id": "3cdb73ad-a8e4-4151-8af8-4331b54786ac",
+    "regNo": "2511565",
+    "name": "S SAHASVATH",
+    "class": "1BCOMSF",
+    "gender": "MALE",
+    "email": "s.sahasvath@bcomsfh.christuniversity.in"
+  },
+  {
+    "id": "b055aebc-3e58-4f6e-a51c-a8a3bd800885",
+    "regNo": "2511566",
+    "name": "SERA SABU C",
+    "class": "1BCOMSF",
+    "gender": "FEMALE",
+    "email": "sera.c@bcomsfh.christuniversity.in"
+  },
+  {
+    "id": "d282428c-8989-4744-80b9-d016b2f211fb",
+    "regNo": "2511567",
+    "name": "SHADHA SAJID",
+    "class": "1BCOMSF",
+    "gender": "FEMALE",
+    "email": "shadha.sajid@bcomsfh.christuniversity.in"
+  },
+  {
+    "id": "ed9e273b-1e84-415b-87c3-c996e51f2906",
+    "regNo": "2511568",
+    "name": "SHIVANI A J",
+    "class": "1BCOMSF",
+    "gender": "FEMALE",
+    "email": "shivani.aj@bcomsfh.christuniversity.in"
+  },
+  {
+    "id": "c45c6eaa-4366-4f7d-b790-a61af4cfb512",
+    "regNo": "2511569",
+    "name": "SHIVEDH R S",
+    "class": "1BCOMSF",
+    "gender": "MALE",
+    "email": "shivedh.rs@bcomsfh.christuniversity.in"
+  },
+  {
+    "id": "368ef6b6-8dfe-4a5a-a8a1-458bce97a801",
+    "regNo": "2511570",
+    "name": "SHWETA KAUSHAL",
+    "class": "1BCOMSF",
+    "gender": "FEMALE",
+    "email": "shweta.kaushal@bcomsfh.christuniversity.in"
+  },
+  {
+    "id": "f46a3245-e239-4947-809e-1d6938b16a1c",
+    "regNo": "2511571",
+    "name": "SONIT SARAF",
+    "class": "1BCOMSF",
+    "gender": "MALE",
+    "email": "sonit.saraf@bcomsfh.christuniversity.in"
+  },
+  {
+    "id": "800c6bb6-5451-412f-81e8-a574517dbdb2",
+    "regNo": "2511572",
+    "name": "STUTI MALIK",
+    "class": "1BCOMSF",
+    "gender": "FEMALE",
+    "email": "stuti.malik@bcomsfh.christuniversity.in"
+  },
+  {
+    "id": "9c6e34f0-0b34-4ded-b40d-0b4ca5b7e827",
+    "regNo": "2511573",
+    "name": "SUDEEKSHA H R",
+    "class": "1BCOMSF",
+    "gender": "FEMALE",
+    "email": "sudeeksha.hr@bcomsfh.christuniversity.in"
+  },
+  {
+    "id": "68bb5d87-03df-401d-a099-9bf775fe44bc",
+    "regNo": "2511574",
+    "name": "SUKHJYOT SINGH SRAN",
+    "class": "1BCOMSF",
+    "gender": "MALE",
+    "email": "sukhjyot.sran@bcomsfh.christuniversity.in"
+  },
+  {
+    "id": "50b791b4-a4cb-4149-8f53-ce71341bd755",
+    "regNo": "2511575",
+    "name": "SUMEET BANTHIA",
+    "class": "1BCOMSF",
+    "gender": "MALE",
+    "email": "sumeet.banthia@bcomsfh.christuniversity.in"
+  },
+  {
+    "id": "f82ec7c8-6c45-43e7-8838-c7ad5dc9e043",
+    "regNo": "2511576",
+    "name": "SURAJIT MITRA",
+    "class": "1BCOMSF",
+    "gender": "MALE",
+    "email": "surajit.mitra@bcomsfh.christuniversity.in"
+  },
+  {
+    "id": "e63f8ec1-124e-4bae-bb24-18f1230fcf89",
+    "regNo": "2511577",
+    "name": "SURYAPRAKASH KAMALANATHAN RAJATHI",
+    "class": "1BCOMSF",
+    "gender": "MALE",
+    "email": "suryaprakash.rajathi@bcomsfh.christuniversity.in"
+  },
+  {
+    "id": "3e420688-0ed1-4917-8d13-87a4f89b3020",
+    "regNo": "2511578",
+    "name": "SYNA MEHTA",
+    "class": "1BCOMSF",
+    "gender": "FEMALE",
+    "email": "syna.mehta@bcomsfh.christuniversity.in"
+  },
+  {
+    "id": "5486c2cb-ce6e-465d-9aac-ac885da96541",
+    "regNo": "2511579",
+    "name": "T SHASHWATH",
+    "class": "1BCOMSF",
+    "gender": "MALE",
+    "email": "t.shashwath@bcomsfh.christuniversity.in"
+  },
+  {
+    "id": "f7d4d16b-b171-43d3-9aa3-1dd24a90f6bc",
+    "regNo": "2511580",
+    "name": "TANYA MARIA TIJU",
+    "class": "1BCOMSF",
+    "gender": "FEMALE",
+    "email": "tanya.tiju@bcomsfh.christuniversity.in"
+  },
+  {
+    "id": "30f294a0-1d09-49c7-87c5-7d1166b05927",
+    "regNo": "2511581",
+    "name": "TECIA JOHNSON",
+    "class": "1BCOMSF",
+    "gender": "FEMALE",
+    "email": "tecia.johnson@bcomsfh.christuniversity.in"
+  },
+  {
+    "id": "64e66e74-dc7b-4374-a7d7-8f4c62b110fa",
+    "regNo": "2511582",
+    "name": "TITHI MAJI",
+    "class": "1BCOMSF",
+    "gender": "FEMALE",
+    "email": "tithi.maji@bcomsfh.christuniversity.in"
+  },
+  {
+    "id": "88b5a351-698f-4853-835c-f840e038a8b8",
+    "regNo": "2511583",
+    "name": "VAISHNAVI VIVEKANAND",
+    "class": "1BCOMSF",
+    "gender": "FEMALE",
+    "email": "vaishnavi.vivekanand@bcomsfh.christuniversity.in"
+  },
+  {
+    "id": "95afc8a0-17b0-40ee-85be-55c1f213db8c",
+    "regNo": "2511584",
+    "name": "VARUNESH S",
+    "class": "1BCOMSF",
+    "gender": "MALE",
+    "email": "varunesh.s@bcomsfh.christuniversity.in"
+  },
+  {
+    "id": "691e9ef8-d885-4c61-b7ac-bed46b6820a7",
+    "regNo": "2511585",
+    "name": "VIBHAV NARAYANAN K",
+    "class": "1BCOMSF",
+    "gender": "MALE",
+    "email": "vibhav.k@bcomsfh.christuniversity.in"
+  },
+  {
+    "id": "07a3e8eb-5382-441f-ad97-28bc55edd9c5",
+    "regNo": "2511586",
+    "name": "VIDYUT EKANTHAN",
+    "class": "1BCOMSF",
+    "gender": "MALE",
+    "email": "vidyut.ekanthan@bcomsfh.christuniversity.in"
+  },
+  {
+    "id": "67d1b018-4560-4f3a-89d6-87e1d7e5cc89",
+    "regNo": "2511587",
+    "name": "VRISHTI BHATIA",
+    "class": "1BCOMSF",
+    "gender": "FEMALE",
+    "email": "vrishti.bhatia@bcomsfh.christuniversity.in"
+  },
+  {
+    "id": "23cfbaea-1669-45d4-87a1-f84f38643723",
+    "regNo": "2511588",
+    "name": "YASHAS GOEL",
+    "class": "1BCOMSF",
+    "gender": "MALE",
+    "email": "yashas.goel@bcomsfh.christuniversity.in"
+  },
+  {
+    "id": "620e3426-04b5-4d6f-923d-b903c185d8bc",
+    "regNo": "2511589",
+    "name": "YASHASH JAIN",
+    "class": "1BCOMSF",
+    "gender": "MALE",
+    "email": "yashash.jain@bcomsfh.christuniversity.in"
+  },
+  {
+    "id": "c3729111-8541-438a-9630-8e72aa9a81ce",
+    "regNo": "2511590",
+    "name": "YATHIRAJ L",
+    "class": "1BCOMSF",
+    "gender": "MALE",
+    "email": "yathiraj.l@bcomsfh.christuniversity.in"
+  },
+  {
+    "id": "0f474935-c540-4ec4-b1ad-2ec841d6b313",
+    "regNo": "2511591",
+    "name": "YUG JAIN",
+    "class": "1BCOMSF",
+    "gender": "MALE",
+    "email": "yug.jain@bcomsfh.christuniversity.in"
+  },
+  {
+    "id": "6dc17bcb-2e97-44d0-bece-f89f23e30a93",
+    "regNo": "2511592",
+    "name": "YUKTI KAPOOR",
+    "class": "1BCOMSF",
+    "gender": "FEMALE",
+    "email": "yukti.kapoor@bcomsfh.christuniversity.in"
+  }
+]
