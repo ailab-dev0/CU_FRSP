@@ -98,10 +98,7 @@ export function AttendanceScoreBar({ data, title }: AttendanceScoreBarProps) {
                 borderRadius: '12px',
                 boxShadow: '0 4px 24px rgba(0, 0, 0, 0.12)',
               }}
-              formatter={(value: number, name: string) => {
-                if (name === 'avgScore') return [value.toFixed(1), 'Avg Score'];
-                return [value, name];
-              }}
+              formatter={(value) => [Number(value).toFixed(1), 'Avg Score']}
             />
             <Bar dataKey="avgScore" fill="#34c759" radius={[6, 6, 0, 0]} />
           </BarChart>

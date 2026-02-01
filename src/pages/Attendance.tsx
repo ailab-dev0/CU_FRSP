@@ -266,50 +266,6 @@ export function Attendance() {
     return num - base;
   };
 
-  // Student attendance stats
-  const studentStats = useMemo(() => {
-    if (!selectedAttendanceBatch || !batchData || sectionStudents.length === 0) return [];
-
-    // Sort students by register number
-    const sortedStudents = [...sectionStudents].sort((a, b) =>
-      a.regNo.localeCompare(b.regNo)
-    );
-
-    return sortedStudents.map((student) => {
-      // Extract roll number from register number
-      const roll = getRollFromRegNo(student.regNo, student.section);
-      let totalSessions = 0;
-      let absentSessions = 0;
-
-      const days: Record<string, { present: number; absent: number; total: number }> = {};
-
-      dailyStats.forEach(day => {
-        const dayTotalSessions = day.sessions.length;
-        const dayAbsentSessions = day.sessions.filter(s => s.absent.includes(roll)).length;
-        days[day.fullDate] = {
-          present: dayTotalSessions - dayAbsentSessions,
-          absent: dayAbsentSessions,
-          total: dayTotalSessions
-        };
-        totalSessions += dayTotalSessions;
-        absentSessions += dayAbsentSessions;
-      });
-
-      const presentSessions = totalSessions - absentSessions;
-      const attendanceRate = totalSessions > 0 ? (presentSessions / totalSessions) * 100 : 100;
-
-      return {
-        ...student,
-        roll,
-        totalSessions,
-        presentSessions,
-        absentSessions,
-        attendanceRate,
-        days
-      };
-    });
-  }, [selectedAttendanceBatch, batchData, sectionStudents, dailyStats]);
-
   // Detailed view student stats
   const detailedStudentStats = useMemo(() => {
     if (!detailedAttendanceBatch || !detailedBatchData || detailedSectionStudents.length === 0) return [];
