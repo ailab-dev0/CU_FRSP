@@ -14,6 +14,7 @@ interface LayoutProps {
 
 export function Layout({ children }: LayoutProps) {
   const location = useLocation();
+  const baseUrl = window.location.origin + '/CU_FRSP/';
 
   const navItems = [
     { path: '/', label: 'Dashboard' },
@@ -47,7 +48,7 @@ export function Layout({ children }: LayoutProps) {
                     </Link>
                   ))}
                 </nav>
-                <UserButton afterSignOutUrl="/" />
+                <UserButton afterSignOutUrl={baseUrl} />
               </SignedIn>
             </div>
           </div>
