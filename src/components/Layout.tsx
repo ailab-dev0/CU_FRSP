@@ -1,5 +1,7 @@
 import { Link, useLocation } from 'react-router-dom';
 import {
+  ClerkLoading,
+  ClerkLoaded,
   SignedIn,
   SignedOut,
   SignInButton,
@@ -54,24 +56,31 @@ export function Layout({ children }: LayoutProps) {
 
       {/* Main Content */}
       <main className="max-w-7xl mx-auto px-6 py-8">
-        <SignedIn>
-          {children}
-        </SignedIn>
-        <SignedOut>
-          <div className="flex flex-col items-center justify-center min-h-[60vh] text-center">
-            <h2 className="text-3xl font-semibold text-gray-900 mb-4">
-              Welcome to Cohort FRSP
-            </h2>
-            <p className="text-gray-500 mb-8 max-w-md">
-              Sign in to access the student analytics dashboard.
-            </p>
-            <SignInButton mode="modal">
-              <button className="px-6 py-3 rounded-full text-base font-medium bg-gray-900 text-white hover:bg-gray-800 transition-all">
-                Sign In
-              </button>
-            </SignInButton>
+        <ClerkLoading>
+          <div className="flex items-center justify-center min-h-[60vh]">
+            <div className="animate-spin rounded-full h-8 w-8 border-b-2 border-gray-900"></div>
           </div>
-        </SignedOut>
+        </ClerkLoading>
+        <ClerkLoaded>
+          <SignedIn>
+            {children}
+          </SignedIn>
+          <SignedOut>
+            <div className="flex flex-col items-center justify-center min-h-[60vh] text-center">
+              <h2 className="text-3xl font-semibold text-gray-900 mb-4">
+                Welcome to Cohort FRSP
+              </h2>
+              <p className="text-gray-500 mb-8 max-w-md">
+                Sign in to access the student analytics dashboard.
+              </p>
+              <SignInButton mode="modal">
+                <button className="px-6 py-3 rounded-full text-base font-medium bg-gray-900 text-white hover:bg-gray-800 transition-all">
+                  Sign In
+                </button>
+              </SignInButton>
+            </div>
+          </SignedOut>
+        </ClerkLoaded>
       </main>
     </div>
   );
